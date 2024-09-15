@@ -2767,7 +2767,7 @@ Will you participate in club activities?=Você vai participar das atividades do 
 
 The Cooking Club works together to prepare a delicious meal, and enjoys it together.=O Clube de Cozinha trabalha junto para preparar uma refeição deliciosa e a desfruta juntos.
 The Drama Club rehearses scenes for an upcoming play and shares acting tips with one another.=O Clube de Drama ensaia cenas para uma peça que se aproxima e compartilha dicas de atuação entre si.
-The Occult Club attempts to summon a demon.\r\n\r\nThey do not succeed.=O Clube do Oculto tenta invocar um demônio.\r\n\r\nEles não têm sucesso.
+The Occult Club attempts to summon a demon.\r\n\r\nThey do not succeed.=O Clube de Ocultismo tenta invocar um demônio.\r\n\r\nEles não têm sucesso.
 The Gaming Club performs a raid and successfully defeats a superboss.=O Clube de Jogos realiza um raid e derrota com sucesso um superboss.
 The Art Club creates paintings and sculptures.=O Clube de Arte cria pinturas e esculturas.
 The Martial Arts Club practices martial arts moves as the club leader shouts motivational quotes.=O Clube de Artes Marciais pratica movimentos de artes marciais enquanto o líder do clube grita citações motivacionais.
@@ -5962,273 +5962,269 @@ Osana and Kyuji share a tender kiss as sakura blossoms fall around them.=Osana e
 
 コピペ元出力
 月曜日 朝1 Senpaiと会話
-Hey, Senpai! Are you feeling any better yet?=おはよう、センパイ！気分は良くなった？
-Well...to be honest, I...still haven't gotten over what happened...=いや...正直...何が起こったのか飲み込めてないよ...
-I know something that might cheer you up! I'm running a bake sale at school today - if you drop by, I'll give you some sweets for free!=元気出して！今日は学校で模擬店をやるの。来てくれればお菓子をプレゼントするわ。
-Oh, gosh - that's way too generous. I couldn't accept food without paying for it...=ありがとう、優しいんだね。でもお金を払わずにお菓子をもらうなんて...
-Seeing you smile would be payment enough for me!=お支払いはスマイルで、なんてね！
-Haha! I have to admit, you can be pretty persuasive...=ハハ！これは一本取られちゃったな。
-So...is that a yes? Will you be visiting the bake sale?=それって...イエスってこと？模擬店に来てくれる？
-I'm not hungry right now, but I might be in the mood for it around lunchtime.=今はお腹が空いてないし、お昼ごろにお邪魔しようかな。
-Okay then, Senpai! I hope you'll have worked up a good appetite by then!=わかったわ、センパイ！それまでにお腹をしっかり空かせておいてね！
-We'll see, haha...we'll see.=そうだね、ハハハ...
-Haha - I guess we'll find out soon!=ハハ！それはもう少ししないとわからないよ！
+Hey, Senpai! Are you feeling any better yet?=Oi, Senpai! Você já está se sentindo melhor?
+Well...to be honest, I...still haven't gotten over what happened...=Bem...para ser honesto, eu...ainda não consegui superar o que aconteceu...
+I know something that might cheer you up! I'm running a bake sale at school today - if you drop by, I'll give you some sweets for free!=Eu sei de algo que pode te animar! Estou fazendo uma venda de doces na escola hoje - se você passar lá, eu te dou alguns doces de graça!
+Oh, gosh - that's way too generous. I couldn't accept food without paying for it...=Ah, nossa - isso é muito generoso. Eu não posso aceitar comida sem pagar...
+Seeing you smile would be payment enough for me!=Ver você sorrir já seria pagamento suficiente para mim!
+Haha! I have to admit, you can be pretty persuasive...=Haha! Tenho que admitir, você sabe ser bem persuasiva...
+So...is that a yes? Will you be visiting the bake sale?=Então... é um sim? Você vai passar na venda de doces?
+I'm not hungry right now, but I might be in the mood for it around lunchtime.=Não estou com fome agora, mas posso estar no clima na hora do almoço.
+Okay then, Senpai! I hope you'll have worked up a good appetite by then!=Certo então, Senpai! Espero que você esteja com bastante fome até lá!
+We'll see, haha...we'll see.=Vamos ver, haha...vamos ver.
+Haha - I guess we'll find out soon!=Haha! Acho que vamos descobrir em breve!
 
 月曜日 朝2 料理部の人たちと会話
-Hello, everyone! It's so good to see you all again!=みんな、おはよう！また会えて嬉しいわ！
-Thank you so much for agreeing to help me with the bake sale this week!=今週の模擬店に協力してくれてありがとうね！
-The plan is to bake pastries each morning in the Home Ec room...=予定では、毎朝家庭科室でお菓子を焼いて...
-...and sell them before class, during lunch, and after cleaning time!=...始業前、昼休み、放課後に売ります！
-Okay! Everybody ready? Then let's get started!=よし！準備はいい？それじゃあ始めましょう！
+Hello, everyone! It's so good to see you all again!=Olá, pessoal! É tão bom ver todos vocês novamente!
+Thank you so much for agreeing to help me with the bake sale this week!=Muito obrigada por concordarem em me ajudar com a venda de doces esta semana!
+The plan is to bake pastries each morning in the Home Ec room...=O plano é assar doces todas as manhãs na sala de Economia Doméstica...
+...and sell them before class, during lunch, and after cleaning time!=...e vendê-los antes das aulas, durante o almoço e depois do horário de limpeza!
+Okay! Everybody ready? Then let's get started!=Certo! Todo mundo pronto? Então vamos começar!
 
 月曜日 昼1a (毒を仕込まなかった場合)
-Oh! Senpai! You decided to drop by, after all!=あら、センパイ！来てくれたのね！
-Yeah! I've been hearing people praise your food all day long, so I decided to try it for myself!=うん！みんなが美味しいっていってたから、食べたくなったんだ！
-Go ahead - take your pick! Try anything that looks yummy to you!=来て！好きなのを選んで！どれでも選んで大丈夫よ！
-Hmm...whoa! This tastes really, really good! No wonder the whole school is talking about it!=うーん...わあ！これすごくすごく美味しいよ！学校中が褒めるのもうなづけるね！
-Hehe, I'm so happy to hear that you like it!=ヘヘヘ、気に入ってくれて嬉しいわ。
-So, how much do I owe you?=それで、いくら払えばいいの？
-Nothing! It's my treat - on the house!=大丈夫、私のおごりよ！
-No, I can't possibly just take your food without giving you anything in return...=いや、でもお返しもなしにお菓子をもらうなんて...
-Like I said, Senpai: the only thing I want from you...is a smile!=言ったはずよ、私はあなたの笑顔が見たいだけなの。
-...aw...you're so sweet, Amai! Thank you...I'll remember this!=...優しいね、Amai！ありがとう...このことは忘れないよ！
+Oh! Senpai! You decided to drop by, after all!=Ah, Senpai! Você decidiu passar por aqui, afinal!
+Yeah! I've been hearing people praise your food all day long, so I decided to try it for myself!=Sim! Eu ouvi todo mundo elogiando sua comida o dia todo, então decidi experimentar eu mesma!
+Go ahead - take your pick! Try anything that looks yummy to you!=Fique à vontade - escolha o que quiser! Experimente qualquer coisa que pareça gostosa para você!
+Hmm...whoa! This tastes really, really good! No wonder the whole school is talking about it!=Hmm...uau! Isso está realmente, realmente gostoso! Não é à toa que a escola inteira está falando disso!
+Hehe, I'm so happy to hear that you like it!=Hehe, estou tão feliz por você gostar!
+So, how much do I owe you?=Então, quanto eu te devo?
+Nothing! It's my treat - on the house!=Nada! É por minha conta - por conta da casa!
+No, I can't possibly just take your food without giving you anything in return...=Não, eu não posso simplesmente aceitar sua comida sem te dar nada em troca...
+Like I said, Senpai: the only thing I want from you...is a smile!=Como eu disse, Senpai: a única coisa que eu quero de você...é um sorriso!
+...aw...you're so sweet, Amai! Thank you...I'll remember this!=...ah, você é tão fofa, Amai! Obrigado...vou lembrar disso!
 
 月曜日 昼1b (毒を仕込んだ場合)
-Senpai...aren't you going to visit the bake sale?=センパイ...模擬店に来る気はない？
-...oh...Amai...I'm sorry, but...I'll pass...=...あ、Amai...ごめん、今日はちょっと...
-...oh...um...okay...but...can I ask why?=そう...わかったわ...理由を聞いてもいい...？
-Well...no offense, but...I heard that a bunch of people who ate your food got sick...=いや...その...キミのお菓子を食べて体調を崩した人が多いって聞いて...
-...oh...oh, gosh...well...yes, that's true...but...=...えっと...その...そうだけど...でも...
-Did you figure out the reason?=原因は分かったの？
-...no...I really have no clue what could have caused that...=...まだよ...全然わからないの...
-...then...I wouldn't really feel safe eating your food...I'm sorry...=...じゃあ...安全かわからないし...ごめんよ...
-...but, Senpai, I...oh...never mind...I understand...=...でも、センパイ...私...いえ、気にしないで...わかったわ...
-...I'm sorry, Amai...=...ごめんよ、Amai...
+Senpai...aren't you going to visit the bake sale?=Senpai...você não vai passar na venda de doces?
+...oh...Amai...I'm sorry, but...I'll pass...=...ah, Amai...desculpe, mas...vou passar...
+...oh...um...okay...but...can I ask why?=...ah...hum...tá...mas...posso perguntar o porquê?
+Well...no offense, but...I heard that a bunch of people who ate your food got sick...=Bem...sem ofensa, mas...eu ouvi que um monte de gente que comeu sua comida ficou doente...
+...oh...oh, gosh...well...yes, that's true...but...=...ah...ai, nossa...bem...sim, é verdade...mas...
+Did you figure out the reason?=Você descobriu a razão?
+...no...I really have no clue what could have caused that...=...não...eu realmente não tenho ideia do que poderia ter causado isso...
+...then...I wouldn't really feel safe eating your food...I'm sorry...=...então...eu realmente não me sentiria seguro comendo sua comida...desculpe...
+...but, Senpai, I...oh...never mind...I understand...=...mas, Senpai, eu...ah...deixa pra lá...eu entendo...
+...I'm sorry, Amai...=...desculpe, Amai...
 
 火曜日 朝1 Senpaiと会話
-Hey, Senpai! How many dishes do you know how to cook?=ねえ、センパイ！センパイってどれくらいの料理の作り方を知ってるの？
-Oh, gosh...well, it's embarassing to admit this, but I actually don't know how to cook anything at all.=えっと...恥ずかしながら、実は料理を全然やったことないんだよね。
-Would you be willing to let me teach you how to cook a simple dish? It'll be so much fun, I promise!=簡単な料理から教わる気はない？絶対楽しいわよ！
-Uh - right now, at school? No, I'm sure I would screw up and make a mess and get my uniform all dirty...=うーん、今すぐ、学校で？きっと失敗して制服を汚しちゃうよ...
-Hehe, that's what an apron is for, silly! It doesn't matter if you make a mess - your clothes will be fine!=エプロンがあれば大丈夫よ！汚しても制服は無事だから！
-Me, wearing an apron? I just...can't see it. I feel like it just wouldn't be...me.=僕にエプロン？どうかな...似合わなくない？
-Here, let me ask you a question. What's your favorite color?=ねえ、聞きたいんだけど、好きな色は何色？
-My favorite color? That's an easy one - it's black! The coolest color!=好きな色？もちろん黒さ！一番クールだし！
-Then, I'll sew you a stylish black apron so that you can feel cool while you're learning how to cook! I'll give it to you at lunchtime!=じゃあ、料理をしながらクールな気持ちになれるよう、黒でスタイリッシュなエプロンを縫ってあげるね！お昼に渡すわ！
-...r...really? You don't have to go that far...but...now I'm curious what it'll look like. Okay, then...I'll look forward to lunchtime!=ほ、本当？そこまでしてくれるなんて...でもどんなものか気になるなあ。それじゃあ...お昼を楽しみにしてるよ！
+Hey, Senpai! How many dishes do you know how to cook?=Ei, Senpai! Quantos pratos você sabe cozinhar?
+Oh, gosh...well, it's embarassing to admit this, but I actually don't know how to cook anything at all.=Ah, nossa...bem, é embaraçoso admitir isso, mas eu realmente não sei cozinhar nada.
+Would you be willing to let me teach you how to cook a simple dish? It'll be so much fun, I promise!=Você estaria disposto a me deixar te ensinar a cozinhar um prato simples? Vai ser muito divertido, eu prometo!
+Uh - right now, at school? No, I'm sure I would screw up and make a mess and get my uniform all dirty...=Hum - agora, na escola? Não, eu tenho certeza de que eu iria estragar tudo, fazer bagunça e sujar meu uniforme...
+Hehe, that's what an apron is for, silly! It doesn't matter if you make a mess - your clothes will be fine!=Hehe, é para isso que serve um avental, boba! Não importa se você fizer bagunça - suas roupas ficarão bem!
+Me, wearing an apron? I just...can't see it. I feel like it just wouldn't be...me.=Eu, usando um avental? Eu simplesmente...não consigo ver isso. Sinto que não seria...eu.
+Here, let me ask you a question. What's your favorite color?=Aqui, me deixe te fazer uma pergunta. Qual é a sua cor favorita?
+My favorite color? That's an easy one - it's black! The coolest color!=Minha cor favorita? Isso é fácil - é preto! A cor mais legal!
+Then, I'll sew you a stylish black apron so that you can feel cool while you're learning how to cook! I'll give it to you at lunchtime!=Então, eu vou costurar um avental preto estiloso para você, assim você pode se sentir legal enquanto aprende a cozinhar! Eu te dou na hora do almoço!
+...r...really? You don't have to go that far...but...now I'm curious what it'll look like. Okay, then...I'll look forward to lunchtime!=...r...sério? Não precisava ir tão longe...mas...agora estou curiosa para ver como vai ficar. Certo então...vou esperar ansiosamente pela hora do almoço!
 
 火曜日 昼1a 妨害しなかった場合
-Okay, Senpai - here it is! An apron that will make you feel cool and stylish!=オーケー、センパイ、じゃーん！クールでスタイリッシュな気持ちになるエプロンだよ！
-Haha, alright, let's have a look...=ハハハ、どれどれ...
-Well? What do you think?=ねえ、どう思う？
-Whoa - you're right! This DOES look good! I honestly didn't expect it to be so...cool!=わあ、すごいや！とっても良いよ！こんなにクールなエプロンは見たことないよ！
-I'm so happy that you like it!=気に入ってくれて嬉しいわ！
-I don't know why I thought that all aprons had to be pink and girly. You really proved me wrong!=なんでかエプロンってものはピンクで女の子っぽいものだと思ってたよ。こんなエプロンもあるんだね！
-So, does this make you feel interested in learning how to cook?=これで料理のお勉強に興味出てきたでしょ？
-Honestly...yeah, it does! I can't wait until I have a good opportunity to wear this apron for the first time!=ああ、そうだね！このエプロンを着るときが楽しみで仕方ないよ！
-Oh, that's wonderful! How about tomorrow? I'll reccomend a good dish for a beginner!=よかった！明日はどう？初心者向けの料理を教えてあげる！
-Oh, that's wonderful! How about tomorrow? I'll recommend a good dish for a beginner!=よかった！明日はどう？初心者向けの料理を教えてあげる！
-I would appreciate that a lot! I'm looking forward to it!=本当にありがとう！楽しみにしてるよ！
+Okay, Senpai - here it is! An apron that will make you feel cool and stylish!=Certo, Senpai - aqui está! Um avental que vai te fazer sentir legal e estiloso!
+Haha, alright, let's have a look...=Haha, certo, vamos dar uma olhada...
+Well? What do you think?=E aí? O que você acha?
+Whoa - you're right! This DOES look good! I honestly didn't expect it to be so...cool!=Uau - você está certo! Isso ESTÁ bom! Eu realmente não esperava que fosse tão...legal!
+I'm so happy that you like it!=Estou tão feliz que você gostou!
+I don't know why I thought that all aprons had to be pink and girly. You really proved me wrong!=Eu não sei por que pensei que todos os aventais tinham que ser rosa e femininos. Você realmente me provou o contrário!
+So, does this make you feel interested in learning how to cook?=Então, isso te deixou interessado em aprender a cozinhar?
+Honestly...yeah, it does! I can't wait until I have a good opportunity to wear this apron for the first time!=Honestamente...sim, isso deixou! Mal posso esperar para ter uma boa oportunidade de usar este avental pela primeira vez!
+Oh, that's wonderful! How about tomorrow? I'll recommend a good dish for a beginner!=Oh, isso é maravilhoso! Que tal amanhã? Vou recomendar um bom prato para iniciantes!
+I would appreciate that a lot! I'm looking forward to it!=Eu agradeceria muito! Estou ansioso por isso!
 
 火曜日 昼1b 妨害した場合
-...uh...Amai...is this your idea of a joke?=...えっと...Amai...面白いと思ってるの？
-No. No, wait. Senpai...that's not the apron I made for you...=えっ、違うわ、待って、センパイ...これは私が作ったエプロンじゃないわ...
-What do you mean? Where's the right apron, then?=どういうこと？じゃあ本物のエプロンはどこにあるのさ？
-...I...I don't know. I...can't imagine how the apron I made could have swapped places with another one...=...わからないわ。私が作ったエプロンがどう他のエプロンと入れ替わったかなんて、想像できない。
-...yeah, I, uh...I don't really know what to say...=...そう...あの...言ってる意味がわからないんだけど...
-Senpai, I promise I'll find the right apron and get it to you, okay? Please just...forget that this mix-up ever happened.=センパイ、本物のエプロンを見つけて渡すから、ね？だから...このことは忘れて。
-...I, uh...yeah. Sure. Okay. I guess.=...うーん...まあ...考えておくよ...
-
+...uh...Amai...is this your idea of a joke?=...uh...Amai...isso é sua ideia de uma piada?
+No. No, wait. Senpai...that's not the apron I made for you...=Não. Não, espere. Senpai...esse não é o avental que eu fiz para você...
+What do you mean? Where's the right apron, then?=O que você quer dizer? Onde está o avental certo, então?
+...I...I don't know. I...can't imagine how the apron I made could have swapped places with another one...=...eu...não sei. Eu...não consigo imaginar como o avental que eu fiz poderia ter sido trocado com outro...
+...yeah, I, uh...I don't really know what to say...=...sim, eu, uh...não realmente sei o que dizer...
+Senpai, I promise I'll find the right apron and get it to you, okay? Please just...forget that this mix-up ever happened.=Senpai, eu prometo que vou encontrar o avental certo e te entregar, ok? Por favor, apenas...esqueça que esse engano aconteceu.
+...I, uh...yeah. Sure. Okay. I guess.=...eu, uh...sim. Claro. Ok. Eu acho.
 水曜日 朝1 Senpaiと会話
-Good morning, Senpai! Ready to learn how to cook?=おはよう、センパイ！料理を習う準備はできた？
-I'm still pretty nervous...I feel like I'm going to screw it up.=まだ結構緊張してるよ...失敗するんじゃないかな...
-Don't worry, Senpai! Cooking is easy! All you have to do is follow the recipe!=大丈夫よ、センパイ！料理は簡単なの！レシピに従うだけでいいんだから！
-If that's really all there is to it, then...I suppose I shouldn't be so worried.=それだけでいいなら...確かに心配し過ぎかも...
-Here - I picked out a dish that even a beginner should be able to prepare, and wrote down the recipe for you.=ほら、初心者でも作りやすい料理をピックアップして、レシピを書いておいたわ。
-...hmm...okay...looks...simple enough...=...ふむふむ...へえ...簡単そうだね...
-I'll be pretty busy today, so I won't be available to help you out...but, trust me - you won't need any help!=私は今日忙しいから協力できないの。でも一人で作れるぐらい簡単だから大丈夫よ！
-All right, if you say so!=わかった、キミがそう言うなら！
-Let's meet up at lunchtime so that you can tell me how it turned out!=お昼になったらどうだったか教えてね！
-Okay, then - see you at lunchtime!=わかったよ。それじゃ、またお昼に！
+Good morning, Senpai! Ready to learn how to cook?=Bom dia, Senpai! Pronto para aprender a cozinhar?
+I'm still pretty nervous...I feel like I'm going to screw it up.=Ainda estou bastante nervoso...Sinto que vou estragar tudo.
+Don't worry, Senpai! Cooking is easy! All you have to do is follow the recipe!=Não se preocupe, Senpai! Cozinhar é fácil! Tudo o que você precisa fazer é seguir a receita!
+If that's really all there is to it, then...I suppose I shouldn't be so worried.=Se é realmente só isso, então...acho que não deveria estar tão preocupado.
+Here - I picked out a dish that even a beginner should be able to prepare, and wrote down the recipe for you.=Aqui - escolhi um prato que até um iniciante deve conseguir preparar, e escrevi a receita para você.
+...hmm...okay...looks...simple enough...=...hmm...certo...parece...simples o suficiente...
+I'll be pretty busy today, so I won't be available to help you out...but, trust me - you won't need any help!=Eu estarei bastante ocupada hoje, então não poderei te ajudar...mas confie em mim - você não vai precisar de ajuda!
+All right, if you say so!=Certo, se você diz!
+Let's meet up at lunchtime so that you can tell me how it turned out!=Vamos nos encontrar na hora do almoço para você me contar como ficou!
+Okay, then - see you at lunchtime!=Certo então - vejo você na hora do almoço!
 
 水曜日 昼1a 妨害しなかった場合
-Hey, Senpai! How did the dish turn out?=ねえ、センパイ！料理はどうだった？
-Actually, it turned out great!=大成功だったよ！
-Oh, I'm so happy to hear that!=わあ、うまく行ったようで嬉しいわ！
-Following the instructions was easier than I expected, and the dish tasted delicious!=レシピに従うのは思ったより簡単だったし、完成した料理も美味しかったよ！
-That's wonderful news!=でしょでしょ？
-And, thanks to that apron you gave me, my uniform didn't get dirty, either!=それにキミが作ってくれたエプロンのおかげで、制服も汚れなかったよ！
-See, Senpai? I told you that there was nothing to worry about!=ね、センパイ！心配する必要なんてなかったでしょ？
-Would you be willing to share more recipes with me?=ああ、他のレシピも教えてくれないかな？
-Absolutely! I'll turn you into a five-star chef, Senpai!=もちろん！私があなたを5つ星のシェフにしてあげるわ、センパイ！
-Haha! I wouldn't go that far, but cooking sure is fun!=ハハハ！それは無理だよ！でも、料理って本当に楽しいね！
+Hey, Senpai! How did the dish turn out?=Ei, Senpai! Como ficou o prato?
+Actually, it turned out great!=Na verdade, ficou ótimo!
+Oh, I'm so happy to hear that!=Ah, estou tão feliz em ouvir isso!
+Following the instructions was easier than I expected, and the dish tasted delicious!=Seguir as instruções foi mais fácil do que eu esperava, e o prato estava delicioso!
+That's wonderful news!=Isso é maravilhoso!
+And, thanks to that apron you gave me, my uniform didn't get dirty, either!=E, graças ao avental que você me deu, meu uniforme também não sujou!
+See, Senpai? I told you that there was nothing to worry about!=Viu, Senpai? Eu te disse que não havia nada com que se preocupar!
+Would you be willing to share more recipes with me?=Você estaria disposta a compartilhar mais receitas comigo?
+Absolutely! I'll turn you into a five-star chef, Senpai!=Claro! Eu vou te transformar em um chef de cinco estrelas, Senpai!
+Haha! I wouldn't go that far, but cooking sure is fun!=Haha! Eu não iria tão longe, mas cozinhar é realmente divertido!
 
 水曜日 昼1b 妨害した場合
-...uh...well...not so good...=...うーん...うまく行かなかったよ...
-...oh...I'm really sorry to hear that...what happened?=...そう...残念だわ...何があったの？
-Well, I followed the recipe to the letter, but the end result was...a disaster.=えっと、レシピ通りに作ったんだけど...なんというか...地獄だったよ。
-Really? That doesn't make any sense. Do you still have the recipe with you?=え？なんでかしら。そのレシピを見せてくれる？
-Yeah, I do. Here it is.=ああ、これだよ。
-Let me just take a look at it for a moment, and...wait. What?! Senpai...this recipe is all wrong!=ちょっとだけ見せて...まって、何これ！？センパイ...このレシピ全部間違ってるわ！
-Huh? What do you mean?=え？どういうこと？
-These are not the correct ingredients or instructions! This...this isn't what I wrote down for you!=材料も調理方法も全部間違えてる！これ...私が書いたレシピじゃないわ！
-...well...I don't know what to tell you. I guess I'll let you figure out this mystery on your own...=...えっと...なんというか...それじゃあこの謎はキミ自身で解決してね...
-
+...uh...well...not so good...=...ah...bem...não foi tão bom...
+...oh...I'm really sorry to hear that...what happened?=...ah...sinto muito ouvir isso...o que aconteceu?
+Well, I followed the recipe to the letter, but the end result was...a disaster.=Bem, segui a receita à risca, mas o resultado final foi...um desastre.
+Really? That doesn't make any sense. Do you still have the recipe with you?=Sério? Isso não faz sentido. Você ainda tem a receita com você?
+Yeah, I do. Here it is.=Sim, eu tenho. Aqui está.
+Let me just take a look at it for a moment, and...wait. What?! Senpai...this recipe is all wrong!=Deixe-me dar uma olhada por um momento e...espere. O que?! Senpai...essa receita está toda errada!
+Huh? What do you mean?=Hã? O que você quer dizer?
+These are not the correct ingredients or instructions! This...this isn't what I wrote down for you!=Estes não são os ingredientes ou instruções corretos! Isso...isso não é o que eu escrevi para você!
+...well...I don't know what to tell you. I guess I'll let you figure out this mystery on your own...=...bem...não sei o que te dizer. Acho que vou deixar você resolver esse mistério por conta própria...
 木曜日 朝1 登校中の会話
-So, Senpai, are you still open to the idea of letting me teach you how to cook?=センパイ、私に料理を教わるって話、どうなったかしら？
-Well, sort of. But...there are a few things that make cooking seem kinda...scary. Sharp knives...open flames...boiling water...if I make a single mistake, I could get hurt!=えっと、教わりたいよ。でも、料理ってやっぱり少しだけ...怖いんだ。鋭いナイフや...火...煮だったお湯...ちょっと失敗しただけで、怪我しそうだろ？
-Haha, it's really not that scary at all! Each one of those problems has a solution, you know. For example, if you're worried about open flames, you could use an induction cooktop! Those can't burn you!=ハハハ、そんなに怖がらなくていいのよ！どれも対策方法があるの。例えば、火が怖いならIHコンロを使えばいいのよ。そしたら燃えたりしないでしょ？
-Oh...I never knew that! Is there any reason why someone would actually want to use a gas stove instead of an induction cooktop, then?=へえ...知らなかったな。それだとIHコンロの代わりにガスコンロを使いたい理由なんてあるかな？
-Yeah, there are plenty of reasons! For example, some cooking techniques require quick changes in temperature, and that's only possible with a gas stove. I use gas stoves exclusively!=うん、理由は沢山あるわよ！例えば、調理によって温度をすぐに変えなきゃダメなこともあって、それはガスコンロにしかできないのよ。だから私はほとんどガスコンロを使うわね！
-Really? Aren't you worried about a gas leak causing an explosion, or anything like that?=本当に？ガス漏れで爆発する心配とかはないの？
-Not at all! Gas stoves have safety features to prevent that sort of thing from happening. For example, there's a sensor that stops the release of gas if there isn't any flame burning.=全然！ガスコンロには安全装置がついてるからね。例えば、火がついていないときはガスを止めてくれるセンサーがあるの
-Besides that, there's an air vent over the stove to let gas escape. As long as that air vent is functioning, there's no way that enough gas could build up to cause an explosion.=それに、コンロの上にはガスを逃がすための通気口もあるのよ。その通気口にイタズラでもされていなければ、爆発する程のガスが溜まることはないんだ。
-But, most importantly...before I start using a stove, I *always* check for the smell of gas. I would never ignite a stove if I could smell an obvious gas leak! I would shut it off right away!=でも、一番大事なことはね...火を使う前にガスの臭いがしないか必ず確認すること！私はガス漏れの臭いがしたときは、絶対に点火しない！すぐに辞めるわ！
-Wow! You really seem to know your stuff, Amai! But...you specialize in baked goods, and chocolates, and stuff like that, right? How often do you actually need to cook on a stovetop?=へえ、Amaiすごく詳しいんだね！でも、焼き菓子とかチョコレートとか、そういうの専門だよね。実際にコンロで料理する機会ってどれくらいなんだい？
-More often than you'd think! For example, certain fudge recipes involve boiling water. In fact, I'm going to be cooking some fudge after Cleaning Time today!=よく使うわよ！例えばね、ファッジのレシピにお湯を沸かすものがあるの。実は今日、掃除の後にファッジを作ろうと思ってるんだ！
-Really?! Wow! I love fudge! I'd love to taste some after you're done!=本当！？ファッジは大好物なんだ！出来上がったら、ぜひ味見させてくれよ！
+So, Senpai, are you still open to the idea of letting me teach you how to cook?=Então, Senpai, você ainda está aberto à ideia de me deixar te ensinar a cozinhar?
+Well, sort of. But...there are a few things that make cooking seem kinda...scary. Sharp knives...open flames...boiling water...if I make a single mistake, I could get hurt!=Bem, mais ou menos. Mas...há algumas coisas que tornam a cozinha um pouco...assustadora. Facas afiadas...chamas abertas...água fervente...se eu cometer um único erro, posso me machucar!
+Haha, it's really not that scary at all! Each one of those problems has a solution, you know. For example, if you're worried about open flames, you could use an induction cooktop! Those can't burn you!=Haha, não é nada assustador! Cada um desses problemas tem uma solução, sabe? Por exemplo, se você está preocupado com chamas abertas, você pode usar um cooktop de indução! Eles não podem te queimar!
+Oh...I never knew that! Is there any reason why someone would actually want to use a gas stove instead of an induction cooktop, then?=Ah...eu não sabia disso! Existe alguma razão para alguém querer usar um fogão a gás em vez de um cooktop de indução, então?
+Yeah, there are plenty of reasons! For example, some cooking techniques require quick changes in temperature, and that's only possible with a gas stove. I use gas stoves exclusively!=Sim, há várias razões! Por exemplo, algumas técnicas de cozinha requerem mudanças rápidas de temperatura, e isso só é possível com um fogão a gás. Eu uso fogões a gás exclusivamente!
+Really? Aren't you worried about a gas leak causing an explosion, or anything like that?=Sério? Você não está preocupado com um vazamento de gás causando uma explosão ou algo assim?
+Not at all! Gas stoves have safety features to prevent that sort of thing from happening. For example, there's a sensor that stops the release of gas if there isn't any flame burning.=De jeito nenhum! Fogões a gás têm recursos de segurança para evitar que esse tipo de coisa aconteça. Por exemplo, há um sensor que para a liberação de gás se não houver chama acesa.
+Besides that, there's an air vent over the stove to let gas escape. As long as that air vent is functioning, there's no way that enough gas could build up to cause an explosion.=Além disso, há uma ventilação sobre o fogão para deixar o gás escapar. Enquanto essa ventilação estiver funcionando, não há como o gás acumular a ponto de causar uma explosão.
+But, most importantly...before I start using a stove, I *always* check for the smell of gas. I would never ignite a stove if I could smell an obvious gas leak! I would shut it off right away!=Mas, o mais importante...antes de começar a usar um fogão, eu *sempre* verifico o cheiro de gás. Eu nunca acenderia um fogão se eu sentisse um vazamento de gás óbvio! Eu o desligaria imediatamente!
+Wow! You really seem to know your stuff, Amai! But...you specialize in baked goods, and chocolates, and stuff like that, right? How often do you actually need to cook on a stovetop?=Uau! Você realmente entende do assunto, Amai! Mas...você se especializa em confeitaria e chocolates, e coisas assim, certo? Com que frequência você realmente precisa cozinhar em um fogão?
+More often than you'd think! For example, certain fudge recipes involve boiling water. In fact, I'm going to be cooking some fudge after Cleaning Time today!=Mais frequentemente do que você pensa! Por exemplo, certas receitas de fudge envolvem ferver água. Na verdade, eu vou fazer um pouco de fudge depois do horário de limpeza hoje!
+Really?! Wow! I love fudge! I'd love to taste some after you're done!=Sério?! Uau! Eu amo fudge! Eu adoraria provar um pouco depois que você terminar!
 
 木曜日 朝2 Senpaiと会話
-Senpai! Have you ever been on a picnic?=センパイ！ピクニックに行ったことある？
-A...picnic? You mean, eating outdoors?=ピクニック？屋外で食事するってこと？
-Not just that - the full picnic experience! Bringing a basket, sitting on a blanket, admiring nature...=ピクニックはそれだけじゃないの！籠を持ってきて、ブランケットを敷いて、自然を堪能して...
-Oh! Well, um...I honestly never gave it a try.=そうなんだ！うーん...やったことないなあ。
-Then, let's have a picnic today at lunchtime! We'll eat next to the rose bush nearby the school gym!=それじゃあ、お昼にピクニックを体験してみましょ！体育館近くのバラ園前で食べましょう！
-It sounds nice in theory, but...will we have to worry about insects? Ants and flies and that sort of thing?=いいね、でも...虫は大丈夫なの？アリやハエみたいなのが寄ってこない？
-Oh, don't worry about that! There's nothing in that area that attracts bugs, so we should be fine!=大丈夫よ！あそこには虫が集まるようなものがないし、心配しなくていいわ！
-Well...if you say so! Sure...let's have a picnic!=じゃあ大丈夫だね！ピクニックに行こうか！
-Oh, I'm so excited! I can't wait for lunchtime!=楽しみね！昼をまちきれないわ！
-Yeah...I'm looking forward to it, too!=うん...僕も楽しみだよ！
+Senpai! Have you ever been on a picnic?=Senpai! Você já foi a um piquenique?
+A...picnic? You mean, eating outdoors?=Piquenique? Você quer dizer, comer ao ar livre?
+Not just that - the full picnic experience! Bringing a basket, sitting on a blanket, admiring nature...=Não só isso - a experiência completa de piquenique! Levar uma cesta, sentar em um cobertor, admirar a natureza...
+Oh! Well, um...I honestly never gave it a try.=Ah! Bem, eu...honestamente nunca tentei.
+Then, let's have a picnic today at lunchtime! We'll eat next to the rose bush nearby the school gym!=Então, vamos fazer um piquenique hoje na hora do almoço! Vamos comer ao lado do arbusto de rosas perto do ginásio da escola!
+It sounds nice in theory, but...will we have to worry about insects? Ants and flies and that sort of thing?=Parece bom em teoria, mas...vamos ter que nos preocupar com insetos? Formigas e moscas e esse tipo de coisa?
+Oh, don't worry about that! There's nothing in that area that attracts bugs, so we should be fine!=Oh, não se preocupe com isso! Não há nada naquela área que atraia insetos, então devemos ficar bem!
+Well...if you say so! Sure...let's have a picnic!=Bem...se você diz assim! Claro...vamos fazer um piquenique!
+Oh, I'm so excited! I can't wait for lunchtime!=Ah, estou tão animada! Mal posso esperar pela hora do almoço!
+Yeah...I'm looking forward to it, too!=Sim...também estou ansioso!
 
 木曜日 昼1a 妨害しなかった場合
-What do you think of the scenery here, Senpai? Isn't it lovely?=センパイ、この景色をどう思う？ステキでしょ？
-I've never actually been back here before...it's pretty nice!=ここに来るのは初めてだけど...とってもいい場所だね！
-The best part is that we're far away from everyone else, so there isn't any noise!=しかも人がいないところだから、とっても静かなの！
-You're right! It's nice and quiet. I could read a book without distractions here!=そうだね！ステキな上に静かだ。ここなら本に集中できそう！
-Now that we're all settled in, let's eat!=さて、落ち着いてきたし、食事にしましょ！
-Yeah, let's get started! What did you bring, Amai?=ああ、そうだね！Amai、今日は何を持ってきてくれたの？
-I brought some pastries from my family's bakery! And how about you?=実家のパン屋からお菓子を持ってきたの！あなたは？
-Oh, I just brought some sandwiches...I'm still not much of a cook yet.=あー、サンドイッチを持ってきたよ...まだ料理には慣れてなくてね。
-Don't worry, Senpai! You'll get there one day!=大丈夫よ、センパイ！すぐに上手くなるわ！
-Haha...we'll see about that!=ハハハ...それはまた今度かな！
+What do you think of the scenery here, Senpai? Isn't it lovely?=O que você acha da paisagem aqui, Senpai? Não é linda?
+I've never actually been back here before...it's pretty nice!=Na verdade, nunca estive aqui antes...é bem legal!
+The best part is that we're far away from everyone else, so there isn't any noise!=A melhor parte é que estamos longe de todo mundo, então não há barulho!
+You're right! It's nice and quiet. I could read a book without distractions here!=Você está certo! É agradável e tranquilo. Eu poderia ler um livro sem distrações aqui!
+Now that we're all settled in, let's eat!=Agora que estamos todos acomodados, vamos comer!
+Yeah, let's get started! What did you bring, Amai?=Sim, vamos começar! O que você trouxe, Amai?
+I brought some pastries from my family's bakery! And how about you?=Eu trouxe alguns doces da padaria da minha família! E você?
+Oh, I just brought some sandwiches...I'm still not much of a cook yet.=Ah, eu trouxe apenas alguns sanduíches...ainda não sou muito bom na cozinha.
+Don't worry, Senpai! You'll get there one day!=Não se preocupe, Senpai! Você vai chegar lá um dia!
+Haha...we'll see about that!=Haha...vamos ver sobre isso!
 
 木曜日 昼1b 妨害した場合
-...wait a minute...something's wrong...=...待って...いつもはこんな...
-Uh, Amai...I thought you said we wouldn't have to worry about insects.=えっと、Amai...虫の心配はしなくていいって言ってたよね？
-I don't understand! There's no good reason for a bunch of ants and flies to be here!=なんで！？アリやハエが集まるようなものはないはずよ！
-Maybe an animal died back here? And the decaying corpse attracted a bunch of -=動物が裏で亡くなったとか？裏で死体が腐って虫が...
-Ugh - don't talk about dead animals and rotting flesh! I'm going to lose my appetite!=ちょっと！動物の死体や腐った肉の話はやめて！食欲がなくなっちゃう！
-...I hate to say it, but I think my appetite is already gone.=...言いたくはないけど、僕はもう食欲なくなってるんだよね。
-...oh, no...these stupid bugs ruined everything...=...そんな...この虫たちのせいで台無しよ...
-I'm sorry, Amai. Maybe we should eat indoors today, after all.=ごめんね、Amai。今日は屋内で食べようよ。
-...this...this was...this was supposed to be fun...=...そんな...楽しいピクニックになるはずだったのに...
-...(sigh)...sheesh...what a shame...=...はあ...残念だったね...
+...wait a minute...something's wrong...=...espere um minuto...algo está errado...
+Uh, Amai...I thought you said we wouldn't have to worry about insects.=É, Amai...eu pensei que você disse que não precisaríamos nos preocupar com insetos.
+I don't understand! There's no good reason for a bunch of ants and flies to be here!=Eu não entendo! Não há razão para um monte de formigas e moscas estarem aqui!
+Maybe an animal died back here? And the decaying corpse attracted a bunch of -=Talvez um animal morreu aqui atrás? E o corpo em decomposição atraiu um monte de...
+Ugh - don't talk about dead animals and rotting flesh! I'm going to lose my appetite!=Argh - não fale sobre animais mortos e carne em decomposição! Vou perder a fome!
+...I hate to say it, but I think my appetite is already gone.=...Eu odeio dizer isso, mas acho que minha fome já se foi.
+...oh, no...these stupid bugs ruined everything...=...ah, não...esses malditos insetos estragaram tudo...
+I'm sorry, Amai. Maybe we should eat indoors today, after all.=Desculpe, Amai. Talvez devêssemos comer dentro hoje, afinal.
+...this...this was...this was supposed to be fun...=...isso...isso era...isso deveria ser divertido...
+...(sigh)...sheesh...what a shame...=...ah...que pena...
 
 木曜日 放課後a お菓子作り(妨害しなかった場合)
-...first, we melt the ingredients...=...まずは、材料を溶かして...
-...then, we add the vanilla...transfer it to a pan...smooth it out...=...バニラを加えて...フライパンに入れて...滑らかになったら...
-...and...=...それから...
-...let it chill in the fridge!=...冷蔵庫で冷やす！
-Can't wait to cut it up and serve it tomorrow!=明日切り分けて配るのが待ち遠しいわ！
+...first, we melt the ingredients...=...primeiro, derretemos os ingredientes...
+...then, we add the vanilla...transfer it to a pan...smooth it out...=...depois, adicionamos a baunilha...transferimos para uma forma...alise...
+...and...=...e...
+...let it chill in the fridge!=...deixe esfriar na geladeira!
+Can't wait to cut it up and serve it tomorrow!=Mal posso esperar para cortar e servir amanhã!
 
 木曜日 放課後b お菓子作り(妨害した場合)
-...ugh, that smell! no, it can't be...a gas leak?!=...うわっ、臭い！これって...ガス漏れ！？
-I need to shut off the gas before anything can -=急いでガス栓を閉めないと...
+...ugh, that smell! no, it can't be...a gas leak?!=...ugh, aquele cheiro! Não, não pode ser...um vazamento de gás?!
+I need to shut off the gas before anything can -=Preciso fechar o gás antes que algo aconteça...
 
 金曜日 朝1 Senpaiと会話
-Hey, Senpai! You're aware that food can be art, right?=ねえ、センパイ！料理が芸術みたいだと思ったことはない？
-Art? Um...what do you mean?=芸術？どういう意味かな？
-Whenever I finish baking a cake, I make a sculpture on top using the icing!=私はケーキを焼いたあと、上の方に氷の像を作ってるの。
-Really? Wow! That sounds cool!=本当？わあ、すごくクールだね！
-Yeah! I have a Saikougram account where I post all of my cake art!=ええ！サイコウグラムにケーキアートをアップしてるの！
-Oh, awesome! Do you get a lot of views?=へえ、すごいや！たくさんの人に見てもらえるんでしょ？
-Well, I don't mean to brag, but...recently, I reached ten thousand followers!=実はね、自慢じゃないんだけど...最近フォロワーが1万人を超えたの！
-Whoa! I didn't realize you were Internet famous! Send me a link so I can check out your work!=うわあ！有名人じゃん！あとでリンク送ってよ！キミのアートを見たいな！
-Okay - but first, I need to go put the finishing touches on my latest masterpiece in the Home Ec room!=わかったわ。でも先に家庭科室で最新作の仕上げをしないと！
-I'm worried about my next exam, so I'm going to spend the morning studying. I'll check out your page at lunchtime, though!=僕は次の試験が心配だし、午前中は勉強することにするよ。昼にチェックするね！
+Hey, Senpai! You're aware that food can be art, right?=Ei, Senpai! Você sabe que comida pode ser uma arte, certo?
+Art? Um...what do you mean?=Arte? Hã...o que você quer dizer?
+Whenever I finish baking a cake, I make a sculpture on top using the icing!=Sempre que termino de assar um bolo, eu faço uma escultura em cima com a cobertura!
+Really? Wow! That sounds cool!=Sério? Uau! Isso parece legal!
+Yeah! I have a Saikougram account where I post all of my cake art!=Sim! Eu tenho uma conta no Saikougram onde posto toda a minha arte com bolos!
+Oh, awesome! Do you get a lot of views?=Ah, que legal! Você recebe muitas visualizações?
+Well, I don't mean to brag, but...recently, I reached ten thousand followers!=Bem, não quero me gabar, mas...recentemente, alcancei dez mil seguidores!
+Whoa! I didn't realize you were Internet famous! Send me a link so I can check out your work!=Uau! Eu não sabia que você era famosa na internet! Me envie um link para eu conferir seu trabalho!
+Okay - but first, I need to go put the finishing touches on my latest masterpiece in the Home Ec room!=Certo - mas primeiro, preciso ir dar os toques finais na minha última obra-prima na sala de Educação Doméstica!
+I'm worried about my next exam, so I'm going to spend the morning studying. I'll check out your page at lunchtime, though!=Estou preocupado com meu próximo exame, então vou passar a manhã estudando. Vou conferir sua página na hora do almoço, no entanto!
 
-金曜日 昼1a 妨害しなかった場合 
-Okay, time to check out Amai's art...=よし、Amaiのアートを見るか...
-Whoa!! This is some really impressive stuff!!=うわあ！すごい印象的な像だ！
-This stuff could be in a museum...=これは美術館に飾られててもおかしくないよ...
-It's easy to see how she reached ten thousand followers...=1万人のフォロワーがいるのも納得だなあ...
-Next time I see her, I'll have to praise her work...=今度会ったら感想を伝えないと。
+金曜日 昼1a 妨害しなかった場合
+Okay, time to check out Amai's art...=Certo, hora de conferir a arte da Amai...
+Whoa!! This is some really impressive stuff!!=Uau!! Isso é realmente impressionante!!
+This stuff could be in a museum...=Isso poderia estar em um museu...
+It's easy to see how she reached ten thousand followers...=É fácil entender como ela chegou a dez mil seguidores...
+Next time I see her, I'll have to praise her work...=Na próxima vez que eu a ver, vou ter que elogiar seu trabalho...
 
-金曜日 昼1b 妨害した場合 
-...what...the...hell...?...=...うわ...なんだよ...これ...
-...uh...this is...not what I expected...=...いやあ...これは...予想外だ...
-...looks like her follower count is taking a nosedive, too...=...フォロワーもどんどん減ってるな...
-...I'm just...gonna...move on...yeah...=...もう行かないと...
+金曜日 昼1b 妨害した場合
+...what...the...hell...?...=...o que...é isso...?
+...uh...this is...not what I expected...=...ah...isso não é o que eu esperava...
+...looks like her follower count is taking a nosedive, too...=...parece que a contagem de seguidores dela também está despencando...
+...I'm just...gonna...move on...yeah...=...vou...seguir em frente...é...
 
 金曜日 放課後1 告白
-...A...Amai?=ア、Amai？
-...I'm...s-sorry to trouble you, Senpai...=急に呼び出してごめんなさい、センパイ...
-...I asked you to come here because...there's something...I want to say...=ここに来てもらったのは、伝えたいことがあって...
-What is it?=なんだい？
-...over the past few years...I've been so busy helping my mom and dad with their bakery...=ここ数年は...両親のパン屋を手伝うのに忙しくて...
-...I never had any time for...dating, or...anything like that...=私にはデートとか...そんな時間はなかったんだ...
-...I even started to worry that I'd go my entire life without ever experiencing romance...=そういう経験もない一生になるのかなって...不安だった...
-...but...recently...I've been developing feelings for someone...=でも最近...ある人のことが気になってて...
-Who?=誰？
-...haha...you still haven't figured it out yet...?...=はは...まだ気づいてないの？
-...you know...when I first met you, at that bus stop...=...あのね...初めてあなたに会った時、あのバス停で...
-...you actually made me feel really upset! ...do you want to know why...?...=...あなたは本当に私を驚かせたの！...どうしてか知りたい？
-...you were sad because of a girl...which means that you really cared about her a lot...=...ある女の子のために悲しんでいた...つまり、その子のことを本当に大切に思っていた...
-...I've always wanted someone to care about me in the same way that you cared about her...=...私はいつも、あなたが彼女を気にかけていたように、私を気にかけてくれる誰かを探してた...
-...so...I started...trying to make my way into your heart...=...だから...私は...あなたの心に入ろうとしたんだ...
-...I want you to care about me, because...=...私のことを、気にかけてほしかったの...だから...
-...I've fallen deeply in love with you, Senpai!=...あなたのこと好きになっちゃったの！センパイ！
+...A...Amai?=...A...Amai?
+...I'm...s-sorry to trouble you, Senpai...=...Desculpe te incomodar, Senpai...
+...I asked you to come here because...there's something...I want to say...=...Eu te chamei aqui porque...tem algo...que eu quero dizer...
+What is it?=O que é?
+...over the past few years...I've been so busy helping my mom and dad with their bakery...=...nos últimos anos...estive tão ocupada ajudando meus pais com a padaria deles...
+...I never had any time for...dating, or...anything like that...=...Eu nunca tive tempo para...namorar, ou...coisas assim...
+...I even started to worry that I'd go my entire life without ever experiencing romance...=...Eu comecei a me preocupar que passaria a vida inteira sem nunca experimentar o romance...
+...but...recently...I've been developing feelings for someone...=...mas...recentemente...eu comecei a desenvolver sentimentos por alguém...
+Who?=Quem?
+...haha...you still haven't figured it out yet...?...=...haha...você ainda não percebeu...?
+...you know...when I first met you, at that bus stop...=...sabe...quando eu te conheci pela primeira vez, naquele ponto de ônibus...
+...you actually made me feel really upset! ...do you want to know why...?...=...você realmente me deixou muito chateada! ...quer saber o motivo...?
+...you were sad because of a girl...which means that you really cared about her a lot...=...você estava triste por causa de uma garota...o que significa que você realmente se importava muito com ela...
+...I've always wanted someone to care about me in the same way that you cared about her...=...eu sempre quis alguém que se importasse comigo da mesma forma que você se importava com ela...
+...so...I started...trying to make my way into your heart...=...então...eu comecei...a tentar conquistar seu coração...
+...I want you to care about me, because...=...eu quero que você se importe comigo, porque...
+...I've fallen deeply in love with you, Senpai!=...eu me apaixonei profundamente por você, Senpai!
 
 金曜日 放課後2a 告白成功
-To tell you the truth...=実を言うと...
-I...I feel the same way about you!=ぼ...僕も同じ気持ちだよ！
-...hey...you mean it, right...?...you're not just...you're not just saying that, right...?=...ねえ...本当に？...う、嘘じゃないよね...？
-You're telling the truth, right?!=あなたも、同じ気持ちなの！？
-Of course I am. I love you!=そうだよ、僕もキミのことが好きなんだ！
-...I...I...oh...I've never been...so happy...=...わ...私...人生で一番幸せ...
-...oh, Senpai...please...let's stay together...forever...=...ねえ...センパイ...一生...一緒だからね...
+To tell you the truth...=Para te falar a verdade...
+I...I feel the same way about you!=Eu...eu sinto o mesmo por você!
+...hey...you mean it, right...?...you're not just...you're not just saying that, right...?=...ei...você está falando sério, certo...? você não está...não está apenas dizendo isso, certo...?
+You're telling the truth, right?!=Você está dizendo a verdade, certo?!
+Of course I am. I love you!=Claro que sim. Eu te amo!
+...I...I...oh...I've never been...so happy...=...eu...eu...oh...eu nunca estive...tão feliz...
+...oh, Senpai...please...let's stay together...forever...=...oh, Senpai...por favor...vamos ficar juntos...para sempre...
 
 金曜日 放課後2b 告白失敗
-...well...uh...to tell you the truth...=えっと...実を言うと...
-...I'm very sorry, but...I don't think we're right for each other...=...申し訳ないけれど、僕らは合わないと思うんだ。
-...n...no...=...そ...そんな...
-...is this...because of all the things that went wrong this week...?=今週...何もかもうまく行かなかったから...？
-...no...it's not just that...=いや、そうじゃなくて...
-...it's...it's more than that.=それ以上と言うか...
-...Senpai, I...I know I screwed up, but...=...センパイ、私...失敗しちゃったのは分かってる。でも...
-...if...if you give me another chance, I can...=...もう一度チャンスをくれれば、今度は...
-Please...don't.=もう...やめて。
-It's just...not going to work.=それじゃ、うまくいくわけがないよ。
-I'm sorry.=ごめん...
-Goodbye...=さようなら...
-...S...Senpai...no...please...wait...=センパイ...待って...お願い...
+...well...uh...to tell you the truth...=...bem...ah...para te falar a verdade...
+...I'm very sorry, but...I don't think we're right for each other...=...sinto muito, mas...não acho que combinamos...
+...n...no...=...n...não...
+...is this...because of all the things that went wrong this week...?=...é por causa de tudo que deu errado esta semana...?
+...no...it's not just that...=...não...não é só isso...
+...it's...it's more than that.=...é...é mais do que isso.
+...Senpai, I...I know I screwed up, but...=...Senpai, eu...eu sei que estraguei tudo, mas...
+...if...if you give me another chance, I can...=...se...se você me der outra chance, eu posso...
+Please...don't.=Por favor...não.
+It's just...not going to work.=Simplesmente...não vai funcionar.
+I'm sorry.=Desculpe.
+Goodbye...=Adeus...
+...S...Senpai...no...please...wait...=...S...Senpai...não...por favor...espere...
 
 親からの電話　括弧付きのテキストは母親のセリフですが現状だと字幕はないので訳さなくてもいいかも？
-Mom's calling me? I hope it's nothing serious...=ママから？どうしたんだろう...
-Hi, mom! Is everything okay?=もしもしママ？どうかした？
+Mom's calling me? I hope it's nothing serious...=Mamãe está me ligando? Espero que não seja nada sério...
+Hi, mom! Is everything okay?=Oi, mamãe! Está tudo bem?
 (No! We're having an emergency at the bakery!)
-Whoa, slow down! What's wrong?=うわ、落ち着いてよ！どうしたのよ？
+Whoa, slow down! What's wrong?=Uau, calma! O que aconteceu?
 (There are rats in the kitchen!)
-...rats?! Are you serious?!=ネズミ！？ウソでしょ！？
-(Yes! There are dozens of them!)
-...wait...what...?...how is that...even possible...?=え？待ってよ...そんなことあり得る？
+...rats?! Are you serious?!=...ratos?! Você está falando sério?
+(Yes! There are dozens of them!)=Sim! São dezenas deles!
+...wait...what...?...how is that...even possible...?=...espere...o quê...?...como isso...é até possível...?
 (Do you have any idea how this could have happened?)
-...well, I...I have a theory...=うん...ちょっと心当たりが...
+...well, I...I have a theory...=...bem, eu...eu tenho uma teoria...
 (What? What is it?)
-A lot of bad things have been happening to us recently. It doesn't feel...natural. It feels like...someone is...doing this to us.=最近、嫌なことばかり起こるよね、不自然だよ。まるで、誰かに仕込まれているような。
+A lot of bad things have been happening to us recently. It doesn't feel...natural. It feels like...someone is...doing this to us.=Muitas coisas ruins têm acontecido conosco recentemente. Não parece...natural. Parece que...alguém está...fazendo isso conosco.
 (Huh? What do you mean?)
-You know that new bakery that opened up in town recently? I think...I think they're trying to -=街に新しいパン屋ができたの知ってる？多分、多分あの人たちが...
-(Stop right there. Before you say anything about them...do you have any evidene to back up your theory?)
-...(sigh)...no...I don't...=...ハア...いや...何も...
-(You shouldn't accuse anyone of wrongdoing without any evidence.)
-...yeah...you're right...=...うん...そうだね...
+You know that new bakery that opened up in town recently? I think...I think they're trying to -=Você sabe aquela nova padaria que abriu na cidade recentemente? Eu acho...acho que eles estão tentando...
+(Stop right there. Before you say anything about them...do you have any evidence to back up your theory?)
+...(sigh)...no...I don't...=...(suspiro)...não...eu não tenho...
+(You shouldn't accuse anyone of wrongdoing without any evidence.)=Você não deve acusar ninguém de algo sem evidências.
+...yeah...you're right...=...sim...você está certa...
 (Aside from that, can you think of any other way that the rats could have gotten into our bakery?)
-...no...not a clue...=ううん、わかんない...
+...no...not a clue...=...não...nenhuma ideia...
 (Alright. That's all I wanted to ask. I'll let you go.)
-...okay...good luck...=うん...がんばってね...
+...okay...good luck...=...certo...boa sorte...
 (Mom hangs up.)
-...(sigh)...I know I'm right, but...how do I prove it...?...=はあ...私はきっと間違ってない...でも証拠はないしな...
-
+...(sigh)...I know I'm right, but...how do I prove it...?...=...(suspiro)...Eu sei que estou certa, mas...como provar isso...?
 
 
 
@@ -6239,9 +6235,9 @@ You know that new bakery that opened up in town recently? I think...I think they
 
 コピペ元出力
 告白(多分共通)
-(Your rival confesses her feelings to Senpai...)=ライバルは自分の思いをセンパイに伝えた...
-Senpai accepts your rival's confession...=センパイはそれを受け入れた...
-(Senpai rejects your rival's confession!)=センパイはそれを拒否した！
+(Your rival confesses her feelings to Senpai...)=(Sua rival confessa seus sentimentos ao Senpai...)
+Senpai accepts your rival's confession...=O Senpai aceita a confissão de sua rival...
+(Senpai rejects your rival's confession!)=(Senpai rejeita a confissão de sua rival!)
 
 Kaguya
 月1
@@ -8430,15 +8426,23 @@ Wow, you just...huh...I hate to admit it, but maybe I was wrong about you. I tho
 
 
 musumeのタスク
-Ugh, like ohhhhh my GAWD, have you seen Horuda Puresu? She's so creepy! Even worse than those Occult Club freaks.=ねえねえ、Horuda Puresuってヤツ知ってるぅ？アイツめっちゃキモいよね！オカルト部のヤツよりヤバイ！
-Whenever she's not in class, she like, runs off and hides somewhere! What the hell is she up to? I bet she's got a dirty little secret!=授業が終わるとすぐどっか行っちゃうし、何やってんだろ？絶対なんか隠してるっしょ！
-If you can find her  hiding spot and snap a photo of what she's up to, I'd so totally be your best friend forever!=もしアイツの隠れてるとこを見つけて、何してんのか撮影したら、あんたと友達になってあげてもいいよ！
-Musume Ronshaku thinks Horuda Puresu is hiding a dirty secret. Find out where Horuda spends her time, and take a photo of what she does there.=Musume Ronshakuは、Horuda Puresuが知られたく\nない秘密を持っていると思っています。彼女が独りで過ごしているところを見つけて写真を撮ってきましょう。
-Awwwww, look at this little miss goody-two-shoes over here! Heh...think you're better than me? Ha, what-everrrrr!=はあぁぁぁ？何？いい子ぶっちゃってさ！アタシのことナメてんの？話になんねー！
-Hurry up so I can spill the tea, gurl!=早くしないとあんたの噂流すかんね！
-...seriously? She just...reads books? That's it? ...no way. That can't be the end of it! There's gotta be something else going on here. Thanks for your help, though - now I know where to find her!=...マジ？ただ本読んでただけ？いやいや、それはないっしょ！絶対他に秘密があるって...まあ居場所わかったしいっか。手伝ってくれてあんがと。
-There's gotta be something else going on here. Thanks for your help, though - now I know where to find her!=絶対他に秘密があるって...まあ居場所わかったしいっか。手伝ってくれてあんがと。
+Musume Ronshaku wants to see Horuda Puresu covered in brown paint. Fill a bucket with water, add brown paint to it, put the bucket over a doorway, and get Horuda to walk through the doorway. You can find brown paint in the Art Club.=Musume Ronshaku quer ver Horuda Puresu coberta de tinta marrom. Encha um balde com água, adicione tinta marrom, coloque o balde sobre uma porta e faça Horuda passar pela porta. Você pode encontrar tinta marrom no Clube de Arte.
+I am SO sick of Horuda Puresu...she's such a freak! She's even worse than those creeps from the Occult Club! At my old school, we would have given her the "Brown Paint Treatment."=Estou tão cansada de Horuda Puresu... ela é uma aberração! Ela é ainda pior do que aqueles esquisitos do Clube do Ocultismo! Na minha antiga escola, teríamos dado a ela o "Tratamento de Tinta Marrom."
+Oh, you don't know what that is? You pour brown paint into a bucket, put it above a doorway, and get an unsuspecting victim to walk through the door. Then...SPLASH! She gets what's been coming to her!=Oh, você não sabe o que é isso? Você derrama tinta marrom em um balde, o coloca acima de uma porta e faz com que uma vítima desavisada passe pela porta. Então... SPLASH! Ela recebe o que merece!
+And then, to take it a step further, you take a photo of the victim covered in brown sludge and plaster it all over social media! The shame lasts for WEEKS! Oh, Horuda deserves it sooooo badly...=E então, para levar isso a um nível superior, você tira uma foto da vítima coberta de lodo marrom e espalha por toda a rede social! A vergonha dura SEMANAS! Oh, Horuda merece isso muuuuuuuito...
+Oh, look at little miss goody-two-shoes over here. Think you're better than the rest of us, huh? Tch...buzzkill.=Oh, olhe para a pequena senhorita "certinha" aqui. Acha que é melhor do que o resto de nós, hein? tch... que chatice.
+Oh my gosh - are you serious?! You're gonna do it?! Ohoho, this is gonna be GOOD! If you actually bring me a photo of Horuda looking like she's covered in sewer sludge, I would love you for-EVER!=Oh meu Deus - você está falando sério?! Você vai fazer isso?! OHOHO, isso vai ser BOM! Se você realmente me trazer uma foto da Horuda parecendo que está coberta de lodo de esgoto, eu vou te amar para SEMPRE!
+Photo of: Horuda Covered in Brown Paint=Foto de: Horuda coberta de tinta marrom
+HAHAHAHAHA! Look at her! She looks like a rat that just crawled out of the sewer! Now her appearance matches her personality! HAHAHA...oh, god...you are such a girlboss for this! Thanks, bestie!=HAHAHAHAHA! Olhe para ela! Ela parece um rato que acabou de sair do esgoto! Agora sua aparência combina com sua personalidade! Hahaha... oh, Deus... você é um máximo por isso! Obrigado, bestie!
 
+homu
+...you're asking if you can..."help"? ...(sigh)...the creation of a humanoid robot is not something that the average person can simply "help" with. Do you know anything at all about mechanical engineering? Circuit design? Cognitive computing? Oh, you don't? Then, no, there's nothing you can -=... Você está perguntando se pode ... "ajudar"? ... (suspiro) ... A criação de um robô humanóide não é algo com o qual a pessoa comum pode simplesmente "ajudar". Você sabe alguma coisa sobre engenharia mecânica? Design de circuitos? Computação cognitiva? Oh, não sabe? Então, não, não há nada que você possa -
+...(sigh)...well...actually...there is *one* thing that I need help with. My sis...I mean, my robot...requires a tremendous amount of electricity to operate. However, I haven't been able to find an adequate power source. I've been trying to optimize her energy efficiency, but...no luck so far.=...(suspiro)...bem, na verdade, há *uma* coisa com a qual preciso de ajuda. Minha irmã...quer dizer, meu robô...requer uma enorme quantidade de eletricidade para funcionar. No entanto, não consegui encontrar uma fonte de energia adequada. Tenho tentado otimizar a eficiência energética dela, mas...sem sucesso até agora.
+I don't want her to be chained to a generator at all times...I want her to have the freedom to travel anywhere, without restraint! But...where can I find a portable power source that is capable of supplying the amount of electricity that she needs? I have to admit...this is my only blind spot.=Eu não quero que ela fique amarrada a um gerador o tempo todo... Quero que ela tenha a liberdade de viajar para qualquer lugar, sem restrições! Mas... onde posso encontrar uma fonte de energia portátil que seja capaz de fornecer a quantidade de eletricidade que ela precisa? Tenho que admitir... este é o meu único ponto cego.
+Homu Kurusu needs a portable energy source that can provide enough electricity to keep her humanoid robot operating for hours. Find an object that satisfies her needs, and bring it to her. Consider transporting it in a bookbag to avoid attracting any suspicion.=Homu Kurusu precisa de uma fonte de energia portátil que possa fornecer eletricidade suficiente para manter seu robô humanóide funcionando por horas. Encontre um objeto que atenda a essas necessidades e leve-o para ela. Considere transportá-lo em uma mochila para evitar despertar qualquer suspeita.
+What? You...have a solution in mind? ...well...if you find something that satisfies my needs, you're welcome to bring it to me. ...but...if it's something alarming or suspicious, then...please be sure to transport it discreetly. Conceal it in a...bookbag, or something, before you present it to me.=O que? Você... tem uma solução em mente? ... bem... se você encontrar algo que atenda às minhas necessidades, fique à vontade para trazer para mim. ...mas... se for algo alarmante ou suspeito, então... certifique-se de transportá-lo discretamente. Esconda-o em uma... mochila, ou algo assim, antes de me apresentar.
+A...car battery! I can't believe I didn't think of that myself! Yes...with this, she should be able to operate for at least an hour...perhaps even longer! By this time tomorrow, she should be fully operational; walking and talking just like a human being! Finally...we're almost there...sister...!=Uma... bateria de carro! Não posso acreditar que eu não pensei nisso! Sim... com isso, ela deve ser capaz de operar por pelo menos uma hora... talvez até mais! A essa altura de amanhã, ela deve estar totalmente operacional; andando e falando como um ser humano! Finalmente... estamos quase lá... irmã...!
+(sigh)...I presumed as much. There is simply nothing that a layman can do to assist in the creation of cutting-edge technology. Please...leave me to my work. Run along and...go play in the sandbox with all of the other children, or whatever it is that you do. ...tch...what a waste of my time.=(suspiro)...presumi isso mesmo. Simplesmente não há nada que um leigo possa fazer para ajudar na criação de tecnologia de ponta. Por favor... deixe-me com meu trabalho. Vá brincar na caixa de areia com todas as outras crianças, ou o que quer que você faça. ...tch... que desperdício do meu tempo.
 
 
 Kaguya
@@ -10925,7 +10929,7 @@ Addicted to making short amateur films - several per month. Despite his young ag
 Comes from one of the most wealthy families in Japan. He never flaunts his money, but he has an unusually posh way of speaking, which makes his affluent origins very obvious.=Vem de uma das famílias mais ricas do Japão. Ele nunca ostenta seu dinheiro, mas tem um jeito de falar extremamente sofisticado, o que torna suas origens afluentes muito óbvias.
 An aspiring actress whose goal is to become the most famous performer in Japan. Because of her headstrong personality, she is constantly at odds with the drama club's leader.=Uma atriz aspirante cujo objetivo é se tornar a artista mais famosa do Japão. Por causa de sua personalidade teimosa, ela está constantemente em conflito com a líder do clube de teatro.
 Admires Kizana Sunobu, leader of the Drama Club, and joined the club to learn how to be more like her. This annoys Kizana, who doesn't want anyone imitating her unique style.=Admira Kizana Sunobu, a líder do Clube de Teatro, e entrou no clube para aprender a ser mais como ela. Isso irrita Kizana, que não quer ninguém imitando seu estilo único.
-Trusted by Oka Ruto to operate the Occult Club when she is not present. A soft-spoken and introverted young man who doesn't seem passionate about anything...except for black magic, ghosts, and demons.=Confiado por Oka Ruto para operar o Clube do Oculto na sua ausência. Um jovem de fala suave e introvertido que não parece ser apaixonado por nada... exceto por magia negra, fantasmas e demônios.
+Trusted by Oka Ruto to operate the Occult Club when she is not present. A soft-spoken and introverted young man who doesn't seem passionate about anything...except for black magic, ghosts, and demons.=Confiado por Oka Ruto para operar o Clube de Ocultismo na sua ausência. Um jovem de fala suave e introvertido que não parece ser apaixonado por nada... exceto por magia negra, fantasmas e demônios.
 No student has ever seen the right side of his face.\n\nSome students suspect that he is using his hair to hide an unsightly scar or missing eye.=Nenhum aluno jamais viu o lado direito do seu rosto.\n\nAlguns alunos suspeitam que ele está usando o cabelo para esconder uma cicatriz feia ou um olho ausente.
 One of the lenses of his glasses is completely opaque. No student has ever seen his right eye.\n\nSome students suspect that he only has one eye, and prefers to wear an opaque lens over that eye rather than an eyepatch.=Uma das lentes de seus óculos é completamente opaca. Nenhum aluno jamais viu seu olho direito.\n\nAlguns alunos suspeitam que ele tem apenas um olho e prefere usar uma lente opaca em vez de um tapa-olho.
 Claims to be wearing a medical eyepatch to correct a problem with her vision.\n\nRefuses to provide details regarding her eye condition, leading to rumors that she is lying about the reason she wears an eyepatch.=Alega estar usando um tapa-olho médico para corrigir um problema de visão.\n\nRecusa-se a fornecer detalhes sobre sua condição ocular, levando a rumores de que ela está mentindo sobre a razão de usar um tapa-olho.
@@ -10936,7 +10940,7 @@ Obsessed with rhythm games. Currently, she is addicted to ''Pretty Guardian Miyu
 Known for irritating her classmates and teachers by constantly asking foolish questions. Stubbornly insists that she is a video game character who can see beyond the fourth wall of the game she's allegedly in.=Conhecida por irritar seus colegas e professores com perguntas tolas. Insiste teimosamente que é uma personagem de videogame que pode ver além da quarta parede do jogo em que supostamente está.
 A young woman who is pursuing an ''anime aesthetic''. To achieve this unusual goal, she never cuts her hair, wears special contact lenses, and asks people to refer to her by a nickname inspired by otaku culture.=Uma jovem que está buscando uma ''estética anime''. Para alcançar esse objetivo incomum, ela nunca corta o cabelo, usa lentes de contato especiais e pede que as pessoas a chamem por um apelido inspirado na cultura otaku.
 Leader of the Art Club. A man of few words; speaks exclusively in one-word or two-word sentences. Obsessed with painting; does nothing else with his time. Nobody can figure out if he is a silent genius or a pretentious snob.=Líder do Clube de Arte. Um homem de poucas palavras; fala exclusivamente em frases de uma ou duas palavras. Obcecado por pintura; não faz nada além disso com seu tempo. Ninguém consegue descobrir se ele é um gênio silencioso ou um esnobe pretensioso.
-A brooding, melancholy boy who exclusively paints very dark and morbid subjects. Although his interests align with the Occult Club, he doesn't seem interested in joining them.=Um menino melancólico e sombrio que pinta exclusivamente temas muito escuros e mórbidos. Embora seus interesses coincidam com os do Clube do Oculto, ele não parece interessado em se juntar a eles.
+A brooding, melancholy boy who exclusively paints very dark and morbid subjects. Although his interests align with the Occult Club, he doesn't seem interested in joining them.=Um menino melancólico e sombrio que pinta exclusivamente temas muito escuros e mórbidos. Embora seus interesses coincidam com os do Clube de Ocultismo, ele não parece interessado em se juntar a eles.
 A vain, narcissistic boy who is obsessed with beauty - especially his own. He is only interested in drawing ''beautiful'' subjects...and self-portraits.=Um garoto vaidoso e narcisista que é obcecado pela beleza - especialmente pela própria. Ele só tem interesse em desenhar ''assuntos bonitos''... e autorretratos.
 A quirky, eccentric girl who doesn't really care what others think of her. She only draws bizarre, abstract artwork that doesn't make sense to anyone but herself.=Uma garota peculiar e excêntrica que realmente não se importa com o que os outros pensam dela. Ela só desenha obras de arte bizarras e abstratas que não fazem sentido para ninguém além dela mesma.
 An anime-obsessed girl who spends all of her time drawing anime and manga characters. Didn't fit in with the Photography Club or Gaming Club, so she settled for the Art Club.=Uma garota obcecada por anime que passa todo o seu tempo desenhando personagens de anime e mangá. Não se encaixou no Clube de Fotografia ou no Clube de Jogos, então se acomodou no Clube de Arte.
@@ -12872,4 +12876,120 @@ Cooking Menu=Menu de cozinha
 Required Elimination:=Eliminação Necessária:
 Lockpicks: 0=LOCKPICKS: 0
 Recently, a new bakery opened up in town. I don't want to sound like a nasty person who talks trash about their competition, but I've got a really bad feeling about them.\n\nI've seen the owner of the bakery snooping around my family's bakery at night, as if she's trying to figure out where all of the entrances and windows are. She hasn't done anything illegal yet, so it's not like I can report her to the police or anything like that, but I can just tell that she's up to something bad...=Recentemente, uma nova padaria foi aberta na cidade. Não quero parecer uma pessoa desagradável que fala lixo sobre a competição deles, mas tenho um sentimento muito ruim sobre eles.\n\nEu vi o dono da padaria bisbilhotando a padaria da minha família à noite, como se ela estivesse tentando descobrir onde estão todas as entradas e janelas. Ela ainda não fez nada ilegal, então não é como se eu pudesse denunciá -la à polícia ou algo assim, mas posso dizer que ela está tramando algo ruim ...
+Your rival is worried that the owner of a rival bakery is doing or planning something illegal.=Seu rival está preocupado que o proprietário de uma padaria rival esteja fazendo ou planejando algo ilegal.Considered missing=Considerado faltando
+Ask a Task-Related Question:=Faça uma pergunta relacionada à tarefa:
+It seems that your rival is attracted to boys with ponytails.=Parece que seu rival é atraído por meninos com rabos de cavalo.
+Hot Guys Daily=Caras gostosos diariamente
+Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post.=Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog.
+Heh...I have to admit, you can be pretty persuasive...=Heh... eu tenho que admitir, você pode ser bastante persuasiva...
+I think someone is trying to sabotage our bakery. If I had to guess, I'd say that it's probably - =Acho que alguém está tentando sabotar nossa padaria. Se eu tivesse que adivinhar, diria que provavelmente é -
+The president of the Cooking Club.\n\n[c][800000]Someone has been sabotaging her family's bakery.\n\n?????[-][/c]=A presidente do Clube de Culinária.\n\n[c][800000]Alguém tem sabotado a padaria de sua família.\n\n?????[-][/c]
+You can't! He's watching!=Você não pode! Ele está assistindo!
+You need a faculty keycard!=Você precisa de um cartão -chave do corpo docente!
+You put money on the Cooking Club's debit card=Você coloca dinheiro no cartão de débito do clube de culinária
+Possession of Narcotics=Posse de narcóticos
+Endangering Students' Health=Ameiando a saúde dos alunos
+Report your rival for...=Relate seu rival para ...
+Misappropriating Club Funding=Financiamento de clubes de apropriação incorreta
+Neglecting Cleaning Duties=Negligenciar tarefas de limpeza
+Creating Fire Hazard=Criando risco de incêndio
+Stealing School Property=Roubar propriedades da escola
+You saw her doing something on the laptop in the student council room?! ...sadly, I think I know exactly what that means. Later today, I'll have a private discussion with her about it.=Você a viu fazendo algo no laptop na sala do conselho estudantil?! ... Infelizmente, acho que sei exatamente o que isso significa. Mais tarde hoje, terei uma discussão particular com ela sobre isso.
+I checked the Student Council's records. Someone attempted to put extra money on the debit card meant for Cooking Club funds. You tried to steal money from the school and give it to your struggling family!=Eu verifiquei os registros do Conselho Estudantil. Alguém tentou colocar dinheiro extra no cartão de débito destinado aos fundos do clube de culinária. Você tentou roubar dinheiro da escola e entregá -lo à sua família em dificuldades!
+That's not true! I never tried to put extra money on the card! I'm being honest!=Isso não é verdade! Eu nunca tentei colocar dinheiro extra no cartão! Estou sendo honesto!
 Your rival is worried that the owner of a rival bakery is doing or planning something illegal.=Seu rival está preocupado que o proprietário de uma padaria rival esteja fazendo ou planejando algo ilegal.
+Considered missing=Considerado faltando
+Oh, gosh...well, it's embarrassing to admit this, but I actually don't know how to cook anything at all.=Oh, Deus ... bem, é embaraçoso admitir isso, mas na verdade não sei como cozinhar nada.
+(Already Reported Embezzlement)=(Já relatou peculato)
+Ingredients poisoned!=Ingredientes envenenados!
+The students who ate her food started vomiting immediately?! This is bad - someone could end up in the hospital! I'll have to confront her about this as soon as possible.=Os alunos que comiam sua comida começaram a vomitar imediatamente?! Isso é ruim - alguém pode acabar no hospital! Vou ter que confrontá -la sobre isso o mais rápido possível.
+I've spoken with a number of students who all confirmed that the food you served at your bake sale caused them to vomit. What kind of unsanitary conditions did you prepare that food in?!=Conversei com vários estudantes que confirmaram que a comida que você serviu na sua venda de bolos levou a eles vomitar. Em que tipo de condições insalubres você preparou essa comida?!
+Huh?! That can't be right! There was nothing wrong with the food I made!=Huh?! Isso não pode estar certo! Não havia nada de errado com a comida que eu fiz!
+...oof, I need a break...=... oof, eu preciso de uma pausa ...
+...okay, so...the recipe says...=... ok, então ... a receita diz ...
+(Already Reported Endangerment)=(Já relatado em perigo)
+Info-chan will provide you with a list of any student's likes and dislikes, which will become visible from their Student Profile, and also visible when socializing or gossipping with them.=Info-chan fornecerá uma lista de gostos e desgostos de qualquer aluno, que se tornarão visíveis do perfil do aluno, e também visíveis ao socializar ou dar a toca com eles.
+Oh, hello there! Did you want to talk with me about the Cooking Club?=Oh, olá! Você queria falar comigo sobre o clube de culinária?
+Well, like our name suggests, everyone in this club loves to prepare food! And all of us share a common desire to make people smile by serving them delicious treats!=Bem, como o nosso nome sugere, todos neste clube adoram preparar comida! E todos nós compartilhamos o desejo comum de fazer as pessoas sorrirem, servindo deliciosas guloseimas!
+You'll find a wide range of appetites here! Some of us are health nuts who prioritize nutrition, while others have a sweet tooth and want to eat dessert for every meal, haha!=Você encontrará uma grande variedade de apetites aqui! Alguns de nós são fanáticos por saúde que priorizam a nutrição, enquanto outros são gulosos e querem comer sobremesa em todas as refeições, haha!
+If you join our club, you'll have access to all of our tasty ingredients, and you'll be able to make meals for others! Serving someone a yummy snack is a great way to make friends fast, you know!=Se você se juntar ao nosso clube, terá acesso a todos os nossos deliciosos ingredientes e poderá preparar refeições para os outros! Servir um lanche gostoso para alguém é uma ótima maneira de fazer amigos rapidamente, sabe?
+Oh! Are you interested in joining our club?=Oh! Você está interessado em se juntar ao nosso clube?
+How wonderful! You are now an official member of the Cooking Club! I hope you enjoy your time with us!=Que maravilhoso! Agora você é um membro oficial do clube de culinária! Espero que aproveite seu tempo conosco!
+We're all going to get together between 5:00 and 5:30 to prepare a yummy meal! I really hope that we'll see you there!=Todos nós vamos nos reunir entre 5:00 e 5:30 para preparar uma refeição deliciosa! Eu realmente espero vê-lo lá!
+Bye bye for now! Hope to see you later!=Tchau por enquanto! Espero vê-lo mais tarde!
+Uh-oh...is something wrong? Do you need to...leave our club?=Uh-oh... há algo errado? Você precisa... sair do nosso clube?
+Oh, no...is that really how you feel? I'm so sorry to hear that...but...I understand. I'm sad to see you go, but I wish you the best of luck in the future!=Oh, não... é assim que você realmente se sente? Sinto muito em ouvir isso... mas... eu entendo. Fico triste em ver você partir, mas desejo-lhe boa sorte no futuro!
+...I'm so sorry...it's...kinda hard to consider letting you join the club again, since...you might just leave us again. That would be really sad, so...we just...can't let you back in...again, I'm sorry...=... Sinto muito... é... meio difícil considerar deixá-lo entrar no clube novamente, já que... você pode nos deixar de novo. Isso seria muito triste, então... nós simplesmente... não podemos deixá-lo voltar... de novo, sinto muito...
+Oh, gosh! Um, I know this isn't what you'd like to hear, but you can't be a member of two clubs at the same time. If you want to join us, you'd have to quit your current club. I'm sorry about that!=Oh, céus! Hum, eu sei que isso não é o que você gostaria de ouvir, mas você não pode ser membro de dois clubes ao mesmo tempo. Se quiser se juntar a nós, terá que sair do seu clube atual. Sinto muito por isso!
+It's so good to see you! We're about to begin cooking a meal! Would you like to join us?=É tão bom ver você! Estamos prestes a começar a cozinhar uma refeição! Você gostaria de se juntar a nós?
+Oh! Um, okay! We'll wait for you, but...we can't wait any longer than 5:30, alright...?=Oh! Hum, tudo bem! Vamos esperar por você, mas... não podemos esperar mais do que 5:30, ok...?
+Yay! Let's get started right away!=Yay! Vamos começar imediatamente!
+The president of the Cooking Club.\n\n[c][800000]?????\n\n?????[-][/c]=O presidente do clube de culinária.\n\n[c] [800000] ?????\n\n????? [-] [/c]
+Kenko Sukoyaka needs exactly 128 carrots. Find 128 carrots somewhere, bring them to school, and tell Kenko about them.=Kenko Sukoyaka precisa exatamente de 128 cenouras. Encontre 128 cenouras em algum lugar, leve-as para a escola e conte a Kenko sobre elas.
+Ask for Amai's Social Media:=Peça a mídia social da Amai:
+I want to talk to you about Amai...=Eu quero falar com você sobre Amai...
+Recently, Amai posted something concerning on her private friends-only blog. I know I'm not supposed to share anything she posts there, but I'm worried about her. You're a good person who helps people that are in trouble, so...here, take the URL and the password. If she's in danger, please help her!=Recentemente, Amai postou algo preocupante no blog particular para amigos. Eu sei que não deveria compartilhar o que ela posta lá, mas estou preocupada com ela. Você é uma boa pessoa que ajuda quem está em apuros, então... aqui, pegue o URL e a senha. Se ela estiver em perigo, por favor, ajude-a!
+...okay, I'll admit it. I...have a crush on Amai. I'm completely infatuated; I just want to learn everything there is to know about her! ...but...recently...she's been way too busy to talk...=...ok, vou admitir. Eu... tenho uma queda por Amai. Estou completamente encantado; eu só quero aprender tudo sobre ela! ...mas... ultimamente... ela está muito ocupada para conversar...
+What are her likes and dislikes? What kind of guys is she into? Is there anything troubling her? I think I could learn by simply checking out her social media pages, but...I don't know her usernames.=Quais são seus gostos e desgostos? Que tipo de caras ela gosta? Há algo incomodando-a? Acho que poderia descobrir verificando suas páginas nas redes sociais, mas... não sei seus nomes de usuário.
+My clubmates know how to find Amai on social media, but I don't want to ask them any questions about her, since I don't want to let them know I have a crush on her. Would...you be willing to help me?=Meus colegas de clube sabem como encontrar a Amai nas redes sociais, mas eu não quero fazer perguntas, porque não quero que eles saibam que eu tenho uma queda por ela. Você... estaria disposto a me ajudar?
+Shoku Tsuburaya wants to find Amai on social media. Befriend all four members of the Cooking Club - Kenko, Seiyo, Ajia, and Saki - ask each of them how to find Amai on social media, and then report back to Shoku.=Shoku Tsuburaya quer encontrar Amai nas redes sociais. Faça amizade com os quatro membros do clube de culinária - Kenko, Seiyo, Ajia e Saki - pergunte a cada um deles como encontrar a Amai nas redes sociais, e depois reporte-se a Shoku.
+You'll help?! Thank you!! Okay, here's the plan: You have to make friends with everyone in the Cooking Club, and then ask each of them how to find Amai on social media. Got it? Okay!! Good luck!!=Você vai ajudar?! Obrigado!! Ok, aqui está o plano: você precisa fazer amizade com todos no clube de culinária e depois perguntar a cada um como encontrar a Amai nas redes sociais. Entendeu? OK!! Boa sorte!!
+A friend of mine knows that I love collecting American memorabilia, so he got me this bandana as a gift. He thought it was the American flag, but...this is the Union Jack, the UK's national flag.=Um amigo meu sabe que eu adoro colecionar lembranças americanas, então ele me deu essa bandana de presente. Ele pensou que era a bandeira americana, mas... esta é a Union Jack, a bandeira nacional do Reino Unido.
+I've been wearing this bandana because I appreciate my friend, but...to be honest, I really wish I could have an American flag bandana instead. I can't help it! I just love those stars and stripes!=Tenho usado essa bandana porque aprecio meu amigo, mas... para ser sincero, eu gostaria muito de ter uma bandana com a bandeira americana. Não consigo evitar! Eu simplesmente amo aquelas estrelas e listras!
+I could have sworn that I saw an American flag somewhere on school grounds...but I forgot where. Do you think you could find it and bring it to me? If I had it, I bet I could make a bandana out of it!=Eu poderia jurar que vi uma bandeira americana em algum lugar no terreno da escola... mas esqueci onde. Você acha que pode encontrá-la e trazê-la para mim? Se eu tivesse, aposto que faria uma bandana com ela!
+Seiyo Akanishi wants to wear an American flag as a bandana. Find an American flag somewhere at school and bring it to him.=Seiyo Akanishi quer usar uma bandeira americana como bandana. Encontre uma bandeira americana em algum lugar da escola e traga-a para ele.
+...oh...yeah...good point. Maybe stealing school property and wearing it like a hat would be a...bad idea. Thanks for bringing me back down to Earth! ...I still want an American flag bandana, though...=...oh...sim...bom ponto. Talvez roubar uma propriedade da escola e usá-la como chapéu fosse uma... má ideia. Obrigado por me trazer de volta à realidade! ...Mas eu ainda quero uma bandana de bandeira americana...
+Oh, you know where it is?! Awesome! Grab it and bring it to me! Oh, and there's no need to sew it or anything like that - I'll just fold it into a bandana myself. I got this! You got this! WE got this!=Oh, você sabe onde está?! Incrível! Pegue-a e traga para mim! Ah, e não precisa costurar nem nada - eu mesmo vou dobrá-la em uma bandana. Eu consigo! Você consegue! Nós conseguimos!
+Ohhhhh, saaaaay caaaaan youuuuu seeeee...by the daaaaawn's earrrrrlyyyyy liiiiight...oh! Um...sorry. Sometimes I break into song when I see this flag. But, more importantly: thank you SO MUCH for this!=Ohhhhh, saaaaay caaaaan youuuuu seeeee...pela primeeeeira luuuuz do daaaawn...oh! Hum...desculpe. Às vezes eu começo a cantar quando vejo essa bandeira. Mas, mais importante: muito obrigado por isso!
+I was checking out the food art on Amai's Saitter profile, and I noticed that her "Likes" were public. Out of curiosity, I took a look, and...well, I guess there's a side to her I never knew about. You should message her and tell her to make her Likes private! I'll give you the URL...=Eu estava vendo a arte culinária no perfil de Saitter da Amai, e percebi que suas "curtidas" eram públicas. Por curiosidade, dei uma olhada e... bem, acho que há um lado dela que eu nunca conheci. Você deveria mandar uma mensagem para ela e dizer para tornar as curtidas privadas! Vou te passar o URL...
+I'm always delighted to discover a new restaurant that specializes in traditional Japanese cuisine. There's a ramen restaurant in town that I haven't visited yet, but...I've heard some unsettling rumors about the establishment that have made me feel quite hesitant to dine there.=Eu sempre fico encantado ao descobrir um novo restaurante especializado em culinária japonesa tradicional. Tem um restaurante de ramen na cidade que eu ainda não visitei, mas... ouvi alguns rumores perturbadores sobre o local que me deixaram bastante hesitante em comer lá.
+I've heard that anyone who eats a dish from that restaurant will have bizarre dreams the next time they sleep, and I've also heard that the owner of the ramen shop hasn't aged a single day in decades. I have no clue how much truth there is to these rumors, but they've made me quite nervous.=Ouvi dizer que quem come um prato desse restaurante terá sonhos bizarros na próxima vez que dormir, e também ouvi dizer que o dono da loja de ramen não envelheceu um único dia em décadas. Não faço ideia de quanto há de verdade nesses rumores, mas eles me deixaram bem nervoso.
+If the "bizarre dreams" are nightmares, then I certainly wouldn't want to eat there. But...if the dreams are harmless - or the rumors are false - then I'd be willing to give the place a try. Would you be willing to eat at this restaurant and tell me if their ramen actually does cause nightmares?=Se os "sonhos bizarros" forem pesadelos, eu definitivamente não gostaria de comer lá. Mas... se os sonhos forem inofensivos - ou os rumores forem falsos - eu estaria disposto a dar uma chance ao local. Você estaria disposto a comer lá e me dizer se o ramen realmente causa pesadelos?
+Ajia Ashitomi wants to know if the rumors about the ramen restaurant in town are true. Go into town, eat a bowl of ramen at Dream Ramen, go to sleep, and then report back to Ajia.=Ajia Ashitomi quer saber se os rumores sobre o restaurante de ramen na cidade são verdadeiros. Vá para a cidade, coma uma tigela de ramen no Dream Ramen, vá dormir e depois reporte-se à Ajia.
+I see. In this era of science and rationality, I shouldn't have expected anyone to take me seriously for speaking of superstition. ...or, perhaps you're simply more interested in eating cheeseburgers than appreciating the cuisine of your own homeland. Sigh...nevermind. Just...forget I said anything.=Eu entendo. Nesta era de ciência e racionalidade, eu não deveria esperar que alguém me levasse a sério falando sobre superstições. ...Ou talvez você esteja mais interessado em comer cheeseburgers do que em apreciar a culinária de sua própria terra natal. Suspiro... esqueça. Apenas... esqueça o que eu disse.
+Oh, you're actually willing to help me? I appreciate that! The restaurant is named "Dream Ramen." I believe it's located at the very end of the street with all the stores, right next door to a gift shop. I hope the ramen is delicious, the prices are reasonable, and the dreams are...not nightmares.=Oh, você realmente está disposto a me ajudar? Agradeço! O restaurante se chama "Dream Ramen". Acredito que fica no final da rua com todas as lojas, ao lado de uma loja de presentes. Espero que o ramen seja delicioso, os preços razoáveis, e que os sonhos não sejam... pesadelos.
+There's no way to say this without sounding like a weirdo, but...I need 128 carrots. Please don't ask why; it would take way too long to explain. But, there's a totally valid reason for it. I swear.=Não há como dizer isso sem parecer estranho, mas... preciso de 128 cenouras. Por favor, não pergunte por quê; levaria muito tempo para explicar. Mas há uma razão totalmente válida para isso. Eu juro.
+Now, I know what you're gonna say - "Kenko, just go grab some carrots from the Gardening Club!" No. They only have 105 carrots. I counted. I need 23 more than that. And, no, I can't afford to buy any.=Agora, eu sei o que você vai dizer - "Kenko, é só pegar algumas cenouras do Clube de Jardinagem!" Não. Eles têm apenas 105 cenouras. Eu contei. Eu preciso de 23 a mais. E não, não posso comprar.
+I know that there's probably, like, a zero percent chance that you can help me with this, but...if you could bring 128 carrots to school, I would owe you my LIFE. Seriously. I am NOT joking around!=Eu sei que há provavelmente, tipo, zero por cento de chance de você me ajudar com isso, mas... se você pudesse trazer 128 cenouras para a escola, eu te deveria minha VIDA. Seriamente. Não estou brincando!
+...yeah. I...don't know what I was thinking. Well, great. Now I'm Kenko, that weird guy who asked for 128 carrots. Not 127, not 129, but 128 exactly. Sigh...I'm never going to live this down, am I?=...sim. Eu... não sei o que eu estava pensando. Bem, ótimo. Agora sou o Kenko, o cara estranho que pediu 128 cenouras. Não 127, nem 129, mas 128 exatamente. Suspiro... nunca vou superar isso, né?
+You...you know where to find 128 carrots? Seriously? You're not...you're not playing a prank on me, right? Oh, man...if you're being honest with me right now...please, bring those carrots to school!=Você... você sabe onde encontrar 128 cenouras? Sério? Você não está... não está brincando comigo, né? Oh, cara... se você está sendo honesto comigo agora... por favor, traga essas cenouras para a escola!
+Zoom=Zoom
+Move Phone=Mover telefone
+1K posts=1k posts
+April 2014=Abril de 2014
+It seems that your rival is attracted to boys who have [c][008000]slick hair.[-][/c]=Parece que sua rival é atraída por meninos que têm [c][008000]cabelos lisos.[-][/c]
+It seems that your rival is attracted to boys who have [c][008000]piercings.[-][/c]=Parece que sua rival é atraída por meninos que têm [c][008000]piercings.[-][/c]
+It seems that your rival is attracted to boys who have [c][008000]shades.[-][/c]=Parece que sua rival é atraída por meninos que têm [c][008000]óculos escuros.[-][/c]
+It seems that your rival is attracted to boys who have [c][008000]a tan.[-][/c]=Parece que sua rival é atraída por meninos que têm [c][008000]bronzeado.[-][/c]
+It seems that your rival is attracted to boys who have [c][008000]jewelry.[-][/c]=Parece que sua rival é atraída por meninos que usam [c][008000]jóias.[-][/c]
+It seems that your rival is attracted to boys who have [c][008000]courage.[-][/c]=Parece que sua rival é atraída por meninos que têm [c][008000]coragem.[-][/c]
+Return to Title Screen=Retornar à tela inicial
+Toggle Shadows On/Off=Ativar/Desativar sombras
+Resume Gameplay=Retomar o jogo
+...126...127...aaaaand...128! This is...this is exactly what I needed! You did it! I know you're not going to believe me when I say this but...you just saved my life! Thank you! Thank you! THANK YOU!=...126...127...e...128! Isso é... isso é exatamente o que eu precisava! Você conseguiu! Eu sei que você não vai acreditar quando eu disser, mas... você salvou minha vida! Obrigado! Obrigado! MUITO OBRIGADO!
+You want to know more about Amai? Hmm...I think she has a public blog where she posts about all of her interests, opinions, likes, and dislikes! I'll give you the URL so you can go check it out.=Você quer saber mais sobre a Amai? Hmm... Eu acho que ela tem um blog público onde posta sobre seus interesses, opiniões, gostos e desgostos! Vou te passar o URL para você conferir.
+April 3rd, 202X=3 de abril, 202X
+If I Couldn’t Be A Cook=Se Eu Não Pudesse Ser Cozinheiro
+There's a question I've wanted to ask for months, but I've always been afraid to ask it, because I really don't want to hurt anyone's feelings: Why does the Headmaster permit an "Occult Club" to exist at our school? They try to cast dark magic and make blood sacrifices and summon demons and things like that, right? Even though I don't believe in any of that stuff, it still gives me the creeps. I'm not trying to talk trash about the people in the club - I REALLY hate gossip! - I just don't understand why it's allowed...=Há uma pergunta que eu queria fazer há meses, mas sempre tive medo de fazer, porque eu realmente não quero magoar ninguém: Por que o diretor permite que exista um "Clube de Ocultismo" na nossa escola? Eles tentam lançar feitiços, fazer sacrifícios de sangue e invocar demônios, certo? Mesmo eu não acreditando nessas coisas, isso ainda me dá arrepios. Não estou falando mal dos membros do clube - eu REALMENTE odeio fofocas! - Só não entendo por que é permitido...
+April 4th, 202X=4 de abril de 202X
+Why Is That Club Allowed?=Por Que Esse Clube é Permitido?
+I want a pet cat sooooo badly! But, our home is right above our bakery, and we can't risk any cat hair contaminating the food we prepare for customers, so a free-roaming pet is not an option for us. (My pet hamster Ham-Ham is only allowed out of his cage in a hamster ball.) Even though I love cats, I would never prioritize anything above the quality of bakery's food. So, I guess I'll just never get to be a cat owner. Oh, well...on the bright side, I can always visit a cat cafe if I get a really strong urge to pet a kitty!=Eu quero tanto ter um gato de estimação! Mas, nossa casa fica logo acima da padaria, e não podemos arriscar que pelos de gato contaminem os alimentos que preparamos para os clientes, então um animal solto não é uma opção. (Meu hamster, Ham-Ham, só sai da gaiola na bolinha de hamster.) Embora eu ame gatos, nunca colocaria nada acima da qualidade dos produtos da padaria. Acho que nunca serei dona de um gato. Ah, bem... por outro lado, sempre posso visitar um café de gatos quando eu tiver uma vontade enorme de acariciar um gatinho!
+April 5th, 202X=5 de abril de 202X
+Why I Can’t Own Cats=Por Que Eu Não Posso Ter Gatos
+PRESS=IMPRENSA
+SAI=Sai
+A friend asked me what I'd be if I couldn't be a cook. I've honestly never considered it, since I can't imagine finding something that I'm more passionate about than cooking. When I prepare food, it kind of feels like I'm creating art. So, I guess, if I couldn't be a cook, I'd probably want to be an artist, or something along those lines. The only other thing that comes to mind is...hm...gardening, I suppose. Just because the process of growing plants feels similar to food preparation! Haha...I really am food-brained...=Um amigo me perguntou o que eu seria se eu não pudesse ser cozinheiro. Sinceramente, nunca pensei nisso, porque não consigo imaginar algo que eu ame mais do que cozinhar. Quando preparo comida, parece que estou criando arte. Então, acho que se eu não pudesse ser cozinheiro, talvez quisesse ser artista, ou algo assim. A única outra coisa que me vem à mente é... hm... jardinagem, acho. Só porque o processo de cultivar plantas parece semelhante à preparação de comida! Haha... realmente só penso em comida...
+Why I Quit My Addictions=Por Que Eu Parei Com Meus Vícios
+April 2nd, 202X=2 de abril, 202X
+I know that it might be difficult to believe me when I say this, but there was a time in my life when I was completely addicted to anime and video games. I would stay up for more than 24 hours just watching shows and gaming. Eventually, I realized that if I kept up that lifestyle, I was going to turn into a hikkikomori or a NEET and become a total disappointment to my family by completely wasting my life. So I decided to completely cut anime and video games out of my life, and, to be honest, I'm glad I did.=Eu sei que pode ser difícil acreditar, mas houve um tempo na minha vida em que eu era completamente viciado em anime e videogames. Eu ficava acordado mais de 24 horas assistindo e jogando. Eventualmente, percebi que se continuasse assim, eu me tornaria um hikkikomori ou um NEET e seria uma decepção total para minha família, desperdiçando minha vida. Então decidi cortar anime e videogames da minha vida e, para ser sincero, estou feliz por ter feito isso.
+I'm A Pacifist, But...=Eu Sou Pacifista, Mas...
+April 1st 202X=1º de abril de 202X
+A friend asked me if there are any circumstances that would make me consider taking a human life. It's the last thing on Earth that I'd ever like to imagine, because I oppose violence in all of its forms...but, after she got me thinking about it, one scenario came to mind: protecting my family. If my mom, my dad, or my big sister were in danger, I think I'd be willing to do absolutely anything to keep them safe. I love them all so much that I'd do anything - even sacrifice my own life - to protect them.=Um amigo me perguntou se haveria alguma circunstância em que eu consideraria tirar uma vida. É a última coisa que eu gostaria de imaginar, porque sou contra a violência em todas as suas formas... mas, depois que ela me fez pensar sobre isso, um cenário me veio à mente: proteger minha família. Se minha mãe, meu pai ou minha irmã estivessem em perigo, acho que eu faria qualquer coisa para mantê-los seguros. Eu amo tanto todos eles que faria qualquer coisa - até mesmo sacrificaria minha vida - para protegê-los.
+Uekiya Engeika holds the keys to the Gardening Club's tool shed. The tool shed is full of dangerous tools and substances, so the faculty would get very upset at her if she lost the keys to the shed. If I had photographic evidence that Uekiya has lost the tool shed keys, I could blackmail her. \n\n If you steal the key to the tool shed and send me a photo of Uekiya's keyring missing the tool shed key, I'll reward you with 25 Info Points.=Uekiya Engeika tem as chaves do galpão de ferramentas do Clube de Jardinagem. O galpão está cheio de ferramentas e substâncias perigosas, então os professores ficariam muito irritados se ela perdesse as chaves. Se eu tivesse provas fotográficas de que Uekiya perdeu as chaves do galpão, eu poderia chantageá-la. \n\n Se você roubar a chave e me enviar uma foto do chaveiro da Uekiya sem a chave do galpão, eu te recompenso com 25 pontos de informação.
+Wake Up=Acordar
+...you ate the ramen, and...you had a dream where...you saw the memories of your ancestors? ...Hmm. Even though I think of myself as a spiritual person, I have a very difficult time believing that. Well, that settles it - I simply must try this ramen for myself. Thank you very much for your help!=...você comeu o ramen e... teve um sonho em que... viu as memórias dos seus ancestrais? ...Hum. Embora eu me considere uma pessoa espiritual, tenho muita dificuldade em acreditar nisso. Bem, isso resolve tudo - eu preciso experimentar esse ramen por mim mesmo. Muito obrigado pela ajuda!
+I don't use social media. I seem to recall Amai sharing a blog with me, but...that was five years ago. I don't think anyone even uses that site anymore. I can still give you the URL, if it helps...=Eu não uso redes sociais. Me lembro da Amai compartilhando um blog comigo, mas... isso foi há cinco anos. Acho que ninguém usa mais aquele site. Ainda posso te dar o URL, se ajudar...
+Learned an embarrassing secret!=Aprendeu um segredo embaraçoso!
+You did it! You found all of her social media! Now I can learn everything about her - and then, I might actually have a chance at winning her heart! You're my hero, you know that? Thank you SO much!=Você conseguiu! Você encontrou todas as redes sociais dela! Agora eu posso aprender tudo sobre ela - e talvez até tenha uma chance de ganhar seu coração! Você é minha heroína, sabia disso? Muito obrigado!
+You cannot save the game while a Rival Event is occuring.=Você não pode salvar o jogo enquanto um Evento Rival está ocorrendo.
+How did this happen?!=Como isso aconteceu?!
