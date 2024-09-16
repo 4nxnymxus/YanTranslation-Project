@@ -19,9 +19,9 @@ Low (1/2 Res Textures)=Baixa (1/2 Res Texturas)
 Low (1/4 Res Textures)=Baixa (1/4 Res Texturas)
 Low (1/8 Res Textures)=Baixa (1/8 Res Texturas)
 Continue=Continuar
-sr:"^You are playing the build from (?<month>\w+) (\d+)(?:st|nd|rd|th), (\d+)\.$"=Você está jogando a versão de $2 de ${month}$1, $3.
-sr:"^You are playing the (?<month>\w+) (\d+)(?:st|nd|rd|th) (\d+) build\.$"=Você está jogando a versão de $2 de ${month}$1, $3.
-sr:"^You are playing the (?<month>\w+) (\d+)(?:st|nd|rd|th) (\d+) Build\.$"=Você está jogando a versão de $2 de ${month}$1, $3.
+sr:"^You are playing the build from (?<month>\w+) (\d+)(?:st|nd|rd|th), (\d+)\.$"=Você está jogando a versão de $1 de ${month} de $2.
+sr:"^You are playing the (?<month>\w+) (\d+)(?:st|nd|rd|th) (\d+) build\.$"=Você está jogando a versão de $1 de ${month} de $2.
+sr:"^You are playing the (?<month>\w+) (\d+)(?:st|nd|rd|th) (\d+) Build\.$"=Você está jogando a versão de $1 de ${month} de $2.
 [ff0000]ATTENTION![-] You are playing an [c][ff0000]OUTDATED[-][/c] build of Yandere Simulator! A new build is available for download at: \n \n yanderedev.wordpress.com=[ff0000]ATENÇÃO[-] Você está jogando uma versão [c][ff0000]DESATUALIZADA[-][/c] do Yandere Simulator. A nova versão está disponível em: \n \n yanderedev.wordpress.com.
 January=Janeiro
 February=Fevereiro
@@ -5968,6 +5968,7 @@ I know something that might cheer you up! I'm running a bake sale at school toda
 Oh, gosh - that's way too generous. I couldn't accept food without paying for it...=Ah, nossa - isso é muito generoso. Eu não posso aceitar comida sem pagar...
 Seeing you smile would be payment enough for me!=Ver você sorrir já seria pagamento suficiente para mim!
 Haha! I have to admit, you can be pretty persuasive...=Haha! Tenho que admitir, você sabe ser bem persuasiva...
+Heh...I have to admit, you can be pretty persuasive...=Heh... eu tenho que admitir, você pode ser bastante persuasiva...
 So...is that a yes? Will you be visiting the bake sale?=Então... é um sim? Você vai passar na venda de doces?
 I'm not hungry right now, but I might be in the mood for it around lunchtime.=Não estou com fome agora, mas posso estar no clima na hora do almoço.
 Okay then, Senpai! I hope you'll have worked up a good appetite by then!=Certo então, Senpai! Espero que você esteja com bastante fome até lá!
@@ -10285,7 +10286,21 @@ I'm not convinced that you really mean it. If you're serious about joining us, y
 I saw you...kill someone. None of us have clean hands, but there are lines we don't cross. The answer is no. You can't be one of us. End of discussion.=Eu vi você...matar alguém. Nenhum de nós tem as mãos limpas, mas há limites que não cruzamos. A resposta é não. Você não pode ser um de nós. Fim da conversa.
 Ugh...there's no easy way to say this. Listen: one of us has a problem with you. I ain't sayin' who, but he can't stand the sight of you. I ain't gonna let some petty drama divide us...so you gotta go.=Ugh...não há uma maneira fácil de dizer isso. Ouça: um de nós tem um problema com você. Não vou dizer quem, mas ele não suporta a sua presença. Eu não vou deixar uma briguinha dividir a gente...então você tem que ir.
 
-
+Oh, hello there! Did you want to talk with me about the Cooking Club?=Oh, olá! Você queria falar comigo sobre o clube de culinária?
+Well, like our name suggests, everyone in this club loves to prepare food! And all of us share a common desire to make people smile by serving them delicious treats!=Bem, como o nosso nome sugere, todos neste clube adoram preparar comida! E todos nós compartilhamos o desejo comum de fazer as pessoas sorrirem ao servir guloseimas deliciosas!
+You'll find a wide range of appetites here! Some of us are health nuts who prioritize nutrition, while others have a sweet tooth and want to eat dessert for every meal, haha!=Você vai encontrar uma grande variedade de apetites aqui! Alguns de nós são fanáticos por saúde e priorizam a nutrição, enquanto outros são gulosos e querem comer sobremesa em todas as refeições, haha!
+If you join our club, you'll have access to all of our tasty ingredients, and you'll be able to make meals for others! Serving someone a yummy snack is a great way to make friends fast, you know!=Se você entrar para o nosso clube, terá acesso a todos os nossos ingredientes deliciosos e poderá preparar refeições para os outros! Servir um lanche gostoso é uma ótima maneira de fazer amigos rapidamente, sabia?
+Oh! Are you interested in joining our club?=Oh! Você está interessado em se juntar ao nosso clube?
+How wonderful! You are now an official member of the Cooking Club! I hope you enjoy your time with us!=Que maravilhoso! Agora você é um membro oficial do Clube de Culinária! Espero que você aproveite seu tempo conosco!
+We're all going to get together between 5:00 and 5:30 to prepare a yummy meal! I really hope that we'll see you there!=Todos nós vamos nos reunir entre 5:00 e 5:30 para preparar uma refeição deliciosa! Espero muito que você esteja lá!
+Bye bye for now! Hope to see you later!=Tchau por enquanto! Espero vê-lo mais tarde!
+Uh-oh...is something wrong? Do you need to...leave our club?=Uh-oh... tem algo errado? Você precisa... sair do nosso clube?
+Oh, no...is that really how you feel? I'm so sorry to hear that...but...I understand. I'm sad to see you go, but I wish you the best of luck in the future!=Oh, não... é assim que você realmente se sente? Sinto muito em ouvir isso... mas... eu entendo. Fico triste em ver você partir, mas te desejo boa sorte no futuro!
+...I'm so sorry...it's...kinda hard to consider letting you join the club again, since...you might just leave us again. That would be really sad, so...we just...can't let you back in...again, I'm sorry...=...sinto muito...é...meio difícil considerar deixar você voltar ao clube novamente, já que... você pode nos deixar de novo. Isso seria muito triste, então...nós simplesmente...não podemos deixar você voltar...de novo, sinto muito...
+Oh, gosh! Um, I know this isn't what you'd like to hear, but you can't be a member of two clubs at the same time. If you want to join us, you'd have to quit your current club. I'm sorry about that!=Oh, céus! Hum, sei que isso não é o que você quer ouvir, mas você não pode ser membro de dois clubes ao mesmo tempo. Se quiser se juntar a nós, terá que sair do seu clube atual. Sinto muito por isso!
+It's so good to see you! We're about to begin cooking a meal! Would you like to join us?=É tão bom te ver! Estamos prestes a começar a cozinhar uma refeição! Você gostaria de se juntar a nós?
+Oh! Um, okay! We'll wait for you, but...we can't wait any longer than 5:30, alright...?=Oh! Hum, tudo bem! Vamos esperar por você, mas... não podemos esperar além das 5:30, certo...?
+Yay! Let's get started right away!=Yay! Vamos começar imediatamente!
 
 Hi! Thanks for visiting!=Oi! Obrigado por vir!
 Bye! See you around school!=Até mais! Nos vemos pela escola!
@@ -12770,6 +12785,7 @@ SB=SB
 One week ago=Uma semana atrás
 @cupcakequeen=@rainhadocupcake
 cupcakequeen.saiblur.com=rainhadocupcake.saiblur.com
+Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post.=Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog.
 
 Hardware
 Chainsaw=Serra elétrica
@@ -12804,12 +12820,16 @@ Tamagoyaki=Tamagoyaki
 Yogurt with Fruit=Iogurte com frutas
 Cooking Menu=Menu de cozinha
 
+Coisas da Amai
+Recently, a new bakery opened up in town. I don't want to sound like a nasty person who talks trash about their competition, but I've got a really bad feeling about them.\n\nI've seen the owner of the bakery snooping around my family's bakery at night, as if she's trying to figure out where all of the entrances and windows are. She hasn't done anything illegal yet, so it's not like I can report her to the police or anything like that, but I can just tell that she's up to something bad...=Recentemente, uma nova padaria foi aberta na cidade. Não quero parecer uma pessoa desagradável que fala lixo sobre a competição deles, mas tenho um sentimento muito ruim sobre eles.\n\nEu vi o dono da padaria bisbilhotando a padaria da minha família à noite, como se ela estivesse tentando descobrir onde estão todas as entradas e janelas. Ela ainda não fez nada ilegal, então não é como se eu pudesse denunciá -la à polícia ou algo assim, mas posso dizer que ela está tramando algo ruim ...
+Your rival is worried that the owner of a rival bakery is doing or planning something illegal.=Seu rival está preocupado que o proprietário de uma padaria rival esteja fazendo ou planejando algo ilegal.
+I think someone is trying to sabotage our bakery. If I had to guess, I'd say that it's probably - =Acho que alguém está tentando sabotar nossa padaria. Se eu tivesse que adivinhar, diria que provavelmente é -
+The president of the Cooking Club.\n\n[c][800000]Someone has been sabotaging her family's bakery.\n\n?????[-][/c]=A presidente do Clube de Culinária.\n\n[c][800000]Alguém tem sabotado a padaria de sua família.\n\n?????[-][/c]
 
 
 
-
-
-
+O que as rivais tá atraída
+It seems that your rival is attracted to boys with ponytails.=Parece que seu rival é atraído por meninos com rabos de cavalo.
 
 
 
@@ -12871,62 +12891,39 @@ Cooking Menu=Menu de cozinha
 
 
 
-
 #999 - Color: Bright Contrast Saturation=#999 - Cor: Saturação de contraste brilhante
 Required Elimination:=Eliminação Necessária:
 Lockpicks: 0=LOCKPICKS: 0
-Recently, a new bakery opened up in town. I don't want to sound like a nasty person who talks trash about their competition, but I've got a really bad feeling about them.\n\nI've seen the owner of the bakery snooping around my family's bakery at night, as if she's trying to figure out where all of the entrances and windows are. She hasn't done anything illegal yet, so it's not like I can report her to the police or anything like that, but I can just tell that she's up to something bad...=Recentemente, uma nova padaria foi aberta na cidade. Não quero parecer uma pessoa desagradável que fala lixo sobre a competição deles, mas tenho um sentimento muito ruim sobre eles.\n\nEu vi o dono da padaria bisbilhotando a padaria da minha família à noite, como se ela estivesse tentando descobrir onde estão todas as entradas e janelas. Ela ainda não fez nada ilegal, então não é como se eu pudesse denunciá -la à polícia ou algo assim, mas posso dizer que ela está tramando algo ruim ...
-Your rival is worried that the owner of a rival bakery is doing or planning something illegal.=Seu rival está preocupado que o proprietário de uma padaria rival esteja fazendo ou planejando algo ilegal.Considered missing=Considerado faltando
+Considered missing=Considerado desaparecido
 Ask a Task-Related Question:=Faça uma pergunta relacionada à tarefa:
-It seems that your rival is attracted to boys with ponytails.=Parece que seu rival é atraído por meninos com rabos de cavalo.
 Hot Guys Daily=Caras gostosos diariamente
-Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post. Text of blog post.=Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog. Texto da postagem do blog.
-Heh...I have to admit, you can be pretty persuasive...=Heh... eu tenho que admitir, você pode ser bastante persuasiva...
-I think someone is trying to sabotage our bakery. If I had to guess, I'd say that it's probably - =Acho que alguém está tentando sabotar nossa padaria. Se eu tivesse que adivinhar, diria que provavelmente é -
-The president of the Cooking Club.\n\n[c][800000]Someone has been sabotaging her family's bakery.\n\n?????[-][/c]=A presidente do Clube de Culinária.\n\n[c][800000]Alguém tem sabotado a padaria de sua família.\n\n?????[-][/c]
 You can't! He's watching!=Você não pode! Ele está assistindo!
-You need a faculty keycard!=Você precisa de um cartão -chave do corpo docente!
-You put money on the Cooking Club's debit card=Você coloca dinheiro no cartão de débito do clube de culinária
+You need a faculty keycard!=Você precisa de um cartão-chave do corpo docente!
+You put money on the Cooking Club's debit card=Você colocou dinheiro no cartão de débito do clube de culinária
 Possession of Narcotics=Posse de narcóticos
-Endangering Students' Health=Ameiando a saúde dos alunos
-Report your rival for...=Relate seu rival para ...
-Misappropriating Club Funding=Financiamento de clubes de apropriação incorreta
-Neglecting Cleaning Duties=Negligenciar tarefas de limpeza
+Endangering Students' Health=Colocando a saúde dos alunos em risco
+Report your rival for...=Denuncie seu rival por...
+Misappropriating Club Funding=Desvio de fundos do clube
+Neglecting Cleaning Duties=Negligenciar as tarefas de limpeza
 Creating Fire Hazard=Criando risco de incêndio
-Stealing School Property=Roubar propriedades da escola
-You saw her doing something on the laptop in the student council room?! ...sadly, I think I know exactly what that means. Later today, I'll have a private discussion with her about it.=Você a viu fazendo algo no laptop na sala do conselho estudantil?! ... Infelizmente, acho que sei exatamente o que isso significa. Mais tarde hoje, terei uma discussão particular com ela sobre isso.
-I checked the Student Council's records. Someone attempted to put extra money on the debit card meant for Cooking Club funds. You tried to steal money from the school and give it to your struggling family!=Eu verifiquei os registros do Conselho Estudantil. Alguém tentou colocar dinheiro extra no cartão de débito destinado aos fundos do clube de culinária. Você tentou roubar dinheiro da escola e entregá -lo à sua família em dificuldades!
+Stealing School Property=Roubar propriedade da escola
+You saw her doing something on the laptop in the student council room?! ...sadly, I think I know exactly what that means. Later today, I'll have a private discussion with her about it.=Você a viu fazendo algo no laptop na sala do conselho estudantil?! ...infelizmente, acho que sei exatamente o que isso significa. Mais tarde hoje, terei uma conversa particular com ela sobre isso.
+I checked the Student Council's records. Someone attempted to put extra money on the debit card meant for Cooking Club funds. You tried to steal money from the school and give it to your struggling family!=Eu verifiquei os registros do Conselho Estudantil. Alguém tentou colocar dinheiro extra no cartão de débito destinado aos fundos do clube de culinária. Você tentou roubar dinheiro da escola e entregá-lo à sua família em dificuldades!
 That's not true! I never tried to put extra money on the card! I'm being honest!=Isso não é verdade! Eu nunca tentei colocar dinheiro extra no cartão! Estou sendo honesto!
-Your rival is worried that the owner of a rival bakery is doing or planning something illegal.=Seu rival está preocupado que o proprietário de uma padaria rival esteja fazendo ou planejando algo ilegal.
-Considered missing=Considerado faltando
-Oh, gosh...well, it's embarrassing to admit this, but I actually don't know how to cook anything at all.=Oh, Deus ... bem, é embaraçoso admitir isso, mas na verdade não sei como cozinhar nada.
-(Already Reported Embezzlement)=(Já relatou peculato)
+Your rival is worried that the owner of a rival bakery is doing or planning something illegal.=Seu rival está preocupado que o dono de uma padaria concorrente esteja fazendo ou planejando algo ilegal.
+Considered missing=Considerado desaparecido
+Oh, gosh...well, it's embarrassing to admit this, but I actually don't know how to cook anything at all.=Oh, Deus... bem, é embaraçoso admitir isso, mas na verdade eu não sei cozinhar nada.
+(Already Reported Embezzlement)=(Desvio de fundos já reportado)
 Ingredients poisoned!=Ingredientes envenenados!
-The students who ate her food started vomiting immediately?! This is bad - someone could end up in the hospital! I'll have to confront her about this as soon as possible.=Os alunos que comiam sua comida começaram a vomitar imediatamente?! Isso é ruim - alguém pode acabar no hospital! Vou ter que confrontá -la sobre isso o mais rápido possível.
-I've spoken with a number of students who all confirmed that the food you served at your bake sale caused them to vomit. What kind of unsanitary conditions did you prepare that food in?!=Conversei com vários estudantes que confirmaram que a comida que você serviu na sua venda de bolos levou a eles vomitar. Em que tipo de condições insalubres você preparou essa comida?!
-Huh?! That can't be right! There was nothing wrong with the food I made!=Huh?! Isso não pode estar certo! Não havia nada de errado com a comida que eu fiz!
-...oof, I need a break...=... oof, eu preciso de uma pausa ...
-...okay, so...the recipe says...=... ok, então ... a receita diz ...
-(Already Reported Endangerment)=(Já relatado em perigo)
-Info-chan will provide you with a list of any student's likes and dislikes, which will become visible from their Student Profile, and also visible when socializing or gossipping with them.=Info-chan fornecerá uma lista de gostos e desgostos de qualquer aluno, que se tornarão visíveis do perfil do aluno, e também visíveis ao socializar ou dar a toca com eles.
-Oh, hello there! Did you want to talk with me about the Cooking Club?=Oh, olá! Você queria falar comigo sobre o clube de culinária?
-Well, like our name suggests, everyone in this club loves to prepare food! And all of us share a common desire to make people smile by serving them delicious treats!=Bem, como o nosso nome sugere, todos neste clube adoram preparar comida! E todos nós compartilhamos o desejo comum de fazer as pessoas sorrirem, servindo deliciosas guloseimas!
-You'll find a wide range of appetites here! Some of us are health nuts who prioritize nutrition, while others have a sweet tooth and want to eat dessert for every meal, haha!=Você encontrará uma grande variedade de apetites aqui! Alguns de nós são fanáticos por saúde que priorizam a nutrição, enquanto outros são gulosos e querem comer sobremesa em todas as refeições, haha!
-If you join our club, you'll have access to all of our tasty ingredients, and you'll be able to make meals for others! Serving someone a yummy snack is a great way to make friends fast, you know!=Se você se juntar ao nosso clube, terá acesso a todos os nossos deliciosos ingredientes e poderá preparar refeições para os outros! Servir um lanche gostoso para alguém é uma ótima maneira de fazer amigos rapidamente, sabe?
-Oh! Are you interested in joining our club?=Oh! Você está interessado em se juntar ao nosso clube?
-How wonderful! You are now an official member of the Cooking Club! I hope you enjoy your time with us!=Que maravilhoso! Agora você é um membro oficial do clube de culinária! Espero que aproveite seu tempo conosco!
-We're all going to get together between 5:00 and 5:30 to prepare a yummy meal! I really hope that we'll see you there!=Todos nós vamos nos reunir entre 5:00 e 5:30 para preparar uma refeição deliciosa! Eu realmente espero vê-lo lá!
-Bye bye for now! Hope to see you later!=Tchau por enquanto! Espero vê-lo mais tarde!
-Uh-oh...is something wrong? Do you need to...leave our club?=Uh-oh... há algo errado? Você precisa... sair do nosso clube?
-Oh, no...is that really how you feel? I'm so sorry to hear that...but...I understand. I'm sad to see you go, but I wish you the best of luck in the future!=Oh, não... é assim que você realmente se sente? Sinto muito em ouvir isso... mas... eu entendo. Fico triste em ver você partir, mas desejo-lhe boa sorte no futuro!
-...I'm so sorry...it's...kinda hard to consider letting you join the club again, since...you might just leave us again. That would be really sad, so...we just...can't let you back in...again, I'm sorry...=... Sinto muito... é... meio difícil considerar deixá-lo entrar no clube novamente, já que... você pode nos deixar de novo. Isso seria muito triste, então... nós simplesmente... não podemos deixá-lo voltar... de novo, sinto muito...
-Oh, gosh! Um, I know this isn't what you'd like to hear, but you can't be a member of two clubs at the same time. If you want to join us, you'd have to quit your current club. I'm sorry about that!=Oh, céus! Hum, eu sei que isso não é o que você gostaria de ouvir, mas você não pode ser membro de dois clubes ao mesmo tempo. Se quiser se juntar a nós, terá que sair do seu clube atual. Sinto muito por isso!
-It's so good to see you! We're about to begin cooking a meal! Would you like to join us?=É tão bom ver você! Estamos prestes a começar a cozinhar uma refeição! Você gostaria de se juntar a nós?
-Oh! Um, okay! We'll wait for you, but...we can't wait any longer than 5:30, alright...?=Oh! Hum, tudo bem! Vamos esperar por você, mas... não podemos esperar mais do que 5:30, ok...?
-Yay! Let's get started right away!=Yay! Vamos começar imediatamente!
-The president of the Cooking Club.\n\n[c][800000]?????\n\n?????[-][/c]=O presidente do clube de culinária.\n\n[c] [800000] ?????\n\n????? [-] [/c]
-Kenko Sukoyaka needs exactly 128 carrots. Find 128 carrots somewhere, bring them to school, and tell Kenko about them.=Kenko Sukoyaka precisa exatamente de 128 cenouras. Encontre 128 cenouras em algum lugar, leve-as para a escola e conte a Kenko sobre elas.
-Ask for Amai's Social Media:=Peça a mídia social da Amai:
+The students who ate her food started vomiting immediately?! This is bad - someone could end up in the hospital! I'll have to confront her about this as soon as possible.=Os alunos que comeram a comida dela começaram a vomitar imediatamente?! Isso é péssimo - alguém pode acabar no hospital! Vou ter que confrontá-la sobre isso o mais rápido possível.
+I've spoken with a number of students who all confirmed that the food you served at your bake sale caused them to vomit. What kind of unsanitary conditions did you prepare that food in?!=Conversei com vários alunos que confirmaram que a comida que você serviu na sua venda de bolos os fez vomitar. Em que tipo de condições insalubres você preparou aquela comida?!
+Huh?! That can't be right! There was nothing wrong with the food I made!=Hã?! Isso não pode estar certo! Não havia nada de errado com a comida que eu fiz!
+...oof, I need a break...=...oof, preciso de uma pausa...
+...okay, so...the recipe says...=...ok, então... a receita diz...
+(Already Reported Endangerment)=(Perigo já reportado)
+Info-chan will provide you with a list of any student's likes and dislikes, which will become visible from their Student Profile, and also visible when socializing or gossipping with them.=Info-chan vai te fornecer uma lista dos gostos e desgostos de qualquer aluno, que se tornará visível no perfil do aluno, e também visível ao socializar ou fofocar com eles.
+Kenko Sukoyaka needs exactly 128 carrots. Find 128 carrots somewhere, bring them to school, and tell Kenko about them.=Kenko Sukoyaka precisa de exatamente 128 cenouras. Encontre 128 cenouras em algum lugar, traga-as para a escola e avise Kenko.
+Ask for Amai's Social Media:=Peça a rede social da Amai:
 I want to talk to you about Amai...=Eu quero falar com você sobre Amai...
 Recently, Amai posted something concerning on her private friends-only blog. I know I'm not supposed to share anything she posts there, but I'm worried about her. You're a good person who helps people that are in trouble, so...here, take the URL and the password. If she's in danger, please help her!=Recentemente, Amai postou algo preocupante no blog particular para amigos. Eu sei que não deveria compartilhar o que ela posta lá, mas estou preocupada com ela. Você é uma boa pessoa que ajuda quem está em apuros, então... aqui, pegue o URL e a senha. Se ela estiver em perigo, por favor, ajude-a!
 ...okay, I'll admit it. I...have a crush on Amai. I'm completely infatuated; I just want to learn everything there is to know about her! ...but...recently...she's been way too busy to talk...=...ok, vou admitir. Eu... tenho uma queda por Amai. Estou completamente encantado; eu só quero aprender tudo sobre ela! ...mas... ultimamente... ela está muito ocupada para conversar...
@@ -12993,3 +12990,4 @@ Learned an embarrassing secret!=Aprendeu um segredo embaraçoso!
 You did it! You found all of her social media! Now I can learn everything about her - and then, I might actually have a chance at winning her heart! You're my hero, you know that? Thank you SO much!=Você conseguiu! Você encontrou todas as redes sociais dela! Agora eu posso aprender tudo sobre ela - e talvez até tenha uma chance de ganhar seu coração! Você é minha heroína, sabia disso? Muito obrigado!
 You cannot save the game while a Rival Event is occuring.=Você não pode salvar o jogo enquanto um Evento Rival está ocorrendo.
 How did this happen?!=Como isso aconteceu?!
+Remove Sculpture=Remova a escultura
