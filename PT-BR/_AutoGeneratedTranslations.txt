@@ -6632,7 +6632,7 @@ Look, I prepared this meal for you. I promise it's delicious!=Olha, preparei ess
 Oh! Well, um...=Ah! Bem, hum...
 Hey, don't be that way! Take it! I swear, you're going to love it!=Ei, não seja assim! Pegue! Eu juro que você vai adorar!
 Okay! I'll keep it on my desk for now, and eat it at lunchtime.=Certo! Vou deixar na minha mesa por enquanto e comer na hora do almoço.
-Great! At 5:15 PM, let's meet up back here, so you can tell me how it tasted!=Ótimo! Às 17h15, vamos nos encontrar aqui de novo para você me contar como estava!
+Great! At 5:15 PM, let's meet up back here, so you can tell me how it tasted!=Ótimo! Às 5:15, vamos nos encontrar aqui de novo para você me contar como estava!
 Alright, sounds like a plan!=Beleza, parece uma boa ideia.
 Great! I'm looking forward to it!=Ótimo! Estou ansiosa para isso!
 
@@ -7007,532 +7007,470 @@ Hehe! Yep, that's me! Your hero, Senpai! Now and forever!=Hehe! Sim, sou eu! Sua
 ...I'm sorry...I'm sorry, Senpai, I'm so sorry...=...sinto muito...sinto muito, Senpai, me desculpe...
 Teiko
 月1
-Senpai...may I please have a moment of your time?=センパイ...ちょっといい？
-Sure, what's up?=ああいいよ、どうしたんだい？
-It's embarrassing...but I accidentally made an extra bento this morning.=恥ずかしい話なんだけど...今朝うっかりお弁当を作り過ぎちゃって。
-It pains me to see food go to waste...so, I'd like to offer it to you.=捨てちゃうのはもったいないし...よかったら食べてくれない？
-Oh, that'd be an honor! I'd love to have it?=え？！嬉しいよ！いいのかい？
-Oh, that'd be an honor! I'd love to have it!=え？！嬉しいよ！ありがとう！
-Would you? That would make me so happy! Please take it, Senpai!=受け取ってくれるの？嬉しいわ！どうぞ、センパイ！
-Okay! I'll keep it on my desk for now, and eat it at lunchtime.=分かったよ。とりあえず机の上に置いといて。昼休みに食べるから。
-Wonderful! At 5:15 PM, would you meet me here, so you can tell me how it tasted?=やった！またここで5:15 PMに会わない？感想を聞きたいの。
-Yeah, I'd be glad to!=ああ、喜んで！
-I'm so happy that everything worked out okay!=やった！嬉しい！
+Senpai...may I please have a moment of your time?=Senpai...posso ter um momento do seu tempo?  
+Sure, what's up?=Claro, o que aconteceu?  
+It's embarrassing...but I accidentally made an extra bento this morning.=É embaraçoso...mas eu acabei fazendo um bento extra esta manhã.  
+It pains me to see food go to waste...so, I'd like to offer it to you.=Dói ver comida indo para o lixo...então, eu gostaria de te oferecer.  
+Oh, that'd be an honor! I'd love to have it?=Oh, seria uma honra! Eu adoraria receber!  
+Oh, that'd be an honor! I'd love to have it!=Oh, seria uma honra! Eu adoraria!  
+Would you? That would make me so happy! Please take it, Senpai!=Você aceitaria? Isso me deixaria tão feliz! Por favor, leve, Senpai!  
+Okay! I'll keep it on my desk for now, and eat it at lunchtime.=Certo! Vou deixá-lo na minha mesa por enquanto e comer na hora do almoço.  
+Wonderful! At 5:15 PM, would you meet me here, so you can tell me how it tasted?=Maravilha! Às 17h15, você poderia me encontrar aqui, para me contar como estava?  
+Yeah, I'd be glad to!=Sim, ficarei feliz em fazer isso!  
+I'm so happy that everything worked out okay!=Estou tão feliz que tudo deu certo!  
 
-月2a
-Hello, Senpai! I'm anxious to hear how the bento tasted...=あ、センパイ！お弁当どうだった？ちょっと不安だわ...
-Oh, it was great!=とってもおいしかったよ！
-Really? It was? Oh, I'm so happy to hear that!=本当？おいしかった？嬉しい！
-Yeah! You're a great cook!=うん！料理、上手なんだね！
-Oh...honestly, you're too kind! You'll make me blush!=とっても優しいのね！ちょっと照れるなぁ...
-It's a relief to know that I didn't mess it up somehow...=失敗してなかったみたいで安心したわ...
-...maybe I'll make you another bento one day! Hehe!=...またいつかお弁当作ってあげるね！
-...well...shall we...um...walk home together...=...それで...一緒に...その...帰らない？
-Sure! I'd be happy to!=もちろんいいよ！
-Oh, delightful! Let's go!=やったぁ！行きましょ！
+月2a  
+Hello, Senpai! I'm anxious to hear how the bento tasted...=Olá, Senpai! Estou ansiosa para saber como estava o bento...  
+Oh, it was great!=Oh, estava ótimo!  
+Really? It was? Oh, I'm so happy to hear that!=Sério? Estava? Oh, estou tão feliz em ouvir isso!  
+Yeah! You're a great cook!=Sim! Você é uma ótima cozinheira!  
+Oh...honestly, you're too kind! You'll make me blush!=Oh...honestamente, você é muito gentil! Você vai me fazer corar!  
+It's a relief to know that I didn't mess it up somehow...=É um alívio saber que eu não estraguei de alguma forma...  
+...maybe I'll make you another bento one day! Hehe!=...talvez eu faça outro bento para você um dia! Hehe!  
+...well...shall we...um...walk home together...=...bem...vamos...hum...voltar para casa juntos...  
+Sure! I'd be happy to!=Claro! Ficarei feliz em fazer isso!  
+Oh, delightful! Let's go!=Oh, maravilhoso! Vamos!  
 
-月2b
-...um...well...=あの...その...
-...oh, dear. I anticipate a problem...=...どうしたの？何かあったの？
-Hey, that bento...was that a prank, or something?=あのお弁当は...イタズラか何かだったの？
-What? No! I swear, I'd never prank you!=え？そんな！イタズラなんてしないわ！
-Well...it made me throw up. Like, immediately.=うん...あの弁当を食べた後吐いちゃって。すぐに
-...no. You're not serious. You don't mean that, do you?=...そんな。そんなはず。本当に？
-...as long as you didn't do it on purpose, it's no big deal...=わざとじゃないなら、まあいいけど...
-...well, I'm going to go home now...=さて、僕はそろそろ帰るよ...
-Wait...that bento should have been fine...why...why did...=待って...あのお弁当はちゃんと...なんで...なんでこんな...
-火1
-Hello, Senpai. How are you today?=センパイ、おはよう。調子はどう？
-Good! Hey, I brought that book you wanted.=おはよう。ほら、君の言ってた本持ってきたよ。
-That's wonderful! I was hoping that you'd bring it!=やった！持ってきてくれてうれしいわ。
-Here, take it! Hope you enjoy it!=どうぞ、受け取って！楽しんでね！
-I'm really looking forward to reading this!=本当に楽しみにしてたの！
-I only want to read one chapter so I can decide if I want to buy it.=読みたかったのはこの章だけだから買うべきか悩ましくって。
-I'll read it at lunchtime. When should I return it to you?=昼休憩中に読みましょ。返すのはいつがいいかしら？
-Hmm...how about 5:15 PM? We can meet right here.=う〜ん...今日の午後5時15分はどうかな？ここでまた会おう
-That fits into my schedule nicely!=ちょうど予定が空いてるわ！
-I'll look forward to hearing your thoughts on the book!=本の感想を楽しみにしてるね。
+月2b  
+...um...well...=...hum...bem...  
+...oh, dear. I anticipate a problem...=...oh, querido. Prevejo um problema...  
+Hey, that bento...was that a prank, or something?=Ei, aquele bento...foi uma pegadinha ou algo assim?  
+What? No! I swear, I'd never prank you!=O quê? Não! Eu juro que nunca faria isso!  
+Well...it made me throw up. Like, immediately.=Bem...me fez vomitar. Tipo, imediatamente.  
+...no. You're not serious. You don't mean that, do you?=...não. Você não está falando sério. Não quer dizer isso, quer?  
+...as long as you didn't do it on purpose, it's no big deal...=...desde que você não tenha feito isso de propósito, não tem problema...  
+...well, I'm going to go home now...=...bem, eu vou para casa agora...  
+Wait...that bento should have been fine...why...why did...=Espere...aquele bento deveria estar bom...por que...por que...  
 
-火2a
-Hi again! What did you think of the book?=また会ったね！本はどうだった？
-Oh, I loved it! It was wonderful from beginning to end!=ええ、本当に良かったわ！最初から最後まで素敵だった！
-I'm glad you liked...wait. Beginning to end?=気に入ってくれて嬉し...って、え?! もう全部読んだの！？
-Yes! I read the entire thing!=ええ！全部読んでしまったわ！
-The...whole book. From start to finish. Everything?=この本...全部。始めから終わりまで。全部？
-Yes! It was so engrossing, I couldn't put it down.=そう！本当に夢中になって、やめられなくなっちゃって。
-I've been told that I read a bit faster than most people...=よく言われるんだけど私、人より読むのが少し速いみたいなの。
-I'd love to discuss the ending with you! Shall we walk together?=終わりの部分で色々話したい事があるの！一緒に帰りましょうか？
-Uh...oh! Yeah! Sure! Let's!=うん...ああ！そうだね！行こう！
-Excellent! Okay, so, in Chapter 5...=よかった！じゃあ、ほら第5章で...
-火2b
-Senpai...I'm sorry, I have bad news.=センパイ...ごめんなさい、謝らないといけないことがあって。
-I...lost the book that you lent me. I'm so sorry.=あの貸してくれた本...どこかに忘れちゃったみたいなの。本当にごめんなさい。
-I searched for it everywhere, but...I just couldn't find it...=いろいろ探し回ったけど...結局見つからなくて...
-...so, it's just...gone now?=それって、なくしちゃったってこと？
-To make up for this, I'll buy you a replacement right away!=ごめんなさい！すぐに新しいのを買うわ！
-...you don't have to bother doing that.=そんなことしなくてもいいよ。
-It was special to me because it was a gift from my sister.=あれは妹からもらった特別なものなんだ。
-There's no point in replacing it. It wouldn't really be the same book.=買い換えても意味が無いよ。同じ本とは思えないし。
-...I'm just...going to go now...=もう行くね。
-...uh...oh...I've...I've really...blundered this time, haven't I...=...ああ...私のせいだわ...私がもっとしっかりしてれば...
+火1  
+Hello, Senpai. How are you today?=Olá, Senpai. Como você está hoje?  
+Good! Hey, I brought that book you wanted.=Bom! Ei, eu trouxe aquele livro que você queria.  
+That's wonderful! I was hoping that you'd bring it!=Isso é maravilhoso! Eu estava esperando que você trouxesse!  
+Here, take it! Hope you enjoy it!=Aqui, pegue! Espero que você goste!  
+I'm really looking forward to reading this!=Estou realmente ansiosa para ler isso!  
+I only want to read one chapter so I can decide if I want to buy it.=Eu só quero ler um capítulo para decidir se quero comprá-lo.  
+I'll read it at lunchtime. When should I return it to you?=Vou ler na hora do almoço. Quando eu devo te devolver?  
+Hmm...how about 5:15 PM? We can meet right here.=Hmm...que tal às 17h15? Podemos nos encontrar bem aqui.  
+That fits into my schedule nicely!=Isso se encaixa bem na minha agenda!  
+I'll look forward to hearing your thoughts on the book!=Estou ansiosa para ouvir seus pensamentos sobre o livro!  
 
-水1
-Hello, Senpai! I have a question for you?=おはよう、センパイ！1つ質問いいかしら？
-Oh? Hi! What do you want to ask?=ああ、おはよう！どうしたんだい？
-I'd like to know if you'll be free around lunchtime!=今日の昼休憩時間空いてるかどうか聞きたくて！
-You see, there's something I'd like to give you...=ほら、あなたに貰って欲しいものがあって...
-Oh? Sounds fun! Sure, I'll be free at lunchtime.=へえ、面白そうだね！うん、昼は空いてるよ。
-Oh...good! Please meet me on the school rooftop for lunch, then.=ああ...良かった！それなら、お昼ご飯の時屋上で会える？
-Man, what could it be? Now you've got me all curious...=何を見せてくれるのかな。気になってしょうがないよ...
-Heh...I'm not trying to tease you, if that's what you think...=フフ...別にからかってるわけじゃないわ...
-Oh, I'm sorry, I have to go now - I'll see you at lunchtime!=あら、ごめんなさい、もう行かなきゃ。じゃあお昼休憩にね！
-Okay! See you later, then!=オーケー。また後でね！
+火2a  
+Hi again! What did you think of the book?=Oi de novo! O que você achou do livro?  
+Oh, I loved it! It was wonderful from beginning to end!=Oh, eu amei! Foi maravilhoso do começo ao fim!  
+I'm glad you liked...wait. Beginning to end?=Fico feliz que você tenha gostado...espere. Do começo ao fim?  
+Yes! I read the entire thing!=Sim! Eu li tudo!  
+The...whole book. From start to finish. Everything?=O...livro todo. Do começo ao fim. Tudo?  
+Yes! It was so engrossing, I couldn't put it down.=Sim! Estava tão envolvente que não consegui parar de ler.  
+I've been told that I read a bit faster than most people...=Já me disseram que leio um pouco mais rápido que a maioria das pessoas...  
+I'd love to discuss the ending with you! Shall we walk together?=Eu adoraria discutir o final com você! Vamos andar juntos?  
+Uh...oh! Yeah! Sure! Let's!=Uh...oh! Sim! Claro! Vamos!  
+Excellent! Okay, so, in Chapter 5...=Excelente! Ok, então, no Capítulo 5...  
 
-水2a
-Senpai! I'm glad you're here. Please...take this box, and open it.=センパイ！来てくれてありがとう。さあ...この箱を開けて！
-Okay...here goes! I'm opening the box now, aaaaand...=よし、いくよ！今から箱を開けるよ！そして...
-...Hmm? A book? Hey...I think I recognize this author.=...ん？本？あ...この作者に見覚えが。
-This book is by that mysterious author whose true identity is unknown, right?=確か正体不明の作者で謎に包まれているらしいんだ、そうだよね？
-Senpai...you're very important to me. I don't want to keep secrets from you.=センパイ...あなたは私にとって大事な人。何も秘密にしておきたくないの。
-So...I'm going to confess the truth to you.=だから...真実を伝えたくて。
-...huh? The truth? ...wait. Hold on...are you saying that you're actually...?!=...え？真実？...待って。まさか...実は君が...?!
-(Senpai looks back and forth between the book and the girl.)=（センパイの視線が本と彼女を行き来する）
-...wow! It's an honor to be trusted with this secret. I won't tell a soul!=...わあ！こんな秘密を打ち明けてくれるなんて嬉しいよ。絶対に誰にも言わないから！
-Thank you, Senpai. I just couldn't bear the thought of hiding anything from you.=ありがとう、センパイ。あなたに隠し事なんてしたくなかったの。
+火2b  
+Senpai...I'm sorry, I have bad news.=Senpai...desculpe, eu tenho más notícias.  
+I...lost the book that you lent me. I'm so sorry.=Eu...perdi o livro que você me emprestou. Sinto muito.  
+I searched for it everywhere, but...I just couldn't find it...=Eu procurei em todo lugar, mas...não consegui encontrar...  
+...so, it's just...gone now?=...então, ele está...perdido agora?  
+To make up for this, I'll buy you a replacement right away!=Para compensar, eu vou comprar um novo para você agora mesmo!  
+...you don't have to bother doing that.=...você não precisa se incomodar com isso.  
+It was special to me because it was a gift from my sister.=Era especial para mim porque foi um presente da minha irmã.  
+There's no point in replacing it. It wouldn't really be the same book.=Não faz sentido substituí-lo. Não seria realmente o mesmo livro.  
+...I'm just...going to go now...=...eu só...vou embora agora...  
+...uh...oh...I've...I've really...blundered this time, haven't I...=...uh...oh...eu...eu realmente...errei desta vez, não é...?  
+
+水1  
+Hello, Senpai! I have a question for you?=Olá, Senpai! Eu tenho uma pergunta para você?  
+Oh? Hi! What do you want to ask?=Oh? Oi! O que você quer perguntar?  
+I'd like to know if you'll be free around lunchtime!=Eu gostaria de saber se você estará livre na hora do almoço!  
+You see, there's something I'd like to give you...=Você vê, tem algo que eu gostaria de te dar...  
+Oh? Sounds fun! Sure, I'll be free at lunchtime.=Oh? Parece divertido! Claro, estarei livre na hora do almoço.  
+Oh...good! Please meet me on the school rooftop for lunch, then.=Oh...bom! Por favor, encontre-me no telhado da escola para o almoço, então.  
+Man, what could it be? Now you've got me all curious...=Cara, o que pode ser? Agora estou super curioso...  
+Heh...I'm not trying to tease you, if that's what you think...=Heh...não estou tentando te provocar, se é isso que você pensa...  
+Oh, I'm sorry, I have to go now - I'll see you at lunchtime!=Oh, desculpe, eu tenho que ir agora - nos vemos na hora do almoço!  
+Okay! See you later, then!=Certo! Até mais, então!  
+
+水2a  
+Senpai! I'm glad you're here. Please...take this box, and open it.=Senpai! Estou feliz que você esteja aqui. Por favor...pegue esta caixa e abra.  
+Okay...here goes! I'm opening the box now, aaaaand...=Certo...lá vou eu! Estou abrindo a caixa agora, e...  
+...Hmm? A book? Hey...I think I recognize this author.=...Hmm? Um livro? Ei...acho que reconheço este autor.  
+This book is by that mysterious author whose true identity is unknown, right?=Este livro é daquele autor misterioso cuja verdadeira identidade é desconhecida, certo?  
+Senpai...you're very important to me. I don't want to keep secrets from you.=Senpai...você é muito importante para mim. Eu não quero esconder segredos de você.  
+So...I'm going to confess the truth to you.=Então...eu vou confessar a verdade para você.  
+...huh? The truth? ...wait. Hold on...are you saying that you're actually...?!=...huh? A verdade? ...espere. Um momento...você está dizendo que você realmente...?  
+(Senpai looks back and forth between the book and the girl.)=(Senpai olha de um lado para o outro entre o livro e a garota.)  
+...wow! It's an honor to be trusted with this secret. I won't tell a soul!=...uau! É uma honra ser confiado com este segredo. Não vou contar a ninguém!  
+Thank you, Senpai. I just couldn't bear the thought of hiding anything from you.=Obrigado, Senpai. Eu simplesmente não conseguia suportar a ideia de esconder algo de você.  
 
 水2b
-...oh...wow...I...definitely didn't expect to see something like this...=うわー、これは完全に予想外だ...
-...huh? What's so surprising?=...あれ？そんなに驚いてどうしたの？
-Um...I have to be honest with you...I'm not really interested in this sort of thing...=あのね、正直こういうのには興味ないんだ...
-...I...uh...oh...so, not a fan, then...?=...えっと...その...好きじゃなかった...？
-Please don't try to share this type of stuff with me again, okay?=もうこういうのを持ってこないで。いいね？
-...oh...wow...you really...dislike it, then, huh...=...あ...そうなの...嫌いだったのね、じゃあ、うん...
-...yeah, well...anyway...enjoy your lunch, I guess...=まあ、とにかく、もう昼ごはんを食べるから。
-...I...I was just trying to...yeah...okay...=...私...ただ単に...うん...いいわ...
-木1
-Hey, Senpai! We still on for that movie later tonight?=ねえ、センパイ！あの映画って今夜だっけ？
-Yeah! I can't wait to go see it with you!=ああ！一緒に見に行くのが待ち遠しいよ！
-So, just to make sure, we're going to meet up here at 5:15 PM, right?=念のため確認だけど、午後5:15にここへ集合で合ってるよね？
-Yep, that's right!=うん、そうだね！
-Phew, I'm glad I remembered the time correctly - (Yawn)=フー、ちゃんと覚えてたみたい ...　(あくび)
-Oh, sorry about that...I guess I didn't get much sleep last night, haha...=あ、ごめん...夕べあまり眠れなくて、ハハ...
-Maybe you should take a nap after cleaning time is over.=清掃時間の後に昼寝したら？
-Hmm...that might be a good idea. Yeah, I should do that!=うーん...それはいいかもしれない。うん、そうする！
-Sometimes a big meal puts me right to sleep...=あまり食べすぎると寝ちゃうときがあるから...
-I guess I should be careful what I eat at lunchtime!=昼に食べるものにも気を付けないと！
+...oh...wow...I...definitely didn't expect to see something like this...=...uau, isso...definitivamente eu não esperava ver algo assim...  
+...huh? What's so surprising?=...huh? O que é tão surpreendente?  
+Um...I have to be honest with you...I'm not really interested in this sort of thing...=Um...eu tenho que ser honesto com você...não estou realmente interessado nesse tipo de coisa...  
+...I...uh...oh...so, not a fan, then...?=...eu...uh...oh...então, não é fã, certo...?  
+Please don't try to share this type of stuff with me again, okay?=Por favor, não tente me mostrar esse tipo de coisa novamente, tá?  
+...oh...wow...you really...dislike it, then, huh...=...oh...uau...você realmente...não gosta disso, né...?  
+...yeah, well...anyway...enjoy your lunch, I guess...=...é, bem...enfim...aproveite seu almoço, eu acho...  
+...I...I was just trying to...yeah...okay...=...eu...eu estava apenas tentando...é...tá...  
 
-木2a
-Senpai! It's good to see you. Ready to go see that movie?=センパイ！会えたわね。映画、いいかしら？
-Yeah!=ああ！
-That's good to hear! Let's go!=よかった！さあ行きましょう！
+木1  
+Hey, Senpai! We still on for that movie later tonight?=Ei, Senpai! Ainda vamos ver aquele filme mais tarde?  
+Yeah! I can't wait to go see it with you!=Sim! Estou ansioso para ir vê-lo com você!  
+So, just to make sure, we're going to meet up here at 5:15 PM, right?=Só para ter certeza, nós vamos nos encontrar aqui às 17:15, certo?  
+Yep, that's right!=Sim, isso mesmo!  
+Phew, I'm glad I remembered the time correctly - (Yawn)=Ufa, ainda bem que eu lembrei da hora certa - (bocejo)  
+Oh, sorry about that...I guess I didn't get much sleep last night, haha...=Oh, desculpe por isso...acho que não dormi muito bem na noite passada, haha...  
+Maybe you should take a nap after cleaning time is over.=Talvez você devesse tirar uma soneca depois que o horário de limpeza acabar.  
+Hmm...that might be a good idea. Yeah, I should do that!=Hmm...isso pode ser uma boa ideia. Sim, eu devo fazer isso!  
+Sometimes a big meal puts me right to sleep...=Às vezes uma refeição grande me faz dormir na hora...  
+I guess I should be careful what I eat at lunchtime!=Acho que devo ter cuidado com o que como no almoço!  
 
-金1
-Oh, dear...Senpai, you seem rather sad today. What's the matter...?=あら、どうしたの...センパイ、今日はなんだか悲しそう。何かあったの...？
-Oh...I'm worried about the test we're going to have before lunch today...=ああ...実は昼前のテストが心配でね...
-I took a lot of notes in class in preparation for this test, but...=テストに備えて授業中に沢山ノートを取ったんだけど...
-Somehow, I lost all of the notes I took, and now I can't study before the test...=どういうわけかノートをなくしちゃってね。テスト前に勉強できないんだ。
-You're in luck, Senpai! I don't mean to boast, but I happen to take very thorough notes!=ついてるわね、センパイ！自慢じゃないけど私、わかりやすいノートをとってあるの！
-I'll simply head over to my desk and create a copy of my notes...=今から机で写しを取ってくるから...
-...then, I'll go over to your classroom and put my notes on your desk, okay?=...あなたの机に置いておくわ、それで大丈夫？
-Wow, would you really do that for me? I would appreciate that a lot!=本当？ありがたいよ！
-It would be my pleasure, Senpai! It's not any inconvenience at all!=ええ、喜んで！すぐできるわ！
-I will want to know if my notes were helpful, so please meet me on the roof at lunchtime!=後でノートが役に立ったか聞きたいな。昼休憩に屋上で会えるかしら？
+木2a  
+Senpai! It's good to see you. Ready to go see that movie?=Senpai! Bom te ver. Pronto para ver aquele filme?  
+Yeah!=Sim!  
+That's good to hear! Let's go!=Que bom ouvir isso! Vamos!  
 
-金2a
-Senpai! I wrote the best notes for you that I possibly could. Did they help?=センパイ！できる限りいいノートを書いたつもりだけど、役に立ったかしら？
-Yeah! Thanks to your notes, I aced that test!=うん！ありがとう、テストは大成功だったよ！
-I'm glad to hear that! I'm very confident in my ability to take good notes!=よかった、嬉しいわ！いいノートをとるのには自信があるの！
-I probably would have flunked that test if it wasn't for your help! I owe you big time!=もし君のノートが無かったらきっと惨敗だったよ！本当にありがとう！
-Oh, it was nothing! I'd be willing to help you out with academic pursuits anytime!=何てことないわよ！勉強ならいつでも喜んで手伝うわ！
+金1  
+Oh, dear...Senpai, you seem rather sad today. What's the matter...?=Oh, querido...Senpai, você parece um pouco triste hoje. O que aconteceu...?  
+Oh...I'm worried about the test we're going to have before lunch today...=Oh...estou preocupado com a prova que teremos antes do almoço hoje...  
+I took a lot of notes in class in preparation for this test, but...=Eu fiz muitas anotações na aula em preparação para essa prova, mas...  
+Somehow, I lost all of the notes I took, and now I can't study before the test...=De alguma forma, perdi todas as anotações que fiz, e agora não consigo estudar antes da prova...  
+You're in luck, Senpai! I don't mean to boast, but I happen to take very thorough notes!=Você está com sorte, Senpai! Não quero me gabar, mas eu faço anotações bem completas!  
+I'll simply head over to my desk and create a copy of my notes...=Vou simplesmente até a minha mesa e fazer uma cópia das minhas anotações...  
+...then, I'll go over to your classroom and put my notes on your desk, okay?=...então, vou até sua sala e colocar minhas anotações na sua mesa, tá?  
+Wow, would you really do that for me? I would appreciate that a lot!=Uau, você realmente faria isso por mim? Eu ficaria muito agradecido!  
+It would be my pleasure, Senpai! It's not any inconvenience at all!=Seria um prazer, Senpai! Não dá nenhum trabalho!  
+I will want to know if my notes were helpful, so please meet me on the roof at lunchtime!=Quero saber se minhas anotações foram úteis, então por favor me encontre no telhado no horário do almoço!  
 
-金2b
-...what? That's...not possible. My notes should have been perfect.=...え？そんな...まさか。あのノートは完璧だったはずなのに。
-What?! Something is seriously wrong here. My notes were flawless...=そんな?! 何かおかしいわ。私のノートに間違いなんて...
-I try to never boast, but...I DO have the best grades in school, so...=自慢するつもりはないけど、それでも...私この学校の首席で、だから...
-...oh...no, no...there's only one explanation...I think I understand...=...そんな...いえ...これしか理由が...そうね...
-...I copied the wrong notes by mistake...I'm sorry, Senpai...it's my fault...=...私がノートを写し間違えたみたい...ごめんなさいセンパイ...私のせいね...
-Komako
-月1
-Senpai, may I please speak with you?=センパイ, お話してもいいかしら？
-Yeah, anytime! What's up?=ああ、もちろん！どうしたの？
-I was thinking of you this morning. I wanted to do something nice for you.=今朝あなたのことを考えていました。何か良いことをして差しあげたいと思ったのです。
-I have prepared a meal for you. Would you be willing to accept it?=お食事を用意しました。受け取っていただけますか？
-Whoa, really? You made a meal, just for me?=わあ、本当？僕のために？
-Oh...I'm sorry...I shouldn't have made you a meal without your permission...=あら...ごめんなさい...あなたに許可を頂いてから作るべきでしたね...
-No, I'd love to have it! I'll put it on my desk, and eat it at lunchtime!=いや、いただくよ！机に置いといて、お昼に食べるよ！
-Splendid! At 5:15 PM, would you meet me here, so you can tell me how it tasted?=よかった！5:15にここで待ち合わせて、味の感想を教えていただけますか？
-Yes, I'd love to!=うん、もちろん！
-Oh, I sincerely hope that you will enjoy it!=あら、喜んでいただけたら嬉しいですわ！
+金2a  
+Senpai! I wrote the best notes for you that I possibly could. Did they help?=Senpai! Eu escrevi as melhores anotações que consegui para você. Elas ajudaram?  
+Yeah! Thanks to your notes, I aced that test!=Sim! Graças às suas anotações, eu me saí muito bem naquela prova!  
+I'm glad to hear that! I'm very confident in my ability to take good notes!=Fico feliz em ouvir isso! Tenho muita confiança na minha capacidade de fazer boas anotações!  
+I probably would have flunked that test if it wasn't for your help! I owe you big time!=Eu provavelmente teria ido mal naquela prova se não fosse pela sua ajuda! Eu te devo uma!  
+Oh, it was nothing! I'd be willing to help you out with academic pursuits anytime!=Oh, não foi nada! Eu ficaria feliz em te ajudar com estudos sempre que precisar!  
+
+金2b  
+...what? That's...not possible. My notes should have been perfect.=...o quê? Isso...não é possível. Minhas anotações deveriam ser perfeitas.  
+What?! Something is seriously wrong here. My notes were flawless...=O quê?! Algo está seriamente errado aqui. Minhas anotações eram impecáveis...  
+I try to never boast, but...I DO have the best grades in school, so...=Eu tento nunca me gabar, mas...eu realmente tenho as melhores notas da escola, então...  
+...oh...no, no...there's only one explanation...I think I understand...=...oh...não, não...só há uma explicação...acho que entendi...  
+...I copied the wrong notes by mistake...I'm sorry, Senpai...it's my fault...=...eu copiei as anotações erradas por engano...desculpe, Senpai...é minha culpa...  
+
+Komako  
+月1  
+Senpai, may I please speak with you?=Senpai, posso falar com você?  
+Yeah, anytime! What's up?=Sim, a qualquer hora! O que houve?  
+I was thinking of you this morning. I wanted to do something nice for you.=Eu estava pensando em você esta manhã. Queria fazer algo bom por você.  
+I have prepared a meal for you. Would you be willing to accept it?=Eu preparei uma refeição para você. Você aceitaria?  
+Whoa, really? You made a meal, just for me?=Uau, sério? Você fez uma refeição só para mim?  
+Oh...I'm sorry...I shouldn't have made you a meal without your permission...=Oh...desculpe...eu não devia ter feito uma refeição para você sem sua permissão...  
+No, I'd love to have it! I'll put it on my desk, and eat it at lunchtime!=Não, eu adoraria! Vou colocar na minha mesa e comer no horário do almoço!  
+Splendid! At 5:15 PM, would you meet me here, so you can tell me how it tasted?=Ótimo! Às 17:15, você poderia me encontrar aqui, para me contar como estava?  
+Yes, I'd love to!=Sim, eu adoraria!  
+Oh, I sincerely hope that you will enjoy it!=Oh, eu sinceramente espero que você goste!  
 
 月2a
-Greetings, Senpai. Please, tell me how the bento tasted.=ごきげんよう、センパイ。お弁当のお味はいかがでしたか？
-Oh, it was great!=とってもおいしかったよ！
-It was? Oh, I am ever so glad to hear that!=そうでしたか？とても嬉しいですわ！
-Yeah! You did a really good job with it!=うん！とっても良かったよ！
-Oh, Senpai...it truly makes my heart soar to hear such words...=ああ、センパイ...舞い上がってしまいそうですわ...
-I can't tell you how much of a relief it is that you enjoyed it...=その言葉でどれだけほっとしたか...
-Senpai...I always feel nervous and scared when walking alone...=センパイ...一人で歩くのが怖いのです...
-Would you please...accompany me as I walk home today?=どうか...今日は家までご一緒させてもらえませんか？
-Sure! I'd be happy to!=もちろんいいよ！
-Oh, thank you, Senpai! You're such a gentleman!=ありがとう、センパイ！あなたは紳士ですね！
+Greetings, Senpai. Please, tell me how the bento tasted.=Saudações, Senpai. Por favor, me diga como estava o bento.
+Oh, it was great!=Ah, estava ótimo!
+It was? Oh, I am ever so glad to hear that!=Era? Oh, fico tão feliz em ouvir isso!
+Yeah! You did a really good job with it!=Sim! Você fez um ótimo trabalho!
+Oh, Senpai...it truly makes my heart soar to hear such words...=Oh, Senpai...isso realmente faz meu coração disparar ao ouvir essas palavras...
+I can't tell you how much of a relief it is that you enjoyed it...=Não consigo te dizer o quanto é um alívio saber que você gostou...
+Senpai...I always feel nervous and scared when walking alone...=Senpai...sempre fico nervosa e com medo quando ando sozinha...
+Would you please...accompany me as I walk home today?=Você poderia, por favor, me acompanhar até em casa hoje?
+Sure! I'd be happy to!=Claro! Eu ficaria feliz em ajudar!
+Oh, thank you, Senpai! You're such a gentleman!=Oh, obrigada, Senpai! Você é um verdadeiro cavalheiro!
 
 月2b
-...um...well...=あの...その...
-...there wasn't...anything wrong with it...was there...?...=...良くないところが...ありましたか...？...
-Oh...oh, no...don't tell me that there was a problem...=そんな...美味しくなかったのですか...？
-...! I...I'm speechless...did that...did that really happen?=...！言葉が...出ませんわ...本当に...そんなことが？
-a...as long as you didn't do it on purpose, it's no big deal...=わざとじゃないなら、まあいいけど...
-...well, I'm going to go home now...=さて、僕はそろそろ帰るよ...
-Senpai...I can't apologize enough for this...forgive me...=センパイ...謝罪の言葉が見つかりませんわ...お許しください...
-
+...um...well...=Hum...bem...
+...there wasn't...anything wrong with it...was there...?=...não havia...nada de errado com isso...havia...?
+Oh...oh, no...don't tell me that there was a problem...=Oh...oh, não...não me diga que houve um problema...
+...! I...I'm speechless...did that...did that really happen?=...! Eu...estou sem palavras...isso...isso realmente aconteceu?
+a...as long as you didn't do it on purpose, it's no big deal...=Bem...desde que você não tenha feito isso de propósito, não é grande coisa...
+...well, I'm going to go home now...=Bom, eu vou para casa agora...
+Senpai...I can't apologize enough for this...forgive me...=Senpai...não consigo pedir desculpas o suficiente por isso...perdoe-me...
 
 火1
-Greetings, Senpai. I hope that you have been well since we last spoke.=ごきげんよう、センパイ。お元気そうだと良いのですが。
-Good! Hey, I brought that book you wanted.=おはよう。ほら、君の言ってた本持ってきたよ。
-Oh, how kind of you! I really appreciate that!=あら、なんてお優しいの！心から感謝いたしますわ！
-Here, take it! Hope you enjoy it!=どうぞ、受け取って！楽しんでね！
-I've been interested in this book for quite a long time now.=この本はかなり前から気になっていたのです。
-I only want to read one chapter so I can decide if I want to buy it.=読みたかったのはこの章だけだから買うべきか悩ましくって。
-I'll read it at lunchtime. When should I return it to you?=昼休憩中に読みましょ。返すのはいつがいいかしら？
-Hmm...how about 5:15 PM? We can meet right here.=う〜ん...今日の午後5時15分はどうかな？ここでまた会おう
-I promise to be here at that time, then!=その時間にここにいますね、それでは！
-I'll look forward to hearing your thoughts on the book!=本の感想を楽しみにしてるね。
+Greetings, Senpai. I hope that you have been well since we last spoke.=Saudações, Senpai. Espero que você tenha estado bem desde a última vez que falamos.
+Good! Hey, I brought that book you wanted.=Bom! Ei, eu trouxe aquele livro que você queria.
+Oh, how kind of you! I really appreciate that!=Oh, quão gentil da sua parte! Eu realmente agradeço!
+Here, take it! Hope you enjoy it!=Aqui, pegue! Espero que você goste!
+I've been interested in this book for quite a long time now.=Estou interessada neste livro há bastante tempo.
+I only want to read one chapter so I can decide if I want to buy it.=Eu só quero ler um capítulo para decidir se quero comprá-lo.
+I'll read it at lunchtime. When should I return it to you?=Vou ler durante o almoço. Quando devo devolvê-lo a você?
+Hmm...how about 5:15 PM? We can meet right here.=Hmm...que tal às 17h15? Podemos nos encontrar bem aqui.
+I promise to be here at that time, then!=Prometo que estarei aqui nesse horário, então!
+I'll look forward to hearing your thoughts on the book!=Estou ansiosa para ouvir suas opiniões sobre o livro!
 
 火2a(先輩セリフ省略)
-Hello, Senpai! This book is quite marvelous so far!=こんにちは、センパイ！この本はかなり素晴らしいですね！
-I most certainly will be purchasing my own copy very soon!=私もすぐに自分の分を購入するつもりですわ！
-Oh, I shall! I can only wonder at what twists must await.=ええ、もちろんですわ！どんな展開が待っているか楽しみで仕方ありません。
-Senpai, as I said yesterday, I feel quite frightened when I walk alone...=センパイ、昨日言った通り、一人で歩くのが怖いのです...
-Would you please accompany as I walk home?=家へ帰るのに付き添っていただけますか？
-Oh, ever the gentleman! Well, then. Let us depart!=あら、やはり紳士ですね！それでは。出発しましょう！
+Hello, Senpai! This book is quite marvelous so far!=Olá, Senpai! Este livro é bastante maravilhoso até agora!
+I most certainly will be purchasing my own copy very soon!=Com certeza vou comprar minha própria cópia muito em breve!
+Oh, I shall! I can only wonder at what twists must await.=Ah, eu vou! Só posso imaginar que reviravoltas me aguardam.
+Senpai, as I said yesterday, I feel quite frightened when I walk alone...=Senpai, como eu disse ontem, fico bastante assustada quando ando sozinha...
+Would you please accompany me as I walk home?=Você poderia me acompanhar até em casa?
+Oh, ever the gentleman! Well, then. Let us depart!=Oh, sempre o cavalheiro! Bem, então. Vamos partir!
 
 火2b(同上)
-Senpai...I must beg for your forgiveness...=センパイ...どうかお許しください...
-I lost the book that you lent me. There is no excuse for this.=借りた本を無くしてしまいました。弁解の余地はありません。
-I am never careless with the belongings of others...but, today...=他人の物は大事に扱うようにしてるのですが...今日は...
-Senpai, allow me to buy you a new one. It is the least I can do.=センパイ、新しいのを買うので許してください。せめてもの償いです。
-...I...no...no, I haven't really let this happen...have I...?...=...そんな、こんなことを起こすつもりは...なかったのです...
+Senpai...I must beg for your forgiveness...=Senpai...eu imploro por seu perdão...
+I lost the book that you lent me. There is no excuse for this.=Eu perdi o livro que você me emprestou. Não há desculpa para isso.
+I am never careless with the belongings of others...but, today...=Nunca sou descuidada com os pertences dos outros...mas, hoje...
+Senpai, allow me to buy you a new one. It is the least I can do.=Senpai, deixe-me comprar um novo para você. É o mínimo que posso fazer.
+...I...no...no, I haven't really let this happen...have I...?=...Eu...não...não, eu realmente não deixei isso acontecer...deixei...?
 
 水1
-Good morning. Senpai. May I please ask you a question?=おはようございます。センパイ。質問をしてもよろしいですか？
-Haha, you don't have to be so formal! But, sure, what's up?=はは、そんなにかしこまらなくてもいいって！それで、どうしたの？
-I have brought a gift that I would like to give to you. But...=あなたにプレゼントを持ってきたのですが...
-...it would be so embarrassing to give it to you here...=...ここでお渡しするのは恥ずかしくて...
-Oh? Um, how about on the rooftop at lunchtime, then?=そう？うーん、昼食のときに屋上でならどう？
-Oh! That's such a clever idea! Good thinking, Senpai!=とても良いアイデアですね！名案です、センパイ！
-Man, what could it be? Now you've got me all curious...=何を見せてくれるのかな。気になってしょうがないよ...
-Oh, I promise you, it is nothing too special...just a small gift.=つまらない物ですが...ちょっとしたプレゼントです。
-I will look forward to our meeting at lunchtime then, Senpai!=お昼にお会いするのを楽しみにしてます、センパイ！
-Okay! See you later, then!=オーケー。また後でね！
+Good morning. Senpai. May I please ask you a question?=Bom dia, Senpai. Posso te fazer uma pergunta?
+Haha, you don't have to be so formal! But, sure, what's up?=Haha, você não precisa ser tão formal! Mas, claro, o que há?
+I have brought a gift that I would like to give to you. But...=Eu trouxe um presente que gostaria de te dar. Mas...
+...it would be so embarrassing to give it to you here...=...seria tão constrangedor te dar isso aqui...
+Oh? Um, how about on the rooftop at lunchtime, then?=Oh? Hum, que tal no telhado durante o almoço?
+Oh! That's such a clever idea! Good thinking, Senpai!=Oh! Essa é uma ideia tão inteligente! Boa pensar, Senpai!
+Man, what could it be? Now you've got me all curious...=Cara, o que pode ser? Agora estou super curiosa...
+Oh, I promise you, it is nothing too special...just a small gift.=Oh, prometo, não é nada muito especial...apenas um pequeno presente.
+I will look forward to our meeting at lunchtime then, Senpai!=Estou ansiosa para nosso encontro durante o almoço então, Senpai!
+Okay! See you later, then!=Ok! Até mais tarde então!
 
 水2a
-Senpai! Thank you so much for coming. Please...accept this gift.=センパイ！お越しくださったんですね。どうぞ...開けてください。
-Okay! I accept! I'm opening the box now, aaaaand...=よし、いくよ！今から箱を開けるよ！そして...
-...a flower? Huh, that's interesting. It's, uh...a pretty flower!=...花？面白いね。これは、あー...可愛い花だ！
-Huh! Nobody has ever given me a flower before. It's, uah...it's nice!=はは！花を送られたことはなかったな。あー...良いね！
-Senpai...do you recognize this flower? This is a red camellia.=センパイ...この花をご存知ですか？赤い椿ですわ。
-Do you...understand the meaning...of a red camellia?=赤い椿の花言葉は...ご存知ですか？
-...huh? Oh, yeah, that's right, flowers have meanings and stuff, right?=...へ？ああ、そうか、花には意味が込められてるんだよね？
-(Senpai stares at the flower for a little while.)=（センパイは少しの間花を眺める。）
-...ummmmm, nope! I don't actually know what this one means! I'm sorry!=...うーん、ダメだ！全然分からないよ！ごめんね！
-...oh...I see...I suppose my message was...unclear...sorry to trouble you.=...分かりました...私のメッセージは...分かりにくかったみたいですね...ごめんなさい。
+Senpai! Thank you so much for coming. Please...accept this gift.=Senpai! Muito obrigada por vir. Por favor...aceite este presente.
+Okay! I accept! I'm opening the box now, aaaaand...=Ok! Eu aceito! Estou abrindo a caixa agora, e...
+...a flower? Huh, that's interesting. It's, uh...a pretty flower!=...uma flor? Huh, isso é interessante. É, ah...uma flor bonita!
+Huh! Nobody has ever given me a flower before. It's, uah...it's nice!=Huh! Ninguém nunca me deu uma flor antes. É, uah...é legal!
+Senpai...do you recognize this flower? This is a red camellia.=Senpai...você reconhece esta flor? Esta é uma camélia vermelha.
+Do you...understand the meaning...of a red camellia?=Você...entende o significado...de uma camélia vermelha?
+...huh? Oh, yeah, that's right, flowers have meanings and stuff, right?=...huh? Oh, é verdade, as flores têm significados e tal, né?
+(Senpai stares at the flower for a little while.)=(Senpai olha para a flor por um momento.)
+...ummmmm, nope! I don't actually know what this one means! I'm sorry!=...ummmmm, não! Na verdade, não sei o que isso significa! Desculpe!
+...oh...I see...I suppose my message was...unclear...sorry to trouble you.=...oh...entendi...suponho que minha mensagem estava...confusa...desculpe te incomodar.
 
 水2b(先輩セリフ省略)
-Senpai! I'm glad you're here. Please...take this box, and open it.=センパイ！来てくれてありがとう。さあ...この箱を開けて！
-...huh? What's so surprising?=...あれ？そんなに驚いてどうしたの？
-...I...uh...oh...so, not a fan, then...?=...えっと...その...好きじゃなかった...？
-...oh...wow...you really...dislike it, then, huh...=...あ...そうなの...嫌いだったのね、じゃあ、うん...
-...I...I was just trying to...yeah...okay...=...私...ただ単に...うん...いいわ...
+Senpai! I'm glad you're here. Please...take this box, and open it.=Senpai! Estou feliz que você está aqui. Por favor...pegue esta caixa e a abra.
+...huh? What's so surprising?=...huh? O que é tão surpreendente?
+...I...uh...oh...so, not a fan, then...?=...eu...uh...oh...então, você não gostou, né...?
+...oh...wow...you really...dislike it, then, huh...=...oh...uau...você realmente...não gostou, né...
+...I...I was just trying to...yeah...okay...=...eu...só estava tentando...sim...tá bom...
 
 木1
-Good morning, Senpai. Are we still going to watch a motion picture later tonight?=おはようございます、センパイ。今夜一緒に映画でもどうでしょうか？
-Yeah! Nothing has come up that would change my schedule for today!=いいね！今日は特に予定はなかったと思うよ！
-I'm so glad to hear that. We'll meet each other here at 5:15 PM, right?=よかったです。5:15にここで待ち合わせませんか？
-Yep, that's right!=うん、そうだね！
-I'm very glad that I...I...=とっても楽しみで...
-...oh, my. I'm very sorry. I nearly yawned a moment ago...=...おっと、申し訳ありません。ちょっとあくびが出そうになりました...
-Sleepy? Maybe you should take a nap after cleaning time is over.=清掃時間の後に昼寝したら？
-That is a good suggestion, Senpai! I believe that I'll do so!=良い考えですわね、センパイ！そうさせて頂きます！
-I admit that I am sometimes guilty of oversleeping, but...=寝坊しないか少し不安ですが...
-...it won't be a problem if I'm careful what I eat at lunchtime!=...お昼ご飯に気を付ければ大丈夫ですわよね！
+Good morning, Senpai. Are we still going to watch a motion picture later tonight?=Bom dia, Senpai. Vamos mesmo assistir a um filme mais tarde?
+Yeah! Nothing has come up that would change my schedule for today!=Sim! Nada surgiu que mudasse minha programação para hoje!
+I'm so glad to hear that. We'll meet each other here at 5:15 PM, right?=Fico tão feliz em ouvir isso. Vamos nos encontrar aqui às 17h15, certo?
+Yep, that's right!=Sim, isso mesmo!
+I'm very glad that I...I...=Estou muito feliz que eu...eu...
+...oh, my. I'm very sorry. I nearly yawned a moment ago...=...oh, meu. Sinto muito. Quase bocejei agora há pouco...
+Sleepy? Maybe you should take a nap after cleaning time is over.=Sonolenta? Talvez você devesse tirar um cochilo depois que o tempo de limpeza acabar.
+That is a good suggestion, Senpai! I believe that I'll do so!=Essa é uma boa sugestão, Senpai! Acredito que vou fazer isso!
+I admit that I am sometimes guilty of oversleeping, but...=Admito que às vezes sou culpada de dormir demais, mas...
+...it won't be a problem if I'm careful what I eat at lunchtime!=...não será um problema se eu cuidar do que como no almoço!
 
 木2a
-Good afternoon, Senpai. Are you ready to see the motion picture?=こんにちは、センパイ。映画館に行く準備はよろしくて？
-Haha, you don't have to be so formal! But, yeah, I'm ready!=ハハハ、そんなにかしこまらなくていいよ！準備は万端さ！
-Splendid! Let's be on our way, then.=フフフ、それでは行きましょうか。
+Good afternoon, Senpai. Are you ready to see the motion picture?=Boa tarde, Senpai. Você está pronto para ver o filme?
+Haha, you don't have to be so formal! But, yeah, I'm ready!=Haha, você não precisa ser tão formal! Mas, sim, estou pronto!
+Splendid! Let's be on our way, then.=Ótimo! Vamos a caminho, então.
 
 金1(先輩セリフ省略)
-Good morning, Senpai. Oh dear, oh dear...you seem sad today. What is wrong?=おはようございます、センパイ。あら...なんだかお辛そうですわね。何かありましたの？
-Ah! Senpai, I want to help you! I'll make a copy of my notes and give them to you!=まあ！センパイ、私にお手伝いさせてください！私のノートの写しをお渡しします！
-I'll go to my desk to create the copy, and then I'll put the copy on your desk.=私の机で写しを作って、机の上に置いておきます。
-I won't take no for an answer! I want to help you however I can, Senpai!=断ったって無駄ですわよ。あなたの助けになりたいのです、センパイ！
-I'm so happy to have an opportunity to help you out, Senpai!=お手伝い出来て嬉しいです、センパイ！
-Please, meet me on the rooftop at lunchtime to let me know if my notes were useful!=お昼に屋上で待ち合わせませんか？お役に立てたか知りたいのです。
+Good morning, Senpai. Oh dear, oh dear...you seem sad today. What is wrong?=Bom dia, Senpai. Ah, querido...você parece triste hoje. O que aconteceu?
+Ah! Senpai, I want to help you! I'll make a copy of my notes and give them to you!=Ah! Senpai, quero te ajudar! Vou fazer uma cópia das minhas anotações e te dar!
+I'll go to my desk to create the copy, and then I'll put the copy on your desk.=Vou até minha mesa fazer a cópia e depois deixo na sua mesa.
+I won't take no for an answer! I want to help you however I can, Senpai!=Não aceito um não como resposta! Quero ajudar você de qualquer jeito, Senpai!
+I'm so happy to have an opportunity to help you out, Senpai!=Estou tão feliz por ter a oportunidade de te ajudar, Senpai!
+Please, meet me on the rooftop at lunchtime to let me know if my notes were useful!=Por favor, vamos nos encontrar no telhado na hora do almoço para eu saber se minhas anotações foram úteis!
 
 金2a
-Good afternoon, Senpai. I'm very interested in learning if my notes were of use to you.=こんにちは、センパイ。ノートはお役に立ちました？
-Oh, wonderful! I'm absolutely delighted to hear that, Senpai!=ああ、よかった！それを聞いて安心しました、センパイ！
-Oh, Senpai...you don't know how happy it makes me to know that I was able to help you!=センパイ...私は今、あなたのお役に立ててとっっても嬉しいんですよ。
+Good afternoon, Senpai. I'm very interested in learning if my notes were of use to you.=Boa tarde, Senpai. Estou muito interessada em saber se minhas anotações foram úteis para você.
+Oh, wonderful! I'm absolutely delighted to hear that, Senpai!=Oh, maravilhoso! Fico absolutamente encantada em saber disso, Senpai!
+Oh, Senpai...you don't know how happy it makes me to know that I was able to help you!=Oh, Senpai...você não sabe o quanto me deixa feliz saber que consegui te ajudar!
 
 金2b
-...what?! Oh, no!! What happened, Senpai?!=...ええ？そんな！どうしてですの、センパイ！
-No! No, Senpai, I would never pull a prank on you - or anyone!=そんな！イタズラなんてしません！ましてやセンパイになんて！
-How could this be possible...I thought that my notes were flawless...=そんなことが...ノートには自信がありましたのに...
-I'm so sorry, Senpai...there truly is no excuse for this mistake...=ごめんなさい、センパイ...何の言い訳もできません...
-...all I can do is give you my word that I'll never let it happen again...=...私にできるのは、これから気を付けることぐらいです...
+...what?! Oh, no!! What happened, Senpai?!=...o quê?! Oh, não!! O que aconteceu, Senpai?!
+No! No, Senpai, I would never pull a prank on you - or anyone!=Não! Não, Senpai, eu nunca faria uma brincadeira com você - ou com ninguém!
+How could this be possible...I thought that my notes were flawless...=Como isso é possível...eu achava que minhas anotações eram perfeitas...
+I'm so sorry, Senpai...there truly is no excuse for this mistake...=Sinto muito, Senpai...não há desculpa para esse erro...
+...all I can do is give you my word that I'll never let it happen again...=...tudo o que posso fazer é te prometer que nunca deixarei isso acontecer de novo...
 
 Chigusa
 月1
-Hehe...hey, Senpaaaaai~=えへへ...おはよー、センパ～～イ
-O-oh! Um! Hi! Hello!=お、おお、おはよう！
-Hey~ How would you feeeeel~ If I told you...=ねえねえ～、もし仮にさあ～～
-...I made a bento for you this morning?=私がキミのためにお弁当作ったって言ったら、どー思う～？
-...r...really?! D-did you?! A bento?! All for me?!=ほ、ホントに？き、君が？お弁当？僕のために！？
-Hehehe...yes~ Here it is~ Please, take it~=えへへ～。そうよ～。はいこれ～
-I'll cherish it forever! I mean, I'll put it on my desk, and eat it at lunchtime!=一生大切にするよ！机の上に置いて、昼に食べるね！
-At 5:15 PM, would you meet me here, so you can tell me how it tasted?=5:15にここで待ち合わせね～。おいしかったか聞かせてね～。
-Oh!! Yes!! Yes, I'd love to!!=うん！うん！是非！
-Hehe...so cute~ Enjoy your meal, Senpaaaaai~=へへへ、か～わい～。よく味わってね、センパ～～イ
+Hehe...hey, Senpaaaaai~=Hehe...oi, Senpaai~
+O-oh! Um! Hi! Hello!=O-oh! Oi! Olá!
+Hey~ How would you feeeeel~ If I told you...=Ei~ Como você se sentiria~ Se eu te dissesse...
+...I made a bento for you this morning?=...que eu fiz um bento para você esta manhã?
+...r...really?! D-did you?! A bento?! All for me?!=H-h-realmente?! V-você fez?! Um bento?! Só para mim?!
+Hehehe...yes~ Here it is~ Please, take it~=Hehehe...sim~ Aqui está~ Por favor, pegue!
+I'll cherish it forever! I mean, I'll put it on my desk, and eat it at lunchtime!=Vou valorizar isso para sempre! Quer dizer, vou deixar na minha mesa e comer na hora do almoço!
+At 5:15 PM, would you meet me here, so you can tell me how it tasted?=Às 17h15, você se encontra comigo aqui para me contar como estava?
+Oh!! Yes!! Yes, I'd love to!!=Oh!! Sim!! Sim, eu adoraria!!
+Hehe...so cute~ Enjoy your meal, Senpaaaaai~=Hehe...tão fofo~ Aproveite sua refeição, Senpaai~
 
 月2a
-Hehe~ Hey, Senpai~ So~ How was that bento, hmmmmm~?=えへへ～。ねえ、センパイ～。お弁当どうだった、ん～？
-Oh, it was great!=とってもおいしかったよ！
-Oh, yeahhhhh~? What was the best part~?=ほんと～？一番気に入ったのは～？
-The fact that you made it, of course!=もちろん、君が作ってくれたこと！
-Hehe~ Good boy~ That's the right answer~=えへへ～。いい子ね～。大正解～。
-Oh, it's just so cute how excited you get around me~=あ、キミのはしゃいでる姿かわいい～
-Say, would you like to spend some time together~?=ねえ、この後も一緒に過ごさな～い？
-How about...walking home with me today? Hmmmmm~?=今日は一緒に家まで歩いてかない？ん～？
-Oh!! Yes!! I'd love to!!=えっ！！はい！！是非！！
-Hehe~ You cutie~ Let's go, then~=えへへ～。かわい～ね～。じゃ、行こ～。
+Hehe~ Hey, Senpai~ So~ How was that bento, hmmmmm~?=Hehe~ Oi, Senpai~ E aí~ Como estava o bento, hmmmmm~?
+Oh, it was great!=Ah, estava ótimo!
+Oh, yeahhhhh~? What was the best part~?=Ah, sério~? Qual foi a melhor parte~?
+The fact that you made it, of course!=O fato de que você fez, claro!
+Hehe~ Good boy~ That's the right answer~=Hehe~ Bom garoto~ Essa é a resposta certa~
+Oh, it's just so cute how excited you get around me~=Ah, é tão fofo como você fica animado ao meu redor~
+Say, would you like to spend some time together~?=Diga, você gostaria de passar um tempo junto~?
+How about...walking home with me today? Hmmmmm~?=Que tal...andar para casa comigo hoje? Hmmmmm~?
+Oh!! Yes!! I'd love to!!=Oh!! Sim!! Eu adoraria!!
+Hehe~ You cutie~ Let's go, then~=Hehe~ Você é tão fofo~ Vamos então~
 
 月2b(先輩省略)
-Hehe~ Left speechless, are you~?=えへへ～、美味しすぎて言葉も出ないの～？
-...huh? What do you mean?=...は？どういうこと？
-What the...what the hell?! Hey, are you serious?!=ちょっと！どういうこと？マジなの！？
-Whoa! Wait! Tell me exactly what happened! I'm confused!=ま、待って！何があったの！？わけ分かんない！
+Hehe~ Left speechless, are you~?=Hehe~ Você ficou sem palavras, né~?
+...huh? What do you mean?=...huh? O que você quer dizer?
+What the...what the hell?! Hey, are you serious?!=O que...o que foi isso?! Ei, você está falando sério?!
+Whoa! Wait! Tell me exactly what happened! I'm confused!=Uau! Espera! Me conte exatamente o que aconteceu! Estou confusa!
 
 火1
-Hehe...hey, Senpai~=えへへ、おはよ～センパ～イ
-Oh, um, hi!! Hey, I, uh, brought that book you wanted!!=お、おはよう！き、今日は読みたがってた本持ってきたよ！
-Hehe~ You remembered~ That makes me happy~=えへへ～、覚えててくれたんだ～。嬉し～
-Here, take it! Hope you enjoy it!
-Hehe~ I sure will~=えへへ、わかった～
-I only want to read one chapter so I can decide if I want to buy it.=読みたかったのはこの章だけだから買うべきか悩ましくって。
-I'll read it at lunchtime. When should I return it to you?=昼休憩中に読みましょ。返すのはいつがいいかしら？
-Hmm...how about 5:15 PM? We can meet right here.=う〜ん...今日の午後5時15分はどうかな？ここでまた会おう
-Okay then~ It's a daaaaate~=おっけ～。デートしようね～
-A d...d...d-d-d-d-d-date...?...=え、デ、デデデ、デート...？
+Hehe...hey, Senpai~=Hehe...oi, Senpai~
+Oh, um, hi!! Hey, I, uh, brought that book you wanted!!=Oh, hum, oi!! Ei, eu trouxe aquele livro que você queria!!
+Hehe~ You remembered~ That makes me happy~=Hehe~ Você se lembrou~ Isso me deixa feliz~
+Here, take it! Hope you enjoy it!=Aqui, pegue! Espero que você goste!
+Hehe~ I sure will~=Hehe~ Com certeza vou gostar~
+I only want to read one chapter so I can decide if I want to buy it.=Eu só quero ler um capítulo para decidir se quero comprar.
+I'll read it at lunchtime. When should I return it to you?=Vou ler durante o almoço. Quando devo devolver para você?
+Hmm...how about 5:15 PM? We can meet right here.=Hmm...que tal às 5:15? Podemos nos encontrar bem aqui.
+Okay then~ It's a daaaaate~=Ok então~ É um encooooooontro...
+A d...d...d-d-d-d-d-date...?...=U-um...e-e-e-e-encontro...?...
 
 火2a
-Oh! Um! Hi! So, uh...what did you think of the book?=こ、こんにちは！その、本はどうだった？
-Hehe~ Hey, Senpai~ This book's great so far~=えへへ～こんにちはセンパ～イ。とっても面白かったよ～
-Oh,I'm glad to hear that you like it!=そ、それは良かったよ！
-Mm-hmm~ I'm already planning to buy a copy for myself~=ふふふ～私も買っちゃお～かな～
-Um, I'd be willing to buy one for you...=な、なら僕が買ってあげよっか...
-Hehe~ Ohhhhh~ Such a gentleman~ Teehee~=えへへ～優しいんだね～
-Shall we walk to the nearest bookstore, then?=それじゃあ近くの本屋さんに行こっか。
-And then, perhaps you can walk me home~=そのあと～家まで送ってほしいな～
-Oh!! Of course!! I'd love to!!=も、もちろんいいよ！
-Hehe~ Oh my~ So eager~ Hehehe~ Let's go, then~=えへへ～必死になっちゃって～。えへへへ～じゃあ、行こっか～
+Oh! Um! Hi! So, uh...what did you think of the book?=O-oh! Um! Oi! E então, o que você achou do livro?
+Hehe~ Hey, Senpai~ This book's great so far~=Hehe~ Oi, Senpai~ Este livro está ótimo até agora.
+Oh, I'm glad to hear that you like it!=Ah, que bom saber que você gostou!
+Mm-hmm~ I'm already planning to buy a copy for myself~=Hum-hum~ Já estou planejando comprar uma cópia para mim.
+Um, I'd be willing to buy one for you...=Hum, eu posso comprar um para você...
+Hehe~ Ohhhhh~ Such a gentleman~ Teehee~=Hehe~ Ohhhhh~ Que cavalheiro~ Teehee~
+Shall we walk to the nearest bookstore, then?=Então, vamos até a livraria mais próxima?
+And then, perhaps you can walk me home~=E depois, talvez você possa me levar para casa.
+Oh!! Of course!! I'd love to!!=Oh!! Claro!! Eu adoraria!!
+Hehe~ Oh my~ So eager~ Hehehe~ Let's go, then~=Hehe~ Oh meu~ Tão ansioso~ Hehehe~ Vamos então!
 
 火2b(先輩省略)
-Uhhhhh...hey, look, Senpai...=あの...その、センパイ...
-Shoot...man, I feel bad about this...ah, this is hard...=悪いとは思ってるんだけど...あのね...
-Look, I...I lost the book. I lost the book you lent me...=借りた本...あの本が見つからないの。
-Hey - I'm really sorry about this. I'll buy you a new one, okay?=ねえ、本当にごめんなさい。新しいのを買うわ。だから...
-I...oh, shoot. Ohhhhh, shoot. This is...this is bad, huh...=そ、そんな...最悪だわ...
+Uhhhhh...hey, look, Senpai...=Ahn...ei, olha, Senpai...
+Shoot...man, I feel bad about this...ah, this is hard...=Poxa...eu me sinto mal por isso...ah, isso é difícil...
+Look, I...I lost the book. I lost the book you lent me...=Olha, eu...eu perdi o livro. O livro que você me emprestou...
+Hey - I'm really sorry about this. I'll buy you a new one, okay?=Ei - eu sinto muito por isso. Vou comprar um novo para você, tá bom?
+I...oh, shoot. Ohhhhh, shoot. This is...this is bad, huh...=Eu...ah, droga. Ohhhh, droga. Isso é...isso é ruim, né...
 
 水1
-Hehe~ Senpai~ Hey, Senpaaaaai~=えへへ～、センパイ～、おはよ～センパ～～イ
-Oh!! Umm, hi!! Hi, hello...hi!=や、やあ！お、おはよう！
-Hehe~ Aww, you're so cute when you're flustered~=えへへ～あたふたしててかっわい～
-Hey~ I want to show you something~ In...private~=ね～え～、見せたいものがあるの～二人っきりで、ね～
-...oh...oh?! Oh?! Something...in...p...private?!=...え、ええ？ふ、ふふふ、二人っきり！？
-Hehe~ Hey...meet me on the school rooftop at lunchtime...okaaaaay?=えへへ～、お昼休みに屋上で会いましょ～、い～い？
-Oh!! Yes!! Sure!! Yes!! I promise!! I'll be there!!=うん！是非！約束する！絶対行く！
-Hehe~ You're so cute when you're eager~=えへへ～必死になっちゃってか～わい～
-I'll be looking forward to lunchtime, then...Senpaaaaai~=お昼休み楽しみだね～センパ～イ
-Oh...ohhhhh...! M-me, too...!=う、うん！ぼぼぼ僕もだよ！
+Hehe~ Senpai~ Hey, Senpaaaaai~=Hehe~ Senpai~ Oi, Senpaai~
+Oh!! Umm, hi!! Hi, hello...hi!=Oh!! Hum, oi!! Oi, olá...oi!
+Hehe~ Aww, you're so cute when you're flustered~=Hehe~ Ah, você é tão fofo quando fica nervoso~
+Hey~ I want to show you something~ In...private~=Ei~ Quero te mostrar uma coisa~ Em...particular
+...oh...oh?! Oh?! Something...in...p...private?!=...ah...ah?! Algo...em...p...particular?
+Hehe~ Hey...meet me on the school rooftop at lunchtime...okaaaaay?=Hehe~ Ei...vamos nos encontrar no telhado da escola na hora do almoço...tá bom?
+Oh!! Yes!! Sure!! Yes!! I promise!! I'll be there!!=Oh!! Sim!! Claro!! Sim!! Eu prometo!! Estarei lá!!
+Hehe~ You're so cute when you're eager~=Hehe~ Você é tão fofo quando está ansioso~
+I'll be looking forward to lunchtime, then...Senpaaaaai~=Estou ansiosa pela hora do almoço, então...Senpaai
+Oh...ohhhhh...! M-me, too...!=Oh...ohhhh...! Eu, também...!
 
 水2a
-Hehe~ Senpai~ You're here~ Hehehe~ Here, take this box...open it!=えへへ～、センパイ、来てくれたんだ～。この箱開けてみて！
-...o-oh?! A gift?! For me?! You're too kind!! Let's see what's inside...=...え？贈り物！？僕に！？優しいんだね！それじゃ開けるよ...
-...oh?! It's a magazine...with you on the cover! I don't recognize it...=..わあ！雑誌だ...君が表紙の！しかもこれ、見たことないやつだ...
-But, I could have sworn I already collected every magazine with you in it...=君の写真が載ってる雑誌はコンプリートしてるのに...
-Heh...Senpai...this one had to be pulled off the shelves...=センパイ、これはボツになったやつでね...なぜなら...
-Because...it was just~ too~ raunchy~=と～ってもエッチすぎたから～
-...o-oh?! Ohhhhh?!=...え、えええ！？
-(Senpai opens up the magazine and gazes at the photographs within.)=(センパイは雑誌を開いて中の写真を穴が開くほど見つめている)
-...oh...ohhhhh!! Oh my gosh!! U-um, th-thank you for...sharing this with me!!=ああ！最高だ！ほ、ほんとに、ありがとう！
-Hehehe...you always get so excited~ It's sooooo cute, Senpai~=えへへ...とっても興奮してくれたみたいね～かわいいよ～センパイ～
+Hehe~ Senpai~ You're here~ Hehehe~ Here, take this box...open it!=Hehe~ Senpai~ Você está aqui~ Hehehe~ Aqui, pegue esta caixa...abra!
+...o-oh?! A gift?! For me?! You're too kind!! Let's see what's inside...=...e-ei?! Um presente?! Para mim?! Você é muito gentil!! Vamos ver o que tem dentro...
+...oh?! It's a magazine...with you on the cover! I don't recognize it...=...oh?! É uma revista...com você na capa! Eu não reconheço...
+But, I could have sworn I already collected every magazine with you in it...=Mas, eu poderia jurar que já coletei todas as revistas com você...
+Heh...Senpai...this one had to be pulled off the shelves...=Heh...Senpai...essa teve que ser retirada das prateleiras...
+Because...it was just~ too~ raunchy~=Porque...era~ apenas~ muito~ picante~
+...o-oh?! Ohhhhh?!=...e-ei?! Ohhhhh?!
+(Senpai opens up the magazine and gazes at the photographs within.)=(Senpai abre a revista e fica olhando para as fotografias dentro.)
+...oh...ohhhhh!! Oh my gosh!! U-um, th-th-thank you for...sharing this with me!!=...oh...ohhhhh!! Oh meu Deus!! O-obrigado por...compartilhar isso comigo!!
+Hehehe...you always get so excited~ It's sooooo cute, Senpai~=Hehehe...você sempre fica tão animado~ É tãooooo fofo, Senpai~
 
 水2b(2aとの差分のみ、先輩省略)
-...hmm? What's wrong, Senpai? I thought you'd like it~=...んーん？どうしたの、センパイ？気に入ってくれると思ったのに～
-...what? Huh? Okay...now I know you're just playing hard-to-get.=...え？何？オッケー分かった、わざと冷たくしてるんでしょ？
-...whoa. Relax. No need to get all offended.=...おっと。落ち着いて。そんなに怒ることないじゃない。
-...what the hell? Whatever. See you later.=...どうしたってのよ？まあいいわ。またね。
+...hmm? What's wrong, Senpai? I thought you'd like it~=...hmm? O que houve, Senpai? Eu achei que você ia gostar...
+...what? Huh? Okay...now I know you're just playing hard-to-get.=...o que? Hã? Ok...agora sei que você está só fazendo charme.
+...whoa. Relax. No need to get all offended.=...uau. Relaxa. Não precisa ficar tão ofendido.
+...what the hell? Whatever. See you later.=...que droga? Tanto faz. Até mais.
 
 木1
-Hey, Senpai~ Go out with me tonight~=おはよーセンパイ～。今夜一緒におでかけしな～い？
-...h...huh?! Wait...r...r...really?!=え、ええ？待って...マジで？
-Hehe, yes really~ There's a film we can catch if we leave here at 5:15 PM~=えへへ、マジよ～。5:15に出発して～映画観に行こ～
-Oh...oh!! Yes!! I'd love to go!!=う、うん！行きたい！
-Hehehe...mmmmm, you're so cute, Senpai...=えへへ...とっても可愛いなあ、センパイ...
-...ah...I'm so sleepy...hope I don't doze off in class today...=...あ～、ちょっと眠いな～今日の授業寝ちゃうかも～
-Maybe you should take a nap after cleaning time is over.=清掃時間の後に昼寝したら？
-Hehe~ Hey~ Goood idea, Senpai~ I think I'll do that~=えへへ、い～考えね～、センパイ～。そ～しよっかな～
-Gotta watch what I eat today. Oh, not just to keep my figure, though~=お昼ご飯に気を付けよっと。あ、体型維持のためじゃなくてね～
-Sometimes I oversleep depending on what I eat, haha~=お昼ご飯に気を付けないと寝坊しちゃうからね～～
+Hey, Senpai~ Go out with me tonight~=Ei, Senpai~ Vamos sair juntos hoje à noite~
+...h...huh?! Wait...r...r...really?!=...e-ei?! Espera...m-m-mesmo?
+Hehe, yes really~ There's a film we can catch if we leave here at 5:15 PM~=Hehe, sim, é verdade~ Tem um filme que podemos ver se sairmos daqui às 17:15.
+Oh...oh!! Yes!! I'd love to go!!=Oh...oh!! Sim!! Eu adoraria ir!!
+Hehehe...mmmmm, you're so cute, Senpai...=Hehehe...mmmmm, você é tão fofo, Senpai...
+...ah...I'm so sleepy...hope I don't doze off in class today...=...ah...estou tão sonolenta...espero não dormir na aula hoje...
+Maybe you should take a nap after cleaning time is over.=Talvez você devesse tirar um cochilo depois que a limpeza acabar.
+Hehe~ Hey~ Goood idea, Senpai~ I think I'll do that~=Hehe~ Ei~ Boa ideia, Senpai~ Acho que vou fazer isso.
+Gotta watch what I eat today. Oh, not just to keep my figure, though~=Preciso prestar atenção no que como hoje. Ah, não só para manter a forma, claro.
+Sometimes I oversleep depending on what I eat, haha~=Às vezes eu durmo demais dependendo do que como, haha.
 
 木2a
-Hehe~ Senpai~ You're on time~ I love a punctual man~=えへへ～センパイ～、時間ぴったり～。時間守れる人ってステキよね～
-...o-oh...so, it really wasn't a prank after all...?!=...ほ、ほんとにイタズラじゃなかったんだね...
-Haha, of course not! I really DO want to see a movie with you! Let's go~=ハハ、もちろん～。ホントにキミと映画を見たかったの！行きましょ～
+Hehe~ Senpai~ You're on time~ I love a punctual man~=Hehe~ Senpai~ Você chegou na hora~ Eu adoro um homem pontual.
+...o-oh...so, it really wasn't a prank after all...?!=...e-ei...então, não era uma pegadinha, afinal...? 
+Haha, of course not! I really DO want to see a movie with you! Let's go~=Haha, claro que não! Eu realmente QUERO ver um filme com você! Vamos!
 
 金1(先輩省略)
-Senpai~ Hey, Senpaaaaai~ ...oh, no! What's got you looking so down~?=センパイ～、ねえセンパ～イ...ん？なんか元気ないね～？
-...heh. I might actually be able to help you with this one.=ふーん、それなら力になれるよ。
-You may not believe me, but I actually did come to this school to study.=信じてくれないかもだけど、この学校には勉強するために入ったからね。
-I've taken a lot of notes. I'll go copy them and put them on your desk.=沢山ノートとってるし、コピーして机の上に置いとくね。
-Hehe~ No problem~ Anything for my Senpai~ Hehehehe~=えへへ～いいのよ～センパイのためだもの～えへへへへ～
-Hey...at lunchtime, meet me on the rooftop and let me know if my notes were useful~=ねえ...お昼休みに屋上で会って、ノートが役立ったか聞きたいな～
+Senpai~ Hey, Senpaaaaai~ ...oh, no! What's got you looking so down~?=Senpai~ Ei, Senpaaaaai~ ...oh, não! O que aconteceu para você estar tão para baixo~?
+...heh. I might actually be able to help you with this one.=...heh. Na verdade, eu posso te ajudar com isso.
+You may not believe me, but I actually did come to this school to study.=Você pode não acreditar em mim, mas eu realmente vim para esta escola para estudar.
+I've taken a lot of notes. I'll go copy them and put them on your desk.=Eu fiz muitas anotações. Vou copiá-las e deixar na sua mesa.
+Hehe~ No problem~ Anything for my Senpai~ Hehehehe~=Hehe~ Sem problemas~ Qualquer coisa pelo meu Senpai~ Hehehehe~
+Hey...at lunchtime, meet me on the rooftop and let me know if my notes were useful.=Ei...no horário do almoço, me encontre no telhado e me diga se minhas anotações foram úteis.
 
 金2a(先輩省略)
-Hey~ Senpai~ C'mon, tell me...did my notes help you~?=こんにちは～センパイ～ノートは役立った～？
-Oh, I'm so happy to hear that, Senpaaaaai~!=それは何より～、センパ～イ！
-Hehehe...oh, whatever would you do without me~? Looks like you need me, Senpai~=えへへ～私がいなかったらどうするつもりだったの～？私がいなきゃダメね～、センパイ～
+Hey~ Senpai~ C'mon, tell me...did my notes help you~?=Oi~ Senpai~ Vamos lá, me diga...minhas anotações ajudaram você~?
+Oh, I'm so happy to hear that, Senpaaaaai~!=Ah, que felicidade saber disso, Senpaaaaai~!
+Hehehe...oh, whatever would you do without me~? Looks like you need me, Senpai~=Hehehe...oh, o que você faria sem mim~? Parece que você precisa de mim, Senpai~.
 
 金2b(先輩省略、差分のみ)
-...huh? Whoa. That's not what I expected. I tried to take good notes.=...え？おかしいなあ。ノートづくりは頑張ってるのに。
-Owch, that's kind of a rude thing to say, don't you think? Yeesh.=ちょっと、そんな言い方なくない？ね～？
-Look, I don't know what to tell you. I actually put effort into those notes.=なんて言えばいいかわからないけど、あのノートは結構頑張ってとってるのよ。
-Hmph...guess you think I'm just some dumb bimbo with no brains now, huh?=ふーん、私がバカな女だと思ってるんだ。
-Well, whatever...sorry it didn't work out. Later, Senpai...=もういい...助けになれなくてごめんなさい。またね、センパイ...
+...huh? Whoa. That's not what I expected. I tried to take good notes.=...e-ei? Uau. Isso não é o que eu esperava. Eu tentei fazer boas anotações.
+Owch, that's kind of a rude thing to say, don't you think? Yeesh.=Ai, isso foi meio rude, você não acha? Que droga.
+Look, I don't know what to tell you. I actually put effort into those notes.=Olha, não sei o que te dizer. Eu realmente me esforcei nas anotações.
+Hmph...guess you think I'm just some dumb bimbo with no brains now, huh?=Hmph...acho que você pensa que sou apenas uma garota burra sem cérebro agora, né?
+Well, whatever...sorry it didn't work out. Later, Senpai...=Bem, tanto faz...sinto muito que não deu certo. Até mais, Senpai...
 
 Sonoko
 月1
-Senpai. I need to speak to you.=センパイ、話したいことがあります。
-...oh? What can I do for you?=ん？なんだい？
-Take this meal. Put it on your desk.=このお弁当をどうぞ。机の上に置いてください。
-At lunchtime, eat it.=昼休みに食べてください。
-...uh...sure...but...why...?...=...えっと...いいけど...なんで？
-I'm testing a theory.=私の推理を証明するためです。
-Uh...okay. I'll...do it, I guess.=まあ...うん。そうするよ...多分。
-Meet me here at 5:15 PM and tell me how the bento tasted.=5:15にここで会ってお弁当の感想を教えてください。
-...uh...sure...=...う、うん...
-Thank you for your cooperation.=協力に感謝します。
-
-月2a
-Senpai. Please, tell me how the bento tasted.=センパイ、味はどうでしたか。
-Uh...it was good. Great, actually.=まあよかったよ。美味しかった。
-...hmm. So, she didn't tamper with it.=フム、妨害は無しですか...
-Huh? What?! What exactly did you try to feed me?!=え？何？僕に変な物食べさせたの！？
-I theorized that someone might try to sabotage my attempt to feed you.=何者かがお弁当に細工をすると思ったのです。
-However, the bento was left alone. This rules out one theory.=しかし、お弁当はそのままだった。推理は間違いだったのですね。
-I am sure that you must have many questions for me. However...=色々と聞きたいこともあるでしょう。しかし...
-...I cannot say anything that may interfere with the investigation.=...これも捜査のためです。答えることはできません。
-...I...don't really...appreciate being left in the dark like this...=...こんな...変なことに巻き込まれちゃ、納得できないよ...
-I apologize. To make up for it, I will guard you on your walk home.=すみません。お詫びに、家まで護送しますね。
-
-月2b(差分のみ、既出の先輩のセリフ省略)
-Please, Senpai. I need to know=お願いします、センパイ。教えてください。知る必要があるんです。
-...just as I expected. How bad was it?=...予想どおりです。おかしかったところはどこですか？
-Damn it. I didn't think she'd go that far...=なんと。まさかそこまでするとは...
-I don't know what this has to do with your investigation...=これで君の捜査がどれほど進むのか知らないけどさ...
-...but I do NOT appreciate being left in the dark like this.=...こんな目に遭っておいて、納得なんてできないよ。
-I'm not at liberty to explain the details...I'm sorry...=詳細まで説明するのは無理なんです...すみません...
-
-火1
-Senpai. Did you bring it?=センパイ、持ってきました？
-...the book? Yeah...=本のこと？持ってきたけど...
-Excellent. Hand it over.=よし、それでは渡してください。
-Uh, yeah...here it is.=まあいいけど...
-I must apologize in advance if anything happens to this book.=この本がどうなるか分からないので、事前に謝っておきます。
-If all goes well, the book will be returned to you unscathed.=うまく行けばきちんと返せるでしょう。
-But, if not...at least a theory of mine will be proven.=ですがそうならなかった場合...私の推理が証明されます。
-Uh...okay...but, could you return it to me around 5:15 PM?=でも...5:15には返してもらうからね？
-That would be acceptable.=ええ、分かりました。
-Uh...alright...=なら...いいけど...
-
-火2a
-Uh...hey. So, uh...about the book...=ねえ、その...本についてだけど...
-Here it is, in perfect condition.=ここにあります。無事です。
-Phew. You made me worry that something was going to happen to it.=ふう、何か起こらないかと気が気じゃなかったよ。
-I, too, had my suspicions that something bad would happen.=私もこの本に何かが起こると予想していました。
-I'm still not certain what you hoped to achieve...=何が起こってほしかったのかまだ聞いてないんだけど...
-I suspected that, if I borrowed something of value from you...=私の予想としては、あなたから何かを借りた後...
-...a mysterious aggressor would appear and steal the object.=...何者かがそれを盗むために現れると思っていました。
-I cannot tell you more than that without jeopardizing the investigation.=これ以上は捜査に支障が出るので言えません。
-So, you're just...using my belongings as bait? Um...that's...kinda...=それってさ、僕のものを餌にしたってこと？それは...ちょっと...
-I swear to you that one day, I will explain everything. Just not today.=今は話せませんが、言える日になったら全て話します。
-
-火2b(既出の先輩のセリフ省略)
-Senpai! Great news! My suspicions were correct!=センパイ！良い知らせです！私の推理は正しかった！
-As expected, the book was stolen! The book you lent me!=予想通り、本が盗まれたんです！貸してくれた本が！
-This proves my theory! I was right all along!=私の推理が証明されました！私は正しかった！
-Wait a minute. My book is gone? It was stolen?=待ってよ、僕の本は？盗まれたの？
-Ultimately, a trivial matter. I can just buy you a new one.=そんなことは些細な問題でしょう。新しいのを買ってあげますから。
-...I don't appreciate you using my belongings as bait. I'm leaving.=...人のものを餌にするってどういうことだよ。もう僕は行くね。
-Uh - wait - if I had known - I never would have...ohhhhh...=ま、待ってください...そんな大切なものだと知らなくて...
-
-水1
-Senpai. I need to tell you something.=センパイ、ちょっといいですか。
-...huh? Well, okay...=...え？いいけど...
-I bought a present for you. It's in this box. See this box?=あなたへのプレゼントを買ってきました。この箱の中です。
-I'm going to go put this box on my desk now. Got that?=これからこの箱を私の机に置いておきます。いいですね？
-Uh...um...okay...?=うん...それで...？
-Meet me on the school rooftop at lunchtime. I'll give you the present.=昼休みに屋上で会いましょう。その時に渡します。
-Uh...well, if you say so, I suppose.=うん...まあ、いいけど...
-Good. I'm going to go put this PRESENT FOR YOU on MY DESK now.=よし。「あなた宛てのプレゼント」は「私の机」に置いておきます。
-Remember: Meet me on the rooftop at lunchtime.=昼休みに屋上ですよ。忘れないでくださいね。
-Um...okay?? Sure?? I...guess??=えっと？？うん？？
+Senpai. I need to tell you something.=Senpai. Preciso te contar uma coisa.
+...huh? Well, okay...=...hã? Bem, tudo bem...
+I bought a present for you. It's in this box. See this box?=Comprei um presente para você. Está nesta caixa. Vê esta caixa?
+I'm going to go put this box on my desk now. Got that?=Vou colocar esta caixa na minha mesa agora. Entendeu?
+Uh...um...okay...?=Ah...tá...? 
+Meet me on the school rooftop at lunchtime. I'll give you the present.=Encontre-me no telhado da escola no horário do almoço. Vou te dar o presente.
+Uh...well, if you say so, I suppose.=Ah...bem, se você diz, eu suponho.
+Good. I'm going to go put this PRESENT FOR YOU on MY DESK now.=Bom. Vou colocar este PRESENTE PARA VOCÊ na MINHA MESA agora.
+Remember: Meet me on the rooftop at lunchtime.=Lembre-se: Encontre-me no telhado no horário do almoço.
+Um...okay?? Sure?? I...guess??=Eh...tá?? Claro?? Eu...acho??
 
 水2a
-Senpai. Please open this box and tell me what's inside.=センパイ。この箱を空けて何が入ってるか教えてください。
-...well, okay. I'll open it now...=えっと、うん。開けるよ...
-...huh? ...what? ...it's...just empty?=...え？...空っぽ？
-...okay. I've played along up until now, but I need an explanation this time.=...今までは誤魔化してきましたが、今回は説明が必要ですね。
-I anticipated that, if someone knew I was trying to give you a gift...=私があなたへプレゼントを渡そうとしてるとある人物が知れば...
-...they would make some sort of attempt to sabotage it.=...その人物はそれを妨害すると予想したのです。
-So, the box...was always empty? You left it on your desk as...bait, I guess?=だから...この箱は空っぽなの？これを餌として机の上に置いといたってこと？
-(Senpai stares at the empty box for a moment.)=(センパイは空の箱を見つめている)
-Okay, but why? Why do you suspect that someone would sabotage the gift?=狙いは分かったけど、なんで？なんで誰かが妨害すると思ったの？
-I'm sorry, Senpai...for the sake of the investigation, I can't tell you yet.=ごめんなさい、センパイ...捜査のためです。まだ言えません。
+Senpai. Please open this box and tell me what's inside.=Senpai. Por favor, abra esta caixa e me diga o que tem dentro.
+...well, okay. I'll open it now...=...bem, tá. Vou abrir agora...
+...huh? ...what? ...it's...just empty?=...hã? ...o quê? ...está...apenas vazio?
+...okay. I've played along up until now, but I need an explanation this time.=...tá. Eu brinquei até agora, mas preciso de uma explicação desta vez.
+I anticipated that, if someone knew I was trying to give you a gift...=Eu antecipei que, se alguém soubesse que eu estava tentando te dar um presente...
+...they would make some sort of attempt to sabotage it.=...eles tentariam sabotar isso.
+So, the box...was always empty? You left it on your desk as...bait, I guess?=Então, a caixa...sempre esteve vazia? Você a deixou na sua mesa como...isca, eu acho?
+(Senpai stares at the empty box for a moment.)=(Senpai observa a caixa vazia por um momento.)
+Okay, but why? Why do you suspect that someone would sabotage the gift?=Certo, mas por que? Por que você suspeita que alguém iria sabotar o presente?
+I'm sorry, Senpai...for the sake of the investigation, I can't tell you yet.=Desculpe, Senpai...por causa da investigação, não posso te contar ainda.
 
 水2b(差分のみ)
-The box was empty this morning. Someone put contraband inside of it.=今朝の時点ではその箱は空でした。誰かが禁止物を中に入れたんです。
-Huh? What? Why would someone do that?=え？何でそんなことを？
-Someone is attempting to sabotage my interactions with you.=私とあなたの関わりを邪魔したい人がいるということです。
-But...but, why? What motive does anyone have to do that?=でも、なんで？邪魔をして何になるの？
-Senpai...I know the answer to that question, but...=センパイ...その答えは知っていますが...
-...you can't tell me because it would jeopardize the investigation.=...どうせ捜査に支障をきたすから言えないんでしょ。
-Yes...you understand. I'm sorry for the secrecy, Senpai.=ええ...分かってくれましたか。すみません、センパイ。
+The box was empty this morning. Someone put contraband inside of it.=A caixa estava vazia esta manhã. Alguém colocou contrabando dentro dela.
+Huh? What? Why would someone do that?=Hã? O quê? Por que alguém faria isso?
+Someone is attempting to sabotage my interactions with you.=Alguém está tentando sabotar minhas interações com você.
+But...but, why? What motive does anyone have to do that?=Mas...mas, por que? Que motivo alguém teria para fazer isso?
+Senpai...I know the answer to that question, but...=Senpai...eu sei a resposta para essa pergunta, mas...
+...you can't tell me because it would jeopardize the investigation.=...você não pode me contar porque isso prejudicaria a investigação.
+Yes...you understand. I'm sorry for the secrecy, Senpai.=Sim...você entende. Desculpe pela falta de transparência, Senpai.
 
 木1
-Senpai. This is dangerous, but it may be the fastest way to expose a criminal.=センパイ、危険な賭けですが、犯人を暴く最短の方法があります。
-Huh? Um...I'm a bit worried, but...alright. Tell me what you need me to do.=え？ちょっと不安だけど...いいよ。何をすればいいの？
-I need you to go out on a date with me.=私とデートしてください。
-Wh...what?! S...seriously?! A...date?!=デ、デート！？ほ、本気！？
-That is correct. Meet me here at 5:15 PM so that we can leave school together.=ええ。5:15にここで待ち合わせて一緒に下校しましょう。
-...ugh...I couldn't sleep last night...it'll be hard to concentrate today...=...すみません...昨夜は眠れなかったので...集中力が...
-Maybe you should take a nap after cleaning time is over.=清掃時間の後に昼寝したら？
-Sleep? Here? Never. It would make me too vulnerable. I'd be defenseless.=眠る？こんなところで？ありえません。あまりに無防備です。
-...but...if I don't get some rest soon...the whole operation could fail...=...しかし...休息をとらないと...捜査が失敗してしまうかも...
-...as long as I'm careful what I eat at lunchtime, I shouldn't oversleep...=...昼食をとりすぎなければ、大丈夫でしょうか...
+Senpai. This is dangerous, but it may be the fastest way to expose a criminal.=Senpai. Isso é perigoso, mas pode ser a maneira mais rápida de expor um criminoso.
+Huh? Um...I'm a bit worried, but...alright. Tell me what you need me to do.=Hã? Hum...estou um pouco preocupado, mas...tá bom. Diga o que você precisa que eu faça.
+I need you to go out on a date with me.=Preciso que você saia comigo em um encontro.
+Wh...what?! S...seriously?! A...date?!=D...de encontro?! S...sério?! 
+That is correct. Meet me here at 5:15 PM so that we can leave school together.=Isso mesmo. Encontre-me aqui às 17:15 para que possamos sair da escola juntos.
+...ugh...I couldn't sleep last night...it'll be hard to concentrate today...=...ugh...não consegui dormir ontem à noite...vai ser difícil me concentrar hoje...
+Maybe you should take a nap after cleaning time is over.=Talvez você devesse tirar uma soneca depois que o tempo de limpeza acabar.
+Sleep? Here? Never. It would make me too vulnerable. I'd be defenseless.=Dormir? Aqui? Nunca. Isso me deixaria muito vulnerável. Eu estaria indefeso.
+...but...if I don't get some rest soon...the whole operation could fail...=...mas...se eu não descansar logo...toda a operação pode falhar...
+...as long as I'm careful what I eat at lunchtime, I shouldn't oversleep...=...desde que eu cuide do que como no horário do almoço, não devo dormir demais...
 
 木2a
-Senpai. The date is cancelled.=センパイ。デートは止めましょう。
-(Sigh) Pretending to arrange a date with me was part of the investigation, huh?=はーぁ...僕とデートの約束をするのも、捜査のうちだってこと？
-You understand. I'm sorry. When the investigation is over, I'll explain everything.=そのとおりです。すみません。捜査が終わったら全て話します。
+Senpai. The date is cancelled.=Senpai. O encontro foi cancelado.
+(Sigh) Pretending to arrange a date with me was part of the investigation, huh?=Suspeitei que você estivesse apenas fingindo combinar um encontro como parte da investigação, né?
+You understand. I'm sorry. When the investigation is over, I'll explain everything.=Você entende. Desculpe. Quando a investigação acabar, vou explicar tudo.
 
 金1(先輩のセリフ省略)
-Senpai. I will need your full cooperation today. I need...wait, what's wrong?=センパイ、あなたの協力が必要で...おや？どうかしました？
-...(sigh)...today is a critical turning point. I really need your help today...=...はぁ...今日は重要な転換点です。あなたの助けが必要なんです...
-...but, if you're distracted by this matter, I won't be able to count on you...=...しかし、こんなことで気が散っていては、頼むものも頼めませんし...
-...look. I'll go prepare a bunch of notes and leave them on your desk.=...メモの束を用意してあなたの机の上に置いておきます。
-But, in exchange...you must help me with my investigation one last time.=その代わり、私の捜査に協力して貰います。
-At lunchtime, meet me on the rooftop. I'll give you the details then.=昼休みに、屋上で会いましょう。詳細はそのときに。
+Senpai. I will need your full cooperation today. I need...wait, what's wrong?=Senpai. Preciso da sua total cooperação hoje. Eu preciso...espere, o que aconteceu?
+...(sigh)...today is a critical turning point. I really need your help today...=...suspiro...hoje é um ponto crítico. Preciso muito da sua ajuda hoje...
+...but, if you're distracted by this matter, I won't be able to count on you...=...mas, se você estiver distraído com isso, não poderei contar com você...
+...look. I'll go prepare a bunch of notes and leave them on your desk.=...olha. Vou preparar um monte de anotações e deixar na sua mesa.
+But, in exchange...you must help me with my investigation one last time.=Mas, em troca...você deve me ajudar com minha investigação mais uma vez.
+At lunchtime, meet me on the rooftop. I'll give you the details then.=No horário do almoço, encontre-me no telhado. Vou te dar os detalhes então.
 
 金2a
 Senpai. I need to speak with you. But, first: did my notes help you?=Senpai. Preciso falar com você. Mas, primeiro: minhas anotações o ajudaram?
@@ -11841,191 +11779,190 @@ betrayアマイ
 ...huh...?!...am...am I...tied to a chair...?!...no...no, this can't be happening...Yan-chan?! Yan-chan, did you do this?! Why?! Please, let me go...let me go!=...hein...?! ... eu... estou amarrada a uma cadeira?! ...não... não, isso não pode estar acontecendo... Yan-chan?! Yan-chan, foi você quem fez isso?! Por quê?! Por favor, me solte... me solte!
 
 1980s offer help
-Your diary fell out of your bookbag. I picked it up to put it back...and I accidentally saw what was written on one of the pages.=あなたの日記が鞄から落ちてて、拾ったときに中身を見ちゃったんだけど、気になることが書いてあって...
-Something about an...''Evil Photographer?'' It made me worry. Are you in danger? Do you need help? Please, tell me what's going on.=「悪い写真家」って何？ちょっと心配だわ。危ない目に遭ってるの？私にできることはない？何があったのか教えて。
-Oh...gosh, I wasn't ready to talk about this with anyone, but...yeah...there is something I need help with...=えっと...誰かに話すつもりなんて無かったけど...でも...そうね。助けてほしいの。
-There's an abandoned insane asylum just outside of town. It's rumored to be haunted by ghosts.=町外れに廃墟になった精神病院があるでしょ？あそこには幽霊が出るって噂があって...
-My friends dared me to spend a night there as a test of courage. Last weekend, I accepted the dare and went to the asylum at night.=友達と一緒に夜中に肝試しに行こうってなって、先週行ってみたの。
-I started exploring all of the rooms, looking for a good place to sleep. But, just when I thought I found the perfect room...suddenly, a man with a knife appeared!=一つ一つ部屋の中を探検してたら、眠るのに良さそうな場所があったの。でももっといい部屋があるかもなって考えてたらいきなり男の人がナイフを突きつけてきたの！
-He shut the door behind him, trapping me in the room with him...and then, he...he told me to take my clothes off!=私を部屋に閉じ込めて、ドアを閉めて、服を脱げって言ったの！
-I was terrified, so I did what he told me to do. He didn't touch me, but...he had a camera with him...and...he took a bunch of pictures of me...=怖くて従うしかなかった。触られはしなかったけど、写真をいっぱい撮られちゃって...
-He had a big duffle bag with him. At one point, I saw what was inside...a bunch of camera equipment, along with dozens of photographs of other girls.=その人は大きなダッフルバッグを持ってた。ふと中身を見ると...沢山のカメラ機材と、他の女の子の写真が何十枚も入ってた。
-He must be camping out in that asylum every night, waiting for girls to show up to do a test of courage, so that he can corner them and take pictures of them...=アイツはきっと毎晩精神病院に泊まって、女の子が肝試しに来るのを待ってるんだわ。だからあんな写真をいっぱい持ってるのよ...
-It wouldn't surprise me if he was the one who started the rumor about the asylum being haunted, just to trick teenage girls into walking into an abandoned building alone...=多分幽霊のウワサもアイツが広めたんだわ。女の子を病院におびき寄せて捕まえるために...
-Eventually, I saw an opportunity to escape, so I grabbed my clothes and ran away. I got away safely, but...I can't sleep at night knowing that he still has those photos of me!=なんとか服だけ持って安全なところまで逃げ出せたけど、アイツが私の写真を持ってると思うと怖くて眠れない！
-Why don't you call the police?=どうして警察に行かないの？
-I don't want anyone to see those pictures of me! Not even the cops! I'd die of embarassment if those photos were submitted as evidence in a court case!=私の写真を見られたくないの！警察にも見てほしくない！あんな写真が裁判の証拠にでもなったら恥ずかしくて死んじゃうわ！
-I want to go back to that asylum and burn that evil photographer's bag to ashes! But...recently, that place became really dangerous...=精神病院に行ってアイツのバッグを燃やしてやりたい！でも...最近、あそこはとっても危険で...
-A bunch of homeless people and drug addicts are staying there now. I'm afraid of what would happen if I went back there...=沢山のホームレスやヤク中が集まってるの！もしあそこに行ったら何されるか...
-I'll go to the insane asylum and burn the photographer's pictures for you.=私が精神病院に行って写真を燃やしてあげる。
-Are you sure?! You could get hurt! That place is really dangerous!=ダメよ！きっと酷い目に遭うわ！あそこは危険よ！
-Don't worry. I'm tougher than I look.=大丈夫。私は見かけよりずっと強いんだから。
-If you could burn those photos, I'd be in your debt forever...but I don't want you to put yourself at risk...=写真を燃やしてくれたら、感謝してもしきれないけど...自分の身を危険にさらすようなことはしてほしくないわ。
-Trust me...I'll be fine. Give me your phone number so I can call you when the problem is resolved.=私を信じて...大丈夫だから。問題を解決したら電話するから、電話番号を教えて。
-Okay...but, be careful...if anything happens to you, I'll never be able to forgive myself...=わかったわ。...でも気を付けてね...あなたに何かあったら、きっと自分を許せなくなるから...
+Your diary fell out of your bookbag. I picked it up to put it back...and I accidentally saw what was written on one of the pages.=Seu diário caiu da sua mochila. Eu peguei para colocar de volta... e acabei vendo o que estava escrito em uma das páginas.  
+Something about an...''Evil Photographer?'' It made me worry. Are you in danger? Do you need help? Please, tell me what's going on.=Algo sobre um... "Fotógrafo Maligno?" Isso me deixou preocupada. Você está em perigo? Precisa de ajuda? Por favor, me diga o que está acontecendo.  
+Oh...gosh, I wasn't ready to talk about this with anyone, but...yeah...there is something I need help with...=Oh... céus, eu não estava pronta para falar sobre isso com ninguém, mas... sim... tem algo com que preciso de ajuda...  
+There's an abandoned insane asylum just outside of town. It's rumored to be haunted by ghosts.=Tem um sanatório abandonado logo fora da cidade. Dizem que é assombrado por fantasmas.  
+My friends dared me to spend a night there as a test of courage. Last weekend, I accepted the dare and went to the asylum at night.=Meus amigos me desafiaram a passar uma noite lá como um teste de coragem. No último fim de semana, eu aceitei o desafio e fui ao sanatório à noite.  
+I started exploring all of the rooms, looking for a good place to sleep. But, just when I thought I found the perfect room...suddenly, a man with a knife appeared!=Comecei a explorar todos os cômodos, procurando um bom lugar para dormir. Mas, justo quando pensei que encontrei o quarto perfeito... de repente, um homem com uma faca apareceu!  
+He shut the door behind him, trapping me in the room with him...and then, he...he told me to take my clothes off!=Ele fechou a porta atrás de si, me prendendo no quarto com ele... e então, ele... ele me disse para tirar a roupa!  
+I was terrified, so I did what he told me to do. He didn't touch me, but...he had a camera with him...and...he took a bunch of pictures of me...=Eu estava aterrorizada, então fiz o que ele me disse. Ele não me tocou, mas... ele tinha uma câmera com ele... e... ele tirou várias fotos de mim...  
+He had a big duffle bag with him. At one point, I saw what was inside...a bunch of camera equipment, along with dozens of photographs of other girls.=Ele tinha uma grande bolsa com ele. Em um momento, eu vi o que havia dentro... um monte de equipamentos de câmera, junto com dezenas de fotografias de outras garotas.  
+He must be camping out in that asylum every night, waiting for girls to show up to do a test of courage, so that he can corner them and take pictures of them...=Ele deve estar acampando naquele sanatório todas as noites, esperando garotas aparecerem para fazer um teste de coragem, para que ele possa encurralá-las e tirar fotos delas...
+It wouldn't surprise me if he was the one who started the rumor about the asylum being haunted, just to trick teenage girls into walking into an abandoned building alone...=Não me surpreenderia se ele foi quem espalhou o rumor sobre o sanatório ser assombrado, apenas para enganar garotas adolescentes a entrarem em um prédio abandonado sozinhas...
+Eventually, I saw an opportunity to escape, so I grabbed my clothes and ran away. I got away safely, but...I can't sleep at night knowing that he still has those photos of me!=Por fim, vi uma oportunidade de escapar, então peguei minhas roupas e fugi. Consegui fugir em segurança, mas... não consigo dormir à noite sabendo que ele ainda tem aquelas fotos minhas!
+Why don't you call the police?=Por que você não chama a polícia?
+I don't want anyone to see those pictures of me! Not even the cops! I'd die of embarrassment if those photos were submitted as evidence in a court case!=Não quero que ninguém veja aquelas fotos minhas! Nem mesmo os policiais! Eu morreria de vergonha se aquelas fotos fossem usadas como prova em um caso judicial!
+I want to go back to that asylum and burn that evil photographer's bag to ashes! But...recently, that place became really dangerous...=Quero voltar àquele sanatório e queimar a bolsa daquele fotógrafo malvado em cinzas! Mas...recentemente, aquele lugar ficou realmente perigoso...
+A bunch of homeless people and drug addicts are staying there now. I'm afraid of what would happen if I went back there...=Um monte de pessoas sem-teto e viciados em drogas estão ficando lá agora. Tenho medo do que poderia acontecer se eu voltasse lá...
+I'll go to the insane asylum and burn the photographer's pictures for you.=Eu vou ao sanatório e queimarei as fotos do fotógrafo por você.
+Are you sure?! You could get hurt! That place is really dangerous!=Você tem certeza?! Você pode se machucar! Aquele lugar é realmente perigoso!
+Don't worry. I'm tougher than I look.=Não se preocupe. Sou mais forte do que pareço.
+If you could burn those photos, I'd be in your debt forever...but I don't want you to put yourself at risk...=Se você puder queimar aquelas fotos, eu ficaria eternamente grata...mas não quero que você se coloque em risco...
+Trust me...I'll be fine. Give me your phone number so I can call you when the problem is resolved.=Confie em mim...vou ficar bem. Me dê seu número de telefone para que eu possa te ligar quando o problema for resolvido.
+Okay...but, be careful...if anything happens to you, I'll never be able to forgive myself...=Ok...mas, tenha cuidado...se algo acontecer com você, eu nunca poderei me perdoar...
 
-...I've got a feeling that you were just snooping around in my bag, but...yeah, to be honest, I do have a big problem.=...私のバッグを覗き見したのはちょっと嫌だけど...実はすごく困ってるんだ。
-There's an abandoned insane asylum just outside of town. Spending a night there is a popular ''test of courage.''=町外れに精神病院があるでしょ？心霊スポットで有名な。
-I wanted to prove to the boys that I'm just as brave as they are, so I decided to spend a night in the asylum. Big mistake.=私だって男子と同じくらい勇敢なんだって証明したくて、夜に精神病院に行ったんだ。
-In the asylum, I was confronted by a man with a knife. I ran from him, but I got cornered in a room with only one exit.=そしたら精神病院でナイフを持った男に出会ってさ、逃げたんだけど出入り口が一つしかない部屋に追い込まれちゃって。
-He blocked the doorway and told me...to strip my clothing off. I was terrified of losing my life, so...I did as I was told.=アイツはドアを閉じてから、服を脱げって言ったんだ。死ぬのが怖くて、従うしかなかった。
-He didn't lay a hand on me...but he took out a camera and...took a bunch of pictures of me...=アイツは私に触れなかったけど...カメラを持ってきて、私の裸を撮ったんだ。
-Actually, he had a big duffle bag with him. At one point, I saw what was inside...a bunch of photographs of other girls.=アイツは大きなダッフルバッグを持ってて、中を見ると...沢山の女の子の写真が入ってた。
-Ugh, I bet that creep is the one who started the rumor about the asylum being a good place for a ''test of courage...''=クソッ、精神病院が肝試しにピッタリな場所だって広めたのもきっとあの変態だ...
-I wonder how many other girls have already been victimized in the same way that I was...=他にもたくさんの女の子がアイツに撮られたんだろうな...
-Eventually, I saw an opportunity to escape, so I grabbed my clothes and ran away. I still have nightmares about it...=なんとか隙をついて服だけ掴んで逃げ出せたけど、あの時のことはまだ夢に見るよ...
-No! I don't want ANY one to see those photos, not even the police!=ダメ！あの写真は誰にも見られたくない！たとえ警察でも！
-Ugh! I just want to go back to that asylum, and burn the whole building down, so this can never happen to anyone else! But...=クソッ、精神病院に行って建物ごと燃やしてやりたい！そしたら私みたいな目には誰も遭わずに済む！だけど...
-A bunch of homeless people and drug addicts are squatting in the asylum right now. I don't want them to die in a fire...=あそこにはたくさんのヤク中とホームレスが居座ってる。放火なんてしたらソイツらまで死んじまう...
-Whoa, whoa, whoa - calm down. Maybe you're just saying that because you're getting all fired up from listening to my story...=ちょっとちょっと、冷静に考えてよ。私の話を聞いて気が大きくなったの？
-I'm worried that you might get hurt! But...if you could actually burn all of those photos...it would mean the world to me...=アンタが怪我しないか心配なんだ！でも...もしアンタが写真を燃やしてくれたら...嬉しいけど...
-...well...okay...but...be careful, alright?!=...わかった。でも...気を付けてね。いい！？
+...I've got a feeling that you were just snooping around in my bag, but...yeah, to be honest, I do have a big problem.=...Eu tenho a sensação de que você estava fuçando na minha bolsa, mas...sim, para ser honesta, eu tenho um grande problema.
+There's an abandoned insane asylum just outside of town. Spending a night there is a popular ''test of courage.''=Tem um manicômio abandonado nos arredores da cidade. Passar a noite lá é um popular "teste de coragem."
+I wanted to prove to the boys that I'm just as brave as they are, so I decided to spend a night in the asylum. Big mistake.=Eu queria provar aos meninos que sou tão corajosa quanto eles, então decidi passar uma noite no manicômio. Grande erro.
+In the asylum, I was confronted by a man with a knife. I ran from him, but I got cornered in a room with only one exit.=No manicômio, fui confrontada por um homem com uma faca. Eu corri dele, mas acabei encurralada em uma sala com apenas uma saída.
+He blocked the doorway and told me...to strip my clothing off. I was terrified of losing my life, so...I did as I was told.=Ele bloqueou a porta e me disse...para tirar a roupa. Eu estava apavorada de perder a vida, então...fiz o que ele disse.
+He didn't lay a hand on me...but he took out a camera and...took a bunch of pictures of me...=Ele não encostou em mim...mas tirou uma câmera e...tirou várias fotos minhas...
+Actually, he had a big duffle bag with him. At one point, I saw what was inside...a bunch of photographs of other girls.=Na verdade, ele tinha um grande saco de viagem com ele. Em um momento, eu vi o que havia dentro...várias fotos de outras garotas.
+Ugh, I bet that creep is the one who started the rumor about the asylum being a good place for a ''test of courage...''=Ugh, aposto que aquele creep é quem espalhou o rumor de que o manicômio é um bom lugar para um "teste de coragem..."
+I wonder how many other girls have already been victimized in the same way that I was...=Eu me pergunto quantas outras garotas já foram vítimas da mesma forma que eu fui...
+Eventually, I saw an opportunity to escape, so I grabbed my clothes and ran away. I still have nightmares about it...=Por fim, vi uma oportunidade de escapar, então peguei minhas roupas e fugi. Ainda tenho pesadelos com isso...
+No! I don't want ANY one to see those photos, not even the police!=Não! Eu não quero que ninguém veja aquelas fotos, nem mesmo a polícia!
+Ugh! I just want to go back to that asylum, and burn the whole building down, so this can never happen to anyone else! But...=Ugh! Eu só quero voltar para aquele manicômio e queimar o prédio inteiro, para que isso nunca aconteça com mais ninguém! Mas...
+A bunch of homeless people and drug addicts are squatting in the asylum right now. I don't want them to die in a fire...=Um monte de usuários de drogas e moradores de rua estão morando no manicômio agora. Eu não quero que eles morram em um incêndio...
+Whoa, whoa, whoa - calm down. Maybe you're just saying that because you're getting all fired up from listening to my story...=Whoa, whoa, whoa - calma. Talvez você esteja dizendo isso porque ficou agitada ouvindo minha história...
+I'm worried that you might get hurt! But...if you could actually burn all of those photos...it would mean the world to me...=Estou preocupada que você possa se machucar! Mas...se você realmente pudesse queimar todas aquelas fotos...isso significaria muito para mim...
+...well...okay...but...be careful, alright?!=...bem...tá bom...mas...cuidado, certo?!
 
-...oh...gosh...um...I never really intended for anyone to find out about this...but...well...at this point...I need help...=...え、えっとね...誰にも教えたくないんだけど...で、でも、助けてほしいから...話すね...
-I'm probably the least brave person in Akademi. I wanted to build up my courage, so I decided to spend a night in the asylum.=私、Akademiで一番勇気がないんじゃないかって思ってて、勇気を鍛えたくて、夜に精神病院に行ってみたの。
-I want to go back there and beg that man to please just burn all the photos he took of me, but...well...I doubt he would.=戻ってその人に写真を燃やすようお願いしたいけど...でも...きっとそんなお願い聞いてくれないよね。
-Also, a bunch of homeless people and drug addicts are squatting in the asylum right now. It's become a real dangerous place...=それに、たくさんのホームレスや薬物中毒の人がいて、本当に怖くて...
-Huh?! Wh...what?! No! Listen to what you're saying! You could get seriously hurt if you go into that asylum!=え？ダ...ダメ！何を言ってるの！精神病院に行ったらきっと大変な目に遭うわ！
-...ohhhhh...I'm...really worried...but...if you could actually burn all of those photos...it would mean the world to me...=...と、とっても心配だわ...確かに...写真を燃やしてくれたら...嬉しいけど...
-...gosh...you're definitely a lot more brave than I am...well...be careful...and...um...g-good luck!!=...そう...とっても勇敢ね...私なんかと違って...き、気を付けてね！
+...oh...gosh...um...I never really intended for anyone to find out about this...but...well...at this point...I need help...=...ah...nossa...hum...eu nunca realmente quis que ninguém soubesse disso...mas...bem...neste ponto...eu preciso de ajuda...
+I'm probably the least brave person in Akademi. I wanted to build up my courage, so I decided to spend a night in the asylum.=Eu provavelmente sou a pessoa menos corajosa em Akademi. Eu queria desenvolver minha coragem, então decidi passar uma noite no manicômio.
+I want to go back there and beg that man to please just burn all the photos he took of me, but...well...I doubt he would.=Quero voltar lá e implorar para aquele homem que ele simplesmente queime todas as fotos que tirou de mim, mas...bem...duvido que ele faça isso.
+Also, a bunch of homeless people and drug addicts are squatting in the asylum right now. It's become a real dangerous place...=Além disso, um monte de moradores de rua e viciados em drogas estão morando no manicômio agora. Tornou-se um lugar realmente perigoso...
+Huh?! Wh...what?! No! Listen to what you're saying! You could get seriously hurt if you go into that asylum!=Huh?! O que?! Não! Ouça o que você está dizendo! Você pode se machucar seriamente se entrar naquele manicômio!
+...ohhhhh...I'm...really worried...but...if you could actually burn all of those photos...it would mean the world to me...=...ohhhh...estou...realmente preocupada...mas...se você realmente pudesse queimar todas aquelas fotos...isso significaria muito para mim...
+...gosh...you're definitely a lot more brave than I am...well...be careful...and...um...g-good luck!!=...nossa...você é definitivamente muito mais corajoso do que eu...bem...cuidado...e...um...b-boa sorte!!
+Ugh...I really, really wanted this to stay a secret...but...I've got to admit it, I can't solve this problem on my own...=Ugh...eu realmente queria que isso permanecesse em segredo...mas...eu tenho que admitir, não consigo resolver esse problema sozinha...
+I don't believe in ghosts or anything like that, so I decided to spend a night in the asylum to prove that it's no big deal...=Eu não acredito em fantasmas ou coisas assim, então decidi passar uma noite no manicômio para provar que não é nada demais...
+I want to go back there and kick that guy's ass! But...I worry that it would just turn out the same as it did last time...=Quero voltar lá e dar uma surra naquele cara! Mas...eu me preocupo que seria apenas igual da última vez...
+...whoa. Hey, wait a minute. Think about what you're saying...the asylum is a really, really dangerous place right now...=...uau. Ei, espere um minuto. Pense sobre o que você está dizendo...o manicômio é um lugar realmente, realmente perigoso agora...
+...huh...well...if you could actually burn all of those photos...it would mean the world to me...=...hum...bem...se você realmente pudesse queimar todas aquelas fotos...isso significaria muito para mim...
+I...really hope you can pull it off. I'll be rooting for you!=Eu...realmente espero que você consiga. Estarei torcendo por você!
 
-Ugh...I really, really wanted this to stay a secret...but...I've got to admit it, I can't solve this problem on my own...=秘密にしておきたかったんだけど...そうね。一人じゃどうにもできないし...
-I don't believe in ghosts or anything like that, so I decided to spend a night in the asylum to prove that it's no big deal...=幽霊とかそういうのは全く信じてなかったから、精神病院に行くことに決めたの。
-I want to go back there and kick that guy's ass! But...I worry that it would just turn out the same as it did last time...=戻ってアイツのケツを蹴っ飛ばしてやりたいわ！でも...また捕まって撮られるんじゃないかと思うと...
-...whoa. Hey, wait a minute. Think about what you're saying...the asylum is a really, really dangerous place right now...=...え？ちょっと待って、あの精神病院は今、とても、とっても危険な場所なの...
-...huh...well...if you could actually burn all of those photos...it would mean the world to me...=...まあ...もし写真を燃やしてくれたら...助かるけど...
-I...really hope you can pull it off. I'll be rooting for you!=どうか無事に戻ってきて。応援してるからね！
+Excuse me?! For future reference, you do NOT have permission to touch my belongings - EVER. ...but...I...do need some help...=Com licença?! Para referência futura, você NÃO tem permissão para tocar em meus pertences - NUNCA. ...mas...eu...preciso de ajuda...
+A simple test of courage should be easy for one such as myself, so...I decided to go to the asylum. But, well...=Um simples teste de coragem deve ser fácil para alguém como eu, então...decidi ir ao manicômio. Mas, bem...
+Um?! Hello?! Excuse me?! Is there a brain in your head?! If the police catch him, they'll see those photos of me!!=Hã?! Olá?! Com licença?! Você tem um cérebro na cabeça?! Se a polícia pegar ele, vão ver aquelas fotos minhas!!
+Clearly, the man wants to sell those photos. I should simply offer to buy them from him myself, but...well...=Claramente, o homem quer vender aquelas fotos. Eu deveria simplesmente oferecer para comprá-las dele, mas...bem...
+A bunch of homeless people and drug addicts are squatting in the asylum right now. It's become a real dangerous place...=Um monte de moradores de rua e viciados em drogas estão morando no manicômio agora. Tornou-se um lugar realmente perigoso...
+Good! There's no reason why I should be risking my life out there. That's what people like YOU are for.=Bom! Não há razão para eu arriscar minha vida lá fora. É para isso que pessoas como VOCÊ existem.
+Here, I'll give you my phone number so that you can call me when you're done.=Aqui, eu vou te dar meu número de telefone para que você possa me ligar quando terminar.
+Well, don't just stand there - get moving!=Bem, não fique parado - comece a se mover!
 
-Excuse me?! For future reference, you do NOT have permission to touch my belongings - EVER. ...but...I...do need some help...=ちょっと！？私の物を勝手に触らないで！今後気をつけなさい！それと...まあ、確かに助けが必要ですわ...
-A simple test of courage should be easy for one such as myself, so...I decided to go to the asylum. But, well...=肝試しなんて造作もないことですから、精神病院に行きましたの。でも、その...
-Um?! Hello?! Excuse me?! Is there a brain in your head?! If the police catch him, they'll see those photos of me!!=え？何をおっしゃるの！？頭がカラッポですわね！もし警察なんか読んだら、私の写真を見られてしまいますわ！
-Clearly, the man wants to sell those photos. I should simply offer to buy them from him myself, but...well...=あの男が写真を売る気なのは明らかです。本来ならすべて買えばよいのですが...
-A bunch of homeless people and drug addicts are squatting in the asylum right now. It's become a real dangerous place...=あそこは今汚らわしいホームレスとヤク中の巣窟です！危険ですわ...
-Good! There's no reason why I should be risking my life out there. That's what people like YOU are for.=よろしい！わざわざこの私の命を危険にさらす必要はありませんもの。あなたのような貧乏人が代わりに行けばいいんですわ！
-Here, I'll give you my phone number so that you can call me when you're done.=さ、私の電話番号を教えてあげます。終わったら連絡なさい！
-Well, don't just stand there - get moving!=さ、何を突っ立ってるのです！さっさと行きなさい！
+Oh, gosh! Please, keep your voice down! Gossip can ruin an idol's career! ...but...with that said...I do need some help...=Oh, céus! Por favor, abaixe a voz! Fofocas podem arruinar a carreira de um ídolo! ...mas...dito isso...eu realmente preciso de ajuda...
+I thought it would give me inspiration for a song, so I decided to visit the asylum...but...that was a huge mistake...=Achei que isso me daria inspiração para uma música, então decidi visitar o manicômio...mas...isso foi um grande erro...
+I don't want to be involved in a scandal this early in my career! I want this to go away as quietly as possible!=Eu não quero me envolver em um escândalo tão cedo na minha carreira! Quero que isso desapareça o mais silenciosamente possível!
+I want to go back there and try to strike some kind of deal with that man, but I might just make the situation worse. Also...=Quero voltar lá e tentar fazer algum tipo de acordo com aquele homem, mas posso apenas piorar a situação. Além disso...
+Whoa, whoa, whoa. Hey, hey...wait. Are you sure you want to say something like that? I mean, this is really dangerous...=Whoa, whoa, whoa. Ei, ei...espere. Você tem certeza de que quer dizer algo assim? Quero dizer, isso é realmente perigoso...
+...I...I'm...really worried, but...if you could actually burn all of those photos...it would mean the world to me...=...Eu...estou...realmente preocupada, mas...se você realmente pudesse queimar todas aquelas fotos...isso significaria muito para mim...
+Oh, gosh...thank you so much for this...please, burn those photos...my future career as an idol is riding on this...!=Oh, céus...muito obrigada por isso...por favor, queime aquelas fotos...minha futura carreira como ídolo depende disso...!
 
-Oh, gosh! Please, keep your voice down! Gossip can ruin an idol's career! ...but...with that said...I do need some help...=ちょ、ちょっと！大きな声で言わないで！変な噂が流れちゃうわ！...でも...助けてほしいの...
-I thought it would give me inspiration for a song, so I decided to visit the asylum...but...that was a huge mistake...=きっといいインスピレーションになると思って、精神病院に行ったんだけど...それが間違いだったわ...
-I don't want to be involved in a scandal this early in my career! I want this to go away as quietly as possible!=アイドルになったばっかりなのにスキャンダルは嫌よ！今すぐ解決したいの！
-I want to go back there and try to strike some kind of deal with that man, but I might just make the situation worse. Also...=あそこに戻ってカメラを壊したいけど、また捕まっちゃうかも。それに...
-Whoa, whoa, whoa. Hey, hey...wait. Are you sure you want to say something like that? I mean, this is really dangerous...=ちょっと、ちょっと！本気で言ってるの？とっても危険な場所なのに...
-...I...I'm...really worried, but...if you could actually burn all of those photos...it would mean the world to me...=...すごく、すごく心配だけど、写真を燃やしてくれたら...とっても助かるわ...
-Oh, gosh...thank you so much for this...please, burn those photos...my future career as an idol is riding on this...!=そう...本当にありがとう。どうか無事でね。私の将来のキャリアもかかってるから...！
+Dear...it doesn't take a genius to tell that you were snooping around in my bag...but...nonetheless...I require assistance...=Querido...não é preciso ser um gênio para perceber que você estava bisbilhotando minha bolsa...mas...mesmo assim...eu preciso de ajuda...
+I...got tired of being ''perfect'' and behaving properly all the time, so I decided to be reckless...and I went to the asylum.=Eu...cansei de ser "perfeita" e me comportar corretamente o tempo todo, então decidi ser imprudente...e fui ao manicômio.
+When attorneys show evidence in court, the evidence can be seen by everyone present. I don't want anyone to see those photos!=Quando os advogados apresentam provas no tribunal, as provas podem ser vistas por todos os presentes. Eu não quero que ninguém veja aquelas fotos!
+I've been racking my brain to come up with a solution, but nothing comes to mind. I want the photos to be destroyed, but...=Estou pensando na solução, mas nada vem à mente. Quero que as fotos sejam destruídas, mas...
+Um - I appreciate you saying so, but - I must caution you against such a course of action. It would be incredibly dangerous...=Um - eu aprecio você dizer isso, mas - devo avisá-lo contra tal curso de ação. Seria incrivelmente perigoso...
+You...do you truly believe yourself to be capable of completing such a task? I...I suppose...if you really...think you can...=Você...você realmente acredita que pode completar tal tarefa? Eu...suponho...se você realmente...acha que pode...
+Please, I'm begging you, be as careful as possible. If anything were to go wrong, I'd feel guilty for the rest of my life...=Por favor, eu estou implorando, tenha o máximo de cuidado possível. Se algo der errado, eu me sentiria culpada pelo resto da minha vida...
 
-Dear...it doesn't take a genius to tell that you were snooping around in my bag...but...nonetheless...I  require assistance...=あなたが...私のバッグを覗き見してたのは、ちょっと考えればわかるわ...でも...どうか助けてほしいの...
-Dear...it doesn't take a genius to tell that you were snooping around in my bag...but...nonetheless...I require assistance...=あなたが...私のバッグを覗き見してたのは、ちょっと考えればわかるわ...でも...どうか助けてほしいの...
-I...got tired of being ''perfect'' and behaving properly all the time, so I decided to be reckless...and I went to the asylum.=私...常に「完璧」な優等生でいることに疲れてて、無茶しようと思って...精神病院に行ったの。
-When attorneys show evidence in court, the evidence can be seen by everyone present. I don't want anyone to see those photos!=弁護士が法廷で証拠を提出するとき、その証拠は出席者全員に見られるの。そんな写真、誰にも見てほしくない！
-I've been racking my brain to come up with a solution, but nothing comes to mind. I want the photos to be destroyed, but...=どうすればいいのかずっと考えてるんだけど、何も思いつかないの。写真を処分したいけど...
-Um - I appreciate you saying so, but - I must caution you against such a course of action. It would be incredibly dangerous...=そう言ってくれるのは嬉しいけど、私のためにそんな危険なことしてほしくないわ。
-You...do you truly believe yourself to be capable of completing such a task? I...I suppose...if you really...think you can...=あなた...そんなことできると本気で思ってるの！？...もし...もし本当にできるなら...願ってもないけど...
-Please, I'm begging you, be as careful as possible. If anything were to go wrong, I'd feel guilty for the rest of my life...=どうか、気を付けてね。もしあなたに何かあったら私、一生罪悪感を背負っちゃうから...
+Thank you for being so kind. To be honest, yes, there is a problem that I would like to ask for help with.=Obrigado por ser tão gentil. Para ser honesta, sim, há um problema com o qual eu gostaria de pedir ajuda.
+I wanted to prove to myself that courage is a trait that I do not lack...so I went to the asylum. It was a foolish mistake.=Queria provar a mim mesma que coragem é uma qualidade que não me falta...então fui ao manicômio. Foi um erro tolo.
+The only man who should see a woman nude is her husband! If the police saw those photos, I could never be a bride!=O único homem que deve ver uma mulher nua é seu marido! Se a polícia visse aquelas fotos, eu nunca poderia ser uma noiva!
+Sadly, I do not think that it will be possible to reason with the man. Destruction of those photos is the only option. But...=Infelizmente, não acho que será possível convencer o homem. A destruição daquelas fotos é a única opção. Mas...
+As much as I appreciate your offer, I must turn it down. I cannot put another person's safety before my own.=Por mais que eu aprecie sua oferta, eu devo recusar. Não posso colocar a segurança de outra pessoa antes da minha.
+...if...you insist...then...I may have to accept your offer...for...I truly cannot solve this problem on my own...=...se...você insistir...então...talvez eu tenha que aceitar sua oferta...pois...realmente não posso resolver esse problema sozinha...
+...here is my telephone number...please...be cautious...I will be praying for your safe return...=...aqui está meu número de telefone...por favor...tenha cuidado...estarei orando para o seu retorno seguro...
 
-Thank you for being so kind. To be honest, yes, there is a problem that I would like to ask for help with.=お心遣いありがとうございます。実は、お力を借りたい問題があるのです。
-I wanted to prove to myself that courage is a trait that I do not lack...so I went to the asylum. It was a foolish mistake.=あのときの私はバカでした。自分の勇気を証明したかったので、精神病院に行ったのです。
-The only man who should see a woman nude is her husband! If the police saw those photos, I could never be a bride!=女性の裸を見ていいのは夫だけです！警察にまで見られてしまったら、お嫁に行けません！
-Sadly, I do not think that it will be possible to reason with the man. Destruction of those photos is the only option. But...=残念ながら、あの男性を説得するのは無理でしょう。写真を処分するしかありません。ですが...
-As much as I appreciate your offer, I must turn it down. I cannot put another person's safety before my own.=そう言っていただけるのは嬉しいですが、お断りします。私のせいであなたが危険な目に遭ってしまいます。
-...if...you insist...then...I may have to accept your offer...for...I truly cannot solve this problem on my own...=もし...どうしてもとおっしゃるなら...お願いします。私一人では解決できないんです...
-...here is my telephone number...please...be cautious...I will be praying for your safe return...=...私の電話番号です...どうか...お気をつけて。無事に戻られることを願っています。
+Girl, I know what that means. You were snooping. But, I'll forgive you. I have a much bigger problem, and I need advice.=Menina, eu sei o que isso significa. Você estava bisbilhotando. Mas, eu vou te perdoar. Eu tenho um problema muito maior e preciso de conselhos.
+My friends dared me to do it, so I did it. I thought it would be a piece of cake. But...well, things went horribly wrong.=Meus amigos me desafiaram a fazer isso, então eu fiz. Achei que seria fácil. Mas...bem, as coisas deram terrivelmente errado.
+I pose for photoshoots all the time, but I'm drawing a line right here - NOBODY should see those photos, not even the cops!=Eu poso para ensaios fotográficos o tempo todo, mas estou traçando uma linha aqui - NINGUÉM deve ver aquelas fotos, nem mesmo a polícia!
+I want to burn those photos. Seriously, burn them to ashes. I would have already done it by now, but there's a problem...=Quero queimar aquelas fotos. Sério, queimá-las até virarem cinzas. Eu já teria feito isso, mas há um problema...
+Would you...would you do that for me? If you'd do that, then I...no. I can't let you do that. It's too dangerous.=Você...você faria isso por mim? Se você fizesse isso, então eu...não. Eu não posso deixar você fazer isso. É muito perigoso.
+I...well...I don't want to ask you to do this...but...if you could destroy those photos...you'd fix everything...=Eu...bem...não quero te pedir isso...mas...se você pudesse destruir aquelas fotos...você resolveria tudo...
+...thank you...but...if there's danger, just get out of there, okay? I really, really don't want you to get hurt...=...obrigada...mas...se houver perigo, apenas saia daí, ok? Eu realmente, realmente não quero que você se machuque...
 
-Girl, I know what that means. You were snooping. But, I'll forgive you. I have a much bigger problem, and I need advice.=言い訳なんてしなくていいよ。覗き見したんでしょ？でも許してあげる。もっとヤバい問題に巻き込まれててさ、アドバイスしてよ。
-My friends dared me to do it, so I did it. I thought it would be a piece of cake. But...well, things went horribly wrong.=友達が肝試ししてよって言うから、やってみたの。でも...それが間違いだったの。
-I pose for photoshoots all the time, but I'm drawing a line right here - NOBODY should see those photos, not even the cops!=いつも写真のためにポーズをとったりしてるけど、あの写真だけはダメ！こんな写真警察にも見てほしくない！
-I want to burn those photos. Seriously, burn them to ashes. I would have already done it by now, but there's a problem...=写真を燃やしたい。マジで灰にしてやりたい。できるならとっくにやってるんだけど...
-Would you...would you do that for me? If you'd do that, then I...no. I can't let you do that. It's too dangerous.=やってくれるの？もし成功したら...いや、やっぱりダメ。危険すぎるわ。
-I...well...I don't want to ask you to do this...but...if you could destroy those photos...you'd fix everything...=その...こんなこと頼みたくないけど...あの写真を処分したら...全部解決するから...
-...thank you...but...if there's danger, just get out of there, okay? I really, really don't want you to get hurt...=...ありがとう...でも、危険な目に遭ったら、すぐに逃げてね。いい？ほんとに怪我とかしないでね...
-
-...oh? What can I do for you?=...さて、何か用ですか？
-...you don't need to make up an excuse. Just admit that you were snooping around in my bag. ...but, yes, I'm dealing with a problem that I can't handle on my own.=...言い訳する必要はありません。私のバッグを覗き見したんでしょう？しかし、確かに私一人ではどうにもならない問題を抱えています。
-There's an abandoned insane asylum just outside of town. I heard a rumor that a man is luring girls inside, threatening them at knifepoint, and forcing them to strip for him.=町外れに廃墟になった精神病院がありますよね。そこに、ある男が女の子を誘い込み、ナイフで脅して無理やり脱がせているという噂を聞いたんです。
-I decided to purchase some pepper spray for my own protection and investigate the rumor myself.=自衛のためにペッパースプレーを買って、その噂を調査することにしたんです。
-I arrived at the asylum and began exploring. Just a few minutes into my investigation, he appeared. I took out the pepper spray, but he knocked it out of my hands before I could use it.=精神病院に到着し、探索を始めたところ、数分後に彼が出てきました。スプレーを取り出しましたが、使う前に手から叩き落されてしまいました。
-He trapped me inside a room with him, and...exactly as he had done with all of his other victims...he demanded that I strip for him.=彼は私を部屋の中に閉じ込め、他の被害者と同じように...服を脱ぐよう強要してきました。
-I was...terrified. I didn't want to die, so...I just...did what he told me to do. He didn't touch me, but...he did take some...compromising pictures of me.=私は...怖かった。死にたくなくて、ただ彼の言うとおりにしてしまいました。彼は私に触れなかったけれど...私の危ない写真を何枚も撮りました。
-Evidently, the man started a rumor about the asylum being haunted, to trick teenage girls into thinking it was a good spot for a ''test of courage''...=恐らく彼は、精神病院で幽霊が出るという噂を流し、肝試しに最適だと思わせることで、若い女性を集めていたのでしょう。
-He must be camping out in that asylum every night, waiting for girls to show up, so that he can corner them and take pictures of them. What a vile man.=彼は毎晩その精神病院に泊まり、女性が現れるのを待ち、彼女たちを追い詰めて写真を撮っているのでしょう。許せません。
-Eventually, I saw an opportunity to escape, so I grabbed my clothes and ran away. I got away safely, but...I haven't quite recovered from the experience.=結局、私は逃げる機会を伺い、服を掴んで脱走できました。無事に逃げ切れはしましたが...まだ、この体験から立ち直れていません。
-What?! Never! I have a reputation to maintain! I'm supposed to be a fearless, tough-as-nails, hardboiled detective! I can't let anyone know that some pervert with a camera got the better of me!=なっ！？ダメです！私は大胆不敵で、優秀で、ハードボイルドな探偵ということになってるんです！カメラを持った変態に騙されたなんて、誰にも知られたくありません！
-Ugh...I just want to go back to that asylum and burn all of that man's photographs to ashes! But...there are factors that are complicating the matter.=あの精神病院に行って、あの男の写真を全部燃やしたい。しかし...なかなかそうはいかないんです。
-A bunch of homeless people and drug addicts have begun occupying the asylum. If I couldn't even defend myself against one man, I doubt I would survive if I went back in there at this point...=ホームレスと麻薬中毒者の集団が、精神病院を占拠しているんです。一人の男からさえ身を護れなかった私が、このままあそこに戻っても生き残れるかどうか...
-...what?! Do you even realize what you're saying?! You would be putting your life in danger!=...え！？自分が何を言ってるのか分かってるんですか！？自分の命を危険にさらすことになりますよ！
-You...ugh. If you actually succeed in burning those photos...well, I can't possibly overstate how much that would mean to me. My career is riding on this, after all.=あなたが...もし写真を燃やすことに成功すれば...私の探偵としてのキャリアが守られることになります。
-...I...fine. But, just...be careful.=...わかりました。でも、気を付けてくださいね...
+...oh? What can I do for you?=...oh? O que posso fazer por você?
+...you don't need to make up an excuse. Just admit that you were snooping around in my bag. ...but, yes, I'm dealing with a problem that I can't handle on my own.=...não precisa inventar uma desculpa. Apenas admita que você estava bisbilhotando na minha bolsa. ...mas, sim, estou lidando com um problema que não consigo resolver sozinha.
+There's an abandoned insane asylum just outside of town. I heard a rumor that a man is luring girls inside, threatening them at knifepoint, and forcing them to strip for him.=Há um manicômio abandonado nos arredores da cidade. Ouvi um boato de que um homem está atraindo garotas para lá, ameaçando-as com uma faca e forçando-as a se despirem para ele.
+I decided to purchase some pepper spray for my own protection and investigate the rumor myself.=Decidi comprar spray de pimenta para minha própria proteção e investigar o rumor eu mesma.
+I arrived at the asylum and began exploring. Just a few minutes into my investigation, he appeared. I took out the pepper spray, but he knocked it out of my hands before I could use it.=Cheguei ao asilo e comecei a explorar. Apenas alguns minutos após começar minha investigação, ele apareceu. Eu tirei o spray de pimenta, mas ele o derrubou das minhas mãos antes que eu pudesse usá-lo.
+He trapped me inside a room with him, and...exactly as he had done with all of his other victims...he demanded that I strip for him.=Ele me prendeu em uma sala com ele e... exatamente como havia feito com todas as suas outras vítimas... exigiu que eu me despisse para ele.
+I was...terrified. I didn't want to die, so...I just...did what he told me to do. He didn't touch me, but...he did take some...compromising pictures of me.=Eu estava... apavorada. Eu não queria morrer, então... eu apenas... fiz o que ele me disse para fazer. Ele não me tocou, mas tirou algumas fotos... comprometedoras de mim.
+Evidently, the man started a rumor about the asylum being haunted, to trick teenage girls into thinking it was a good spot for a ''test of courage''...=Provavelmente, ele espalhou um boato sobre o asilo ser assombrado, para enganar garotas adolescentes achando que era um bom lugar para um ''teste de coragem''...
+He must be camping out in that asylum every night, waiting for girls to show up, so that he can corner them and take pictures of them. What a vile man.=Ele deve estar acampando naquele asilo toda noite, esperando as garotas aparecerem, para que possa encurralá-las e tirar fotos delas. Que homem vil.
+Eventually, I saw an opportunity to escape, so I grabbed my clothes and ran away. I got away safely, but...I haven't quite recovered from the experience.=Eventualmente, eu vi uma oportunidade de escapar, então peguei minhas roupas e corri. Consegui escapar, mas...ainda não me recuperei da experiência.
+What?! Never! I have a reputation to maintain! I'm supposed to be a fearless, tough-as-nails, hardboiled detective! I can't let anyone know that some pervert with a camera got the better of me!=O quê?! Nunca! Eu tenho uma reputação a manter! Eu sou suposto ser uma detetive destemida, dura como aço! Não posso deixar ninguém saber que um pervertido com uma câmera me venceu!
+Ugh...I just want to go back to that asylum and burn all of that man's photographs to ashes! But...there are factors that are complicating the matter.=Ugh...eu só quero voltar àquele asilo e queimar todas as fotos daquele homem até as cinzas! Mas...há fatores que estão complicando a situação.
+A bunch of homeless people and drug addicts have begun occupying the asylum. If I couldn't even defend myself against one man, I doubt I would survive if I went back in there at this point...=Um monte de pessoas sem-teto e viciados começaram a ocupar o asilo. Se eu não consegui me defender nem de um homem, duvido que sobreviveria se voltasse lá agora...
+...what?! Do you even realize what you're saying?! You would be putting your life in danger!=...o quê?! Você percebe o que está dizendo?! Você estaria colocando sua vida em perigo!
+You...ugh. If you actually succeed in burning those photos...well, I can't possibly overstate how much that would mean to me. My career is riding on this, after all.=Você...ugh. Se você realmente conseguir queimar aquelas fotos...bem, não consigo expressar o quanto isso significaria para mim. Minha carreira depende disso, afinal.
+...I...fine. But, just...be careful.=...eu...tá bom. Mas, por favor...tenha cuidado...
 
 1980年代
-r:"^BAGS TO BURN: (\d+)$"=カバンを燃やせ 残り: $1
-EXIT THE BUILDING FROM THE WINDOW YOU CAME IN FROM!=入ってきた窓から脱出！
-Pebbles=小石
-r:"^PEBBLES: (\d+)$"=小石: $1
-LT + RT=LT + RT
-LMB+RMB=右+左クリック
+r:"^BAGS TO BURN: (\d+)$"=BOLSAS PARA QUEIMAR: $1  
+EXIT THE BUILDING FROM THE WINDOW YOU CAME IN FROM!=SAIA DO PRÉDIO PELA JANELA POR ONDE ENTROU!  
+Pebbles=Pedrinhas  
+r:"^PEBBLES: (\d+)$"=PEDRINHAS: $1  
+LT + RT=LT + RT  
+LMB+RMB=LMB+RMB
 
-...itchy...=...かゆい...
-...tasty...=...うまい...
-...walls...=...壁が...
-...closing in...=...迫ってくる...
-...demons...=...悪魔...
-...I've been a...good boy...mommy...=…いいこに…してたよ…ママ…
-...two number nines...number nine large...number six...extra dip...number seven...two number forty-fives...one with cheese...and a large soda...=…9番を2つ…9番のラージサイズ…6番に…ディップソースを追加…7番…45番を2つ…1つはチーズを追加…ソーダのラージサイズ…
-...wh-why are the...a-angels...c-crying...=ど、どうして...天使が...泣いてるんだ...
-...glass...in my...brain...!...=ガラスが...俺の...頭の中に...！
-...t-talkin' 'bout...dang ol'...drones, man...=チッ…あんの…老いぼれの…居候がよ…
-...angels...another...every week...=...違う...天使が...毎週...
-...f-flashing...it's, it's...it's aliens, I tell ya...=光った…あ…あれは…エイリアンだ…言ったろ…
-...I see you...angel...?...I see you...here...=...見えるぞ...天使...？...ここに...いるんだろ...
-...it's a, it's a beautiful day in the neighborhood...=きょ...きょうはいい日だな...
-...could sell...organ...don't need anyway...=...売るよ...臓器...必要ない...
-...my...my skin's...singing...=...お...俺の肌が...歌ってる...
-...and when they...built this place...bricks...cells...it's an organism...gets to ya...=...それで...あいつらが...レンガの...ブロックを...繋げて...ここを作った...
-...e-ever wonder...don't see...baby pigeons...?...=…ハトのヒナ…見ない…なぜ…？
-...why is it...bleeding...?!...=どうして...血が出てるんだ...！？
-...where...wh-where are my eyes...?!...oh...oh, th-there they are...=お、俺の目はどこいった...！？...ああ、そ、そこにあったか...
-...I...smell...burnt...toast...=...焦げた...パンの...におい...
-...c-couldve...could've been an...engineer...=…俺…エンジニア…だったのかも…
-...pull out my hair...m-make...t-trading cards...=…髪を抜いて…カ、カードに…する…
-...c-can...t-taste...the air...=…みんなと…同じに…なれた…
-...b-berries...and...c-cream...!...=ベ、ベリーと....クリーム...！
-...b-blood's on fire...!...burns...!...c-cold...=ち、血が...！...燃えてる...！...寒い...
-...I'm...I'm made of...leather...=お、俺の体が...革で...できてる...
-...bones...t-twisting...!...p-put 'em...back...!...=骨が...曲がってる...戻れ...！
-...p-piercing...aching...itching...=…しみる…痛い…かゆい…
-...eyes...watching...always...th-the c-corners...watching me...!...=...監視されてる...そこの角から...見られてる...！
-...s-screaming...in the...walls...!...=か、壁が...叫んでる...！
-...it needs my...t-teeth...g-gotta...ration...=…歯が…必要なんだ…あげるんだ…
-...f-flouride...in...the water...!...=水に溶けた...フッ素...！
-...d-daddy...?...wh-where are you...?...=パパ...？...どこにいるの...？
-...who are you?! Are you a demon?! YOU WON'T KILL ME, DEMON!=...お前誰だ？！悪魔か？！やられるもんか、この悪魔め！
+...itchy...=...coçando...  
+...tasty...=...gostoso...  
+...walls...=...paredes...  
+...closing in...=...se aproximando...  
+...demons...=...demônios...  
+...I've been a...good boy...mommy...=...tenho sido um...bom menino...mamãe...  
+...two number nines...number nine large...number six...extra dip...number seven...two number forty-fives...one with cheese...and a large soda...=...dois número nove...número nove grande...número seis...com molho extra...número sete...dois número quarenta e cinco...um com queijo...e um refrigerante grande...  
+...wh-why are the...a-angels...c-crying...=...p-por que os...an-géis...estão chorando...?  
+...glass...in my...brain...!...=...vidro...na minha...cabeça...!  
+...t-talkin' 'bout...dang ol'...drones, man...=...t-tá falando sobre...aqueles...drones, cara...  
+...angels...another...every week...=...anjos...outro...toda semana...  
+...f-flashing...it's, it's...it's aliens, I tell ya...=...pisca...é, é...são aliens, eu te digo...  
+...I see you...angel...?...I see you...here...=...eu vejo você...anjo...? ...eu vejo você...aqui...  
+...it's a, it's a beautiful day in the neighborhood...=...é um, é um lindo dia na vizinhança...  
+...could sell...organ...don't need anyway...=...poderia vender...órgão...não preciso mesmo...  
+...my...my skin's...singing...=...minha...minha pele está...cantando...  
+...and when they...built this place...bricks...cells...it's an organism...gets to ya...=...e quando eles...construíram este lugar...tijolos...células...é um organismo...te afeta...  
+...e-ever wonder...don't see...baby pigeons...?...=...já se perguntou...não vê...filhotes de pombo...?  
+...why is it...bleeding...?!...=...por que está...sangrando...?!...  
+...where...wh-where are my eyes...?!...oh...oh, th-there they are...=...onde...o-o onde estão meus olhos...?!...ah...ah, aq-aqui estão eles...  
+...I...smell...burnt...toast...=...eu...sinto cheiro de...pão queimado...  
+...c-couldve...could've been an...engineer...=...p-poderia ter sido um...engenheiro...  
+...pull out my hair...m-make...t-trading cards...=...arrancar meu cabelo...f-fazer...cartões de troca...  
+...c-can...t-taste...the air...=...c-consigo...sentir o gosto...do ar...  
+...b-berries...and...c-cream...!...=...m-morangos...e...creme...!  
+...b-blood's on fire...!...burns...!...c-cold...=...o-sangue está pegando fogo...!...queima...!...frio...  
+...I'm...I'm made of...leather...=...eu...sou feito de...couro...  
+...bones...t-twisting...!...p-put 'em...back...!...=...ossos...t-torcendo...!...coloque-os...de volta...!...  
+...p-piercing...aching...itching...=...p-perfurante...doendo...coçando...  
+...eyes...watching...always...th-the c-corners...watching me...!...=...olhos...observando...sempre...a-aos cantos...me observando...!...  
+...s-screaming...in the...walls...!...=...gritos...nas...paredes...!...  
+...it needs my...t-teeth...g-gotta...ration...=...precisa dos meus...d-dentes...tenho que...racionar...  
+...f-flouride...in...the water...!...=...flúor...na...água...!...  
+...d-daddy...?...wh-where are you...?...=...papai...? ...onde você está...?  
+...who are you?! Are you a demon?! YOU WON'T KILL ME, DEMON!=...quem é você?! É um demônio?! VOCÊ NÃO VAI ME MATAR, DEMÔNIO!
 
-...heh heh heh...who'd a known it'd be so easy...=へっへっへ...なんて楽な商売だ...
-...just start a rumor, and they flock straight to ya...=...噂を流せばカモがやってくる...
-...stupid girls...so gullible...=...バカな女...チョロいもんだぜ...
-...when I finally sell these photos, I'm gonna be so rich...=...この写真を売れば、大儲けだ...
-...c'mon...when's the next one gonna show up...I'm tired of waiting...=...ああ...早く次のカモが来ないものか...待ちくたびれる...
-HUH?!=はあ！？
-What the hell?! How did this happen?!=...何が起こった？！
-Somethin' like this doesn't just happen on its own...=自然に発火するわけがねえ...
-Somebody did this while I wasn't lookin'!=目を離した隙に誰かが火をつけやがったんだな！
-And they're probably still around here somewhere...=まだ犯人は近くにいるはず...
-Where are ya?! Come out so I can kick yer ass!=どこだ！？出てこい！ぶっ飛ばしてやる！
-Freeze! Take off your clothes, or I'll kill you!=動くな！服を脱げ、さもなくば殺す！
-YOU did this! I'LL KILL YOU!=やりやがったな！殺してやる！
-
-Eliminate=排除
-Before Ryoba burned the pictures, she grabbed one photograph to keep with her as proof that she was in the asylum.\n\nRyoba returns home, calls her rival, and informs her that the pictures have been destroyed. She also invites the girl over to her house to see the proof.\n\nRyoba's rival arrives at Ryoba's home. When she sees the photograph, she knows that Ryoba is telling the truth. Ryoba lets the girl burn the photo so that she can put this dark chapter of her life behind her.\n\nThen, Ryoba offers her rival some tea...=Ryobaは写真を燃やす前に、精神病院に行った証拠として写真を一枚くすねてきた。\n\nRyobaは家に帰り、恋敵を呼び、写真は処分したと伝えた。そして証拠を見せるためにとその子を家に招いた。\n\n恋敵がRyobaの家にやってきた。写真を見て、恋敵はRyobaの言っていることが本当だと分かった。Ryobaは恋敵に写真を渡し、一連の恐怖体験にケリを付けさせた。\n\nそして、Ryobaはお茶を運んできた...
-Over a cup of tea, Ryoba describes the deep feelings she has for her Senpai, and explains how heartbroken she would feel if anyone took the boy away from her. She asks the girl to stay away from her Senpai.\n\nRyoba's rival cannot bring herself to compete romantically with someone who entered a life-threatening situation to help her out. She agrees to stay away from Ryoba's Senpai.\n\nRyoba's rival is no longer a threat, and the two girls are now the best of friends!=お茶を飲みながら、Ryobaはセンパイへの深い想いを語り、センパイを奪われたらどれほど辛いかを説明し、恋敵にセンパイから手を引くよう頼んだ。\n\n恋敵は自分を助けるために命をかけた人の恋路を邪魔する気にはなれなかった。恋敵はRyobaからセンパイを奪わないと約束した。\n\n恋敵はもう脅威ではなく、親友になった！
-After the massive favor that Ryoba did for Sonoko, she can no longer consider Ryoba to be a murder suspect.\n\nOver a cup of tea, Ryoba describes the deep feelings she has for her Senpai, and explains how heartbroken she would feel if anyone took the boy away from her. She asks Sonoko to stay away from her Senpai.\n\nSonoko states that she must continue to investigate Senpai as a potential murder suspect, but will not attempt to date him.\n\nSonoko is no longer a threat, and the two girls are now the best of friends!=RyobaはSonokoに大きな恩を売ることに成功し、SonokoはRyobaが殺人犯だと考えることは無くなった。\n\nお茶を飲みながら、Ryobaはセンパイへの深い想いを語り、センパイを奪われたらどれほど辛いかを説明し、Sonokoにセンパイから手を引くよう頼んだ。\n\nSonokoは殺人の容疑者としてセンパイの捜査は続けるが、告白するのはやめると言った。\n\nSonokoはもう脅威ではなく、親友になった！
-Ryoba's rival drinks the drugged tea and passes out. When she wakes up...=恋敵は睡眠薬入りのお茶を飲んだ。目が覚めるころには...
+...heh heh heh...who'd a known it'd be so easy...=...heh heh heh...quem diria que seria tão fácil...  
+...just start a rumor, and they flock straight to ya...=...é só espalhar um boato, e eles vêm correndo até você...  
+...stupid girls...so gullible...=...meninas estúpidas...tão ingênuas...  
+...when I finally sell these photos, I'm gonna be so rich...=...quando eu finalmente vender essas fotos, vou ficar tão rico...  
+...c'mon...when's the next one gonna show up...I'm tired of waiting...=...vamos lá...quando a próxima vai aparecer...estou cansado de esperar...  
+HUH?!=...O QUÊ!?  
+What the hell?! How did this happen?!=...Que diabos?! Como isso aconteceu?!  
+Somethin' like this doesn't just happen on its own...=...algo assim não acontece sozinho...  
+Somebody did this while I wasn't lookin'!=...Alguém fez isso enquanto eu não estava olhando!  
+And they're probably still around here somewhere...=...E eles provavelmente ainda estão por aqui em algum lugar...  
+Where are ya?! Come out so I can kick yer ass!=...Onde você está?! Saia para eu te dar uma surra!  
+Freeze! Take off your clothes, or I'll kill you!=...Parada! Tire suas roupas, ou eu vou te matar!  
+YOU did this! I'LL KILL YOU!=...Você fez isso! EU VOU TE MATAR!
 
 
-
+Eliminate=排除  
+Before Ryoba burned the pictures, she grabbed one photograph to keep with her as proof that she was in the asylum.\n\nRyoba returns home, calls her rival, and informs her that the pictures have been destroyed. She also invites the girl over to her house to see the proof.\n\nRyoba's rival arrives at Ryoba's home. When she sees the photograph, she knows that Ryoba is telling the truth. Ryoba lets the girl burn the photo so that she can put this dark chapter of her life behind her.\n\nThen, Ryoba offers her rival some tea...=Antes de Ryoba queimar as fotos, ela pegou uma fotografia para manter como prova de que estava no asilo.\n\nRyoba volta para casa, liga para sua rival e informa que as fotos foram destruídas. Ela também convida a garota para sua casa para ver a prova.\n\nA rival de Ryoba chega à casa dela. Quando vê a fotografia, sabe que Ryoba está dizendo a verdade. Ryoba deixa a garota queimar a foto para que ela possa deixar este capítulo obscuro de sua vida para trás.\n\nEntão, Ryoba oferece um pouco de chá à sua rival...  
+Over a cup of tea, Ryoba describes the deep feelings she has for her Senpai, and explains how heartbroken she would feel if anyone took the boy away from her. She asks the girl to stay away from her Senpai.\n\nRyoba's rival cannot bring herself to compete romantically with someone who entered a life-threatening situation to help her out. She agrees to stay away from Ryoba's Senpai.\n\nRyoba's rival is no longer a threat, and the two girls are now the best of friends!=Enquanto toma um chá, Ryoba descreve os sentimentos profundos que tem por seu Senpai e explica como ficaria de coração partido se alguém o tirasse dela. Ela pede à garota que se afaste de seu Senpai.\n\nA rival de Ryoba não consegue se sentir à vontade para competir romanticamente com alguém que entrou em uma situação de vida ou morte para ajudá-la. Ela concorda em ficar longe do Senpai de Ryoba.\n\nA rival de Ryoba não é mais uma ameaça, e as duas garotas agora são as melhores amigas!  
+After the massive favor that Ryoba did for Sonoko, she can no longer consider Ryoba to be a murder suspect.\n\nOver a cup of tea, Ryoba describes the deep feelings she has for her Senpai, and explains how heartbroken she would feel if anyone took the boy away from her. She asks Sonoko to stay away from her Senpai.\n\nSonoko states that she must continue to investigate Senpai as a potential murder suspect, but will not attempt to date him.\n\nSonoko is no longer a threat, and the two girls are now the best of friends!=Após o grande favor que Ryoba fez por Sonoko, ela não pode mais considerar Ryoba como uma suspeita de assassinato.\n\nEnquanto toma um chá, Ryoba descreve os sentimentos profundos que tem por seu Senpai e explica como ficaria de coração partido se alguém o tirasse dela. Ela pede a Sonoko que se afaste de seu Senpai.\n\nSonoko afirma que deve continuar investigando Senpai como um potencial suspeito de assassinato, mas não tentará namorá-lo.\n\nSonoko não é mais uma ameaça, e as duas garotas agora são as melhores amigas!  
+Ryoba's rival drinks the drugged tea and passes out. When she wakes up...=A rival de Ryoba bebe o chá com droga e desmaia. Quando ela acorda...
 
 
 
 
-Yandere-chan waits until the clock strikes midnight.\n\nShe renders Musume-chan unconscious and puts her body into a large musical instrument case. \n\nUnder the cover of darkness, she travels to the Ronshaku Loans building and leaves the instrument case outside of the entrance.\n\nYandere-chan returns home, sleeps, and waits for Kokona-chan to arrive...=ヤンデレちゃんは深夜0時になるまで待っていた。\n\nMusumeを気絶させ、楽器ケースに入れていた。\n\n暗闇の中、Ronshakuローン事務所に行き、玄関前に楽器ケースを置いて行った。\n\nヤンデレちゃんは帰宅し、就寝し、Kokonaちゃんが来るのを待っていた...
+
+
+
+Yandere-chan waits until the clock strikes midnight.\n\nShe renders Musume-chan unconscious and puts her body into a large musical instrument case. \n\nUnder the cover of darkness, she travels to the Ronshaku Loans building and leaves the instrument case outside of the entrance.\n\nYandere-chan returns home, sleeps, and waits for Kokona-chan to arrive...=Yandere-chan espera até que o relógio marque meia-noite.\n\nEla deixa Musume-chan inconsciente e coloca seu corpo em um grande estojo de instrumento musical.\n\nSob a cobertura da escuridão, ela viaja até o edifício da Ronshaku Loans e deixa o estojo de instrumento na entrada.\n\nYandere-chan volta para casa, dorme e espera a chegada de Kokona-chan...
 
 
 
@@ -12035,204 +11972,205 @@ Yandere-chan waits until the clock strikes midnight.\n\nShe renders Musume-chan 
 
 コピペ元出力
 ヘアサロンイベント
-Oh, my.=...あら。
-We have the same...''hobby.''=私たちって...「趣味」も同じ。
-The same...=更には同じ...
-..."talents."=...「才能」がある。
-It's nice to meet a...kindred spirit.=同志に会えて嬉しいわ。
-You know what we should do?=二人で何をすべきか分かる？
-We should swap tips!=そう、ヒントを共有するのよ！
+Oh, my.=Oh, meu.
+We have the same...''hobby.''=nós temos o mesmo... ''hobby.''
+The same...=o mesmo...
+..."talents."=...''talento.''
+It's nice to meet a...kindred spirit.=É bom conhecer um...espírito afim.
+You know what we should do?=Você sabe o que deveríamos fazer?
+We should swap tips!=Deveríamos trocar dicas!
 
-...Oh.=...あら。
-I see.=なるほどね。
-You and I...=私とあなたって...
-...we're alike.=...似たもの同士ね。
-We have the same...=私たちって...
-...hobby.=...「趣味」も同じ。
-The same talents.=才能も一緒。
-It's nice to meet a kindred spirit.=同志に会えて嬉しいわ。
-We should swap tips.=ヒントを共有しましょう。
-I've been at this for a while.=私の方が先輩みたいだから...
-I'm sure my advice could be of use to you.=...きっと私のアドバイスが役に立つわ。
+...Oh.=...ah.
+I see.=Entendi.
+You and I...=Você e eu...
+...we're alike.=...somos parecidos.
+We have the same...=Nós temos o mesmo...
+...hobby.=...''hobby.''
+The same talents.=Os mesmos talentos.
+It's nice to meet a kindred spirit.=É bom conhecer um espírito afim.
+We should swap tips.=Deveríamos trocar dicas.
+I've been at this for a while.=Eu já estou nisso há um tempo...
+I'm sure my advice could be of use to you.=...tenho certeza de que meu conselho pode ser útil para você.
+
 第２週
-After eliminating that girl, I thought that my Senpai would be safe...=あの女を排除したし、センパイもしばらくは安全だろう...そう思っていた...
-After eliminating that girl, I thought my Senpai would be safe...=あの女を排除したし、センパイもしばらくは安全だろう...そう思っていた...
-...but now, I have a new problem to deal with.=でも、また新たな問題が浮上した。
-Another girl is showing interest in him.=別の女があの人に興味を持ち始めた。
-A cute tomboy with a gung-ho attitude.=頑張り屋さんのかわいいおてんば娘。
-Boys like that sort of girl, don't they?=男の人ってそういう子が好きなんでしょ？
-If he keeps spending time around her...=もしあの人があの女のそばにいれば...
-...she might steal his heart.=あの人を奪われるかもしれない。
-I can't let that happen.=それは絶対に許さない。
-Now that I'm thinking about it, I heard a nasty rumor about her.=そういえば、あの女には妙な噂があったわね。
-Apparently, she has a... "secret hobby."=確か...「秘密の趣味」があるとか。
-Something dangerous. Something she could get in big trouble for.=それもとっても危険で、大きなトラブルになりかねないような。
-It might be worth it to follow her around school and learn what she's hiding.=学校であの女を尾行して、何を隠してるのか知るのもいいかもね。
-Perhaps I can find a way to make her bad habits backfire on her.=もしあの人があの女のそばにいれば...
-You know what they say...=そういえば、英語にはこんなことわざがあったわね...
-...you play with fire, and you get burned.=...「火遊びをすれば火傷する」って。
+After eliminating that girl, I thought that my Senpai would be safe...=Depois de eliminar aquela garota, pensei que meu Senpai estaria seguro...
+After eliminating that girl, I thought my Senpai would be safe...=Depois de eliminar aquela garota, pensei que meu Senpai estaria seguro...
+...but now, I have a new problem to deal with.=...mas agora, eu tenho um novo problema para resolver.
+Another girl is showing interest in him.=Outra garota está demonstrando interesse nele.
+A cute tomboy with a gung-ho attitude.=Uma garota bonitinha e destemida.
+Boys like that sort of girl, don't they?=Os meninos gostam desse tipo de garota, não gostam?
+If he keeps spending time around her...=Se ele continuar passando tempo com ela...
+...she might steal his heart.=...ela pode roubar o coração dele.
+I can't let that happen.=Eu não posso deixar isso acontecer.
+Now that I'm thinking about it, I heard a nasty rumor about her.=Agora que estou pensando nisso, ouvi um rumor desagradável sobre ela.
+Apparently, she has a... "secret hobby."=Aparentemente, ela tem um... "hobby secreto."
+Something dangerous. Something she could get in big trouble for.=Algo perigoso. Algo que poderia lhe causar grandes problemas.
+It might be worth it to follow her around school and learn what she's hiding.=Pode ser interessante seguir ela pela escola e descobrir o que ela está escondendo.
+Perhaps I can find a way to make her bad habits backfire on her.=Talvez eu possa encontrar uma maneira de fazer os hábitos ruins dela se voltarem contra ela.
+You know what they say...=Você sabe o que dizem...
+...you play with fire, and you get burned.=... "quem brinca com fogo se queima."
 第３週
-...my sweet, wonderful Senpai...=...私のセンパイは優しくて素敵ね...
-...is too popular for his own good.=...だからとっても人気。
-Yet another girl has been getting a little too close to him lately.=また新たな女があの人に近づき始めた。
-She's a shy, timid little bookworm.=その女は内気で臆病で本が大好き。
-When a guy sees that type of girl...=男の人ってこういう女を見たら...
-...he just wants to scoop her up in his arms and protect her, right?=...抱きかかえて守ってあげたいって思うんでしょ？
-...it makes me sick.=ああ、ムカつくわ。
-I need to get rid of her as soon as possible...=今すぐにでもあの女を消さなければ...
-...but if her death is an obvious murder, it might complicate things.=でも、もしあの女の死が他殺だとバレたらきっと面倒なことになるわ。
-If I do decide to kill her... perhaps I should make it look like an accident.=もし殺すのなら...事故に見せかけるべきね。
-The only thing I know about this girl is that she loves books.=あの女のことは本好きだってことくらいしか知らないけど...
-It sure would be a shame if the one thing she loves the most...=もし、彼女が大好きな本のせいで死んだとしたら...
-...is what leads to her tragic, untimely demise.=とっても残念ね。
-Before she can crush my dreams...=あの女が私の夢を潰す前に...
-...I need to crush HER.=私があの女を潰さなきゃ。
+...my sweet, wonderful Senpai...=...meu doce e maravilhoso Senpai...
+...is too popular for his own good.=...é popular demais para o seu próprio bem.
+Yet another girl has been getting a little too close to him lately.=Mais uma garota tem se aproximado demais dele ultimamente.
+She's a shy, timid little bookworm.=Ela é uma pequena ratinha de biblioteca tímida e medrosa.
+When a guy sees that type of girl...=Quando um cara vê esse tipo de garota...
+...he just wants to scoop her up in his arms and protect her, right?=...ele só quer pegá-la no colo e protegê-la, certo?
+...it makes me sick.=...isso me deixa doente.
+I need to get rid of her as soon as possible...=Eu preciso me livrar dela o mais rápido possível...
+...but if her death is an obvious murder, it might complicate things.=...mas se a morte dela for um assassinato óbvio, isso pode complicar as coisas.
+If I do decide to kill her... perhaps I should make it look like an accident.=Se eu decidir matá-la... talvez eu deva fazer parecer um acidente.
+The only thing I know about this girl is that she loves books.=A única coisa que eu sei sobre essa garota é que ela ama livros.
+It sure would be a shame if the one thing she loves the most...=Seria uma pena se a única coisa que ela mais ama...
+...is what leads to her tragic, untimely demise.=...fosse o que levasse à sua trágica e prematura morte.
+Before she can crush my dreams...=Antes que ela possa esmagar meus sonhos...
+...I need to crush HER.=...eu preciso esmagá-LA.
 第４週
-My Senpai is perfect in every way...=私のセンパイは何もかもが素敵...
-He's smart... talented... handsome...=賢くて、才能豊かで、ハンサムで...
-...so I suppose I shouldn't be surprised that another girl has fallen for him.=だから、また新たな女がセンパイに惚れるのもムリないわね。
-This one is an aspiring athlete.=今度の女はアスリート志望。
-Fit. Tan. Toned abs.=健康的で、日焼けしてて、引き締まった体。
-Boys go crazy for that type of girl, don't they?=男の人ってそういう子が好きなんでしょ？
-She worries me. I'll need to take her out quickly.=すぐにでも消さなければ。
-She seems to be encouraging my Senpai to adopt her lifestyle choices...=そういえば、あの女はセンパイにも自分の生活様式を取り入れるよう迫ってるらしいわね。
-Eat healthy. Exercise often. No smoking or drinking.=健康な食事。適度な運動。喫煙も飲酒も無し。
-Of course, all of these are respectable decisions...=もちろんどれもご立派なことだけれど...
-...but she's actually putting her health in grave danger...=あの女は自らの身を危険にさらしてるわ。
-...by getting between me and the man I love.=センパイと私の間に割り込んだのだから。
-I heard that she prepares a special meal in the Home Ec room every day.=あの女は毎日家庭科室で特別なお弁当を作っているらしい。
-A healthy, nutritious meal packed full of vitamins and minerals.=ビタミンやミネラルが豊富で栄養価の高い食事だ。
-I hope she chokes on it.=喉にでも詰まらせてしまったら面白いわね。
+My Senpai is perfect in every way...=Meu Senpai é perfeito em todos os aspectos...
+He's smart... talented... handsome...=Ele é inteligente... talentoso... bonito...
+...so I suppose I shouldn't be surprised that another girl has fallen for him.=...então eu suponho que não deveria me surpreender que outra garota tenha se apaixonado por ele.
+This one is an aspiring athlete.=Essa é uma atleta aspirante.
+Fit. Tan. Toned abs.=Em forma. Bronzeada. Barriga tonificada.
+Boys go crazy for that type of girl, don't they?=Os meninos enlouquecem por esse tipo de garota, não é?
+She worries me. I'll need to take her out quickly.=Ela me preocupa. Eu preciso me livrar dela rapidamente.
+She seems to be encouraging my Senpai to adopt her lifestyle choices...=Ela parece estar incentivando meu Senpai a adotar suas escolhas de estilo de vida...
+Eat healthy. Exercise often. No smoking or drinking.=Coma saudável. Exercite-se frequentemente. Sem fumar ou beber.
+Of course, all of these are respectable decisions...=Claro, todas essas são decisões respeitáveis...
+...but she's actually putting her health in grave danger...=...mas ela está colocando a saúde dela em grande perigo...
+...by getting between me and the man I love.=...por se intrometer entre mim e o homem que eu amo.
+I heard that she prepares a special meal in the Home Ec room every day.=Eu ouvi que ela prepara uma refeição especial na sala de Educação Doméstica todos os dias.
+A healthy, nutritious meal packed full of vitamins and minerals.=Uma refeição saudável e nutritiva cheia de vitaminas e minerais.
+I hope she chokes on it.=Espero que ela engasgue com isso.
 
 第５週
-Like an insect buzzing around a meal that was left unattended...=食べ残しに虫が群がるように...
-...another pest has begun to orbit around my Senpai.=また新たな虫がセンパイに近づき始めた。
-The latest girl comes from one of Japan's wealthiest families.=今度は日本有数の資産家のお嬢様。
-She looks down on anyone with less money than her...=あの女は貧しいか裕福かでしか人を評価できない...
-...which, of course, means that she looks down on nearly everyone.=...つまり、ほとんどの人間を見下してる。
-I can tell that she doesn't see my Senpai as an equal...=センパイも対等に見ていないのが良く分かる。
-...it would be more accurate to say that she wants to keep him as a "pet."=あの女はセンパイをペットとして飼いたいんだ。
-I'd like to say that my Senpai has enough sense to avoid getting involved with her...=センパイにはあの女を避けるくらいの分別があってほしかったけど...
-...but the promise of a cozy life in the lap of luxury might be too tempting for him.=贅沢な生活はあの人にとって魅力的なのかもしれない。
-Just to make sure that he doesn't make the wrong decision...=センパイが間違った選択をしないように...
-...I'll have to remove the option from his life altogether.=あの人の人生から間違った選択肢を除去しなくては。
-It looks like the only reason she enrolled in Akademi was for the prestige...=あの女は名声のためだけにAkademi校に入学したらしい。
-She has no intention of studying at all. She spends all day sunbathing at the pool.=あの女に勉強する気は更々なく、いつもプールでサボっているらしい。
-You know... every year... a lot of unfortunate accidents happen around pools...=ところで、プールでは不幸な事故が起こりがちよね、
-It would be such a shame if she fell asleep and drowned...=もしあの女が寝ている間に溺れてしまったらとっても残念ね。
+Like an insect buzzing around a meal that was left unattended...=Como um inseto zumbindo em torno de uma refeição que foi deixada de lado...
+...another pest has begun to orbit around my Senpai.=...mais uma praga começou a orbitar em torno do meu Senpai.
+The latest girl comes from one of Japan's wealthiest families.=A mais nova garota vem de uma das famílias mais ricas do Japão.
+She looks down on anyone with less money than her...=Ela menospreza qualquer um que tenha menos dinheiro do que ela...
+...which, of course, means that she looks down on nearly everyone.=...o que, claro, significa que ela menospreza quase todo mundo.
+I can tell that she doesn't see my Senpai as an equal...=Eu consigo perceber que ela não vê meu Senpai como um igual...
+...it would be more accurate to say that she wants to keep him as a "pet."=...seria mais preciso dizer que ela quer mantê-lo como um "animal de estimação."
+I'd like to say that my Senpai has enough sense to avoid getting involved with her...=Eu gostaria de dizer que meu Senpai tem juízo suficiente para evitar se envolver com ela...
+...but the promise of a cozy life in the lap of luxury might be too tempting for him.=...mas a promessa de uma vida confortável no colo do luxo pode ser tentadora demais para ele.
+Just to make sure that he doesn't make the wrong decision...=Só para garantir que ele não tome a decisão errada...
+...I'll have to remove the option from his life altogether.=...eu terei que remover essa opção da vida dele completamente.
+It looks like the only reason she enrolled in Akademi was for the prestige...=Parece que a única razão pela qual ela se inscreveu na Akademi foi pelo prestígio...
+She has no intention of studying at all. She spends all day sunbathing at the pool.=Ela não tem intenção de estudar. Passa o dia todo tomando sol na piscina.
+You know... every year... a lot of unfortunate accidents happen around pools...=Você sabe... todo ano... muitos acidentes infelizes acontecem ao redor das piscinas...
+It would be such a shame if she fell asleep and drowned...=Seria uma pena se ela adormecesse e se afogasse...
 第６週
-I can't take my eyes off my Senpai for even one moment...=私のセンパイからは一時も目を離せない。
-...because there's always a new girl trying to steal him from me.=なぜなら、いつでもセンパイを奪おうとする女が現れるから。
-This week, my rival is a girl who dreams of becoming a pop idol.=今週の敵は、ポップアイドルを目指す女の子だ。
-She spent so many years of her life learning how to sing and dance...=彼女は人生の多くを歌とダンスの勉強に費やしている。
-...what a shame that all her efforts will go to waste.=その努力がすべて無駄になると思うと気の毒ね。
-Bubbly, full of energy, always smiling...=陽気で、元気いっぱいで、いつも笑顔で...
-...guys can't resist that type of girl, can they?=男ってそういう子がたまらなく好きなんでしょう？
-I definitely can't ignore this one.=だから当然、あれを見過ごしてはだめね。
-I need to deal with her... and quickly.=彼女を処理しなければならない...迅速に。
-She set up a stage in the school gym where she rehearses her cute little songs.=彼女は体育館にステージを設け、とてもキュートな歌を練習している。
-Microphones... speakers... all those wires and cables...=マイク、スピーカー、ワイヤーやケーブル...
-...there's got to be an opportunity in there somewhere.=このどこかにチャンスがあるはず。
-She wants to captivate an audience, does she?=彼女は観客の心を掴みたがっているに違いないわ。
-Well, I should lend her a hand...=なら、手を貸してあげましょう...
-...and help her give a shocking performance.=彼女のショッキングな舞台のためにね。
+I can't take my eyes off my Senpai for even one moment...=Eu não posso tirar os olhos do meu Senpai nem por um momento...
+...because there's always a new girl trying to steal him from me.=...porque sempre há uma nova garota tentando roubá-lo de mim.
+This week, my rival is a girl who dreams of becoming a pop idol.=Esta semana, minha rival é uma garota que sonha em se tornar uma pop idol.
+She spent so many years of her life learning how to sing and dance...=Ela passou tantos anos da vida aprendendo a cantar e dançar...
+...what a shame that all her efforts will go to waste.=Que pena que todos os seus esforços vão acabar em vão.
+Bubbly, full of energy, always smiling...=Eufórica, cheia de energia, sempre sorrindo...
+...guys can't resist that type of girl, can they?=Os caras não conseguem resistir a esse tipo de garota, conseguem?
+I definitely can't ignore this one.=Eu definitivamente não posso ignorar essa.
+I need to deal with her... and quickly.=Eu preciso lidar com ela... e rápido.
+She set up a stage in the school gym where she rehearses her cute little songs.=Ela montou um palco na ginásio da escola onde ensaia suas músicas fofinhas.
+Microphones... speakers... all those wires and cables...=Microfones... alto-falantes... todos aqueles fios e cabos...
+...there's got to be an opportunity in there somewhere.=Deve haver uma oportunidade por aqui em algum lugar.
+She wants to captivate an audience, does she?=Ela quer cativar um público, não é?
+Well, I should lend her a hand...=Bem, eu deveria dar uma mãozinha a ela...
+...and help her give a shocking performance.=...e ajudar a dar uma apresentação chocante.
 第７週
-Many girls have competed for my Senpai's heart.=沢山の女子がセンパイのハートを狙っている。
-Most of them were mere pests rather than actual threats...=そのほとんどは取るに足らない子だけど...
-...but the latest one is different.=今度の女は違う。
-Akademi's top student. The brightest girl in school.=Akademiの首席。この学校で最も賢い女。
-Perfect scores on every test. Flawless grades in every subject.=テストはいつも満点。どの教科でも完璧な成績。
-The perfect combination of beauty and brains.=まさに才色兼備ってやつね。
-Any guy at school would be honored to have her attention.=彼女に好かれるのは、この学校の男子にとって名誉なこと。
-If she continues to spend time around my Senpai...=もし彼女がセンパイのそばで過ごすなら...
-...there is no doubt that she'll steal him from me.=間違いなく、私のセンパイは奪われる。
-...there is no doubt that she'll steal him away from me.=間違いなく、私のセンパイは奪われる。
-It feels like I've been seeing the police patrolling near Akademi more often lately.=最近、Akademiの周りで警察のパトロールをよくみかけるみたい。
-The unsolved murder from earlier this year is still a stain on their reputation.=今年の初めに起きた未解決事件が未だに警察の評判を落としているのでしょう。
-Any bloodshed at this point in time could attract unwanted attention...=今血が流れる事態があれば、厄介なことになるでしょうね。
-...perhaps I should keep my hands clean from now on.=ここからは、手は汚さないほうがいいかもしれない。
-Hmm... Akademi's top student...=うーん、Akademiの首席か...
-...it sure would be a shame if she was expelled from school, wouldn't it?=もし彼女が退学なんてことになったら、とっても恥ずかしいんじゃないかしら？
+Many girls have competed for my Senpai's heart.=Muitas garotas competiram pelo coração do meu Senpai.
+Most of them were mere pests rather than actual threats...=A maioria delas eram meras pragas, e não ameaças reais...
+...but the latest one is different.=...mas a mais nova é diferente.
+Akademi's top student. The brightest girl in school.=A melhor aluna da Akademi. A garota mais brilhante da escola.
+Perfect scores on every test. Flawless grades in every subject.=Notas perfeitas em todos os testes. Notas impecáveis em todas as disciplinas.
+The perfect combination of beauty and brains.=A combinação perfeita de beleza e inteligência.
+Any guy at school would be honored to have her attention.=Qualquer garoto da escola ficaria honrado em ter a atenção dela.
+If she continues to spend time around my Senpai...=Se ela continuar passando tempo com meu Senpai...
+...there is no doubt that she'll steal him from me.=...não há dúvida de que ela vai roubá-lo de mim.
+...there is no doubt that she'll steal him away from me.=...não há dúvida de que ela vai tirá-lo de mim.
+It feels like I've been seeing the police patrolling near Akademi more often lately.=Parece que tenho visto a polícia patrulhando perto da Akademi com mais frequência ultimamente.
+The unsolved murder from earlier this year is still a stain on their reputation.=O assassinato não resolvido do início deste ano ainda é uma mancha na reputação deles.
+Any bloodshed at this point in time could attract unwanted attention...=Qualquer derramamento de sangue neste momento pode atrair atenção indesejada...
+...perhaps I should keep my hands clean from now on.=...talvez eu deva manter as mãos limpas a partir de agora.
+Hmm... Akademi's top student...=Hmm... a melhor aluna da Akademi...
+...it sure would be a shame if she was expelled from school, wouldn't it?=Seria uma pena se ela fosse expulsa da escola, não seria?
 第８週
-Yamato nadeshiko.=大和撫子。
-It's a phrase that refers to the traditional Japanese concept of the "ideal woman."=日本の伝統的な、「理想の女性」を表す言葉。
-A woman who is pure and feminine.=純粋で、女性的で、
-Gentle, graceful, humble, patient, faithful...=優しく、お淑やかで、謙虚で、我慢強く、忠実で、
-Meek. Quiet. Timid.=おとなしく、静かで、小心で、
-Keep the house clean. Bear lots of children. Respect your husband no matter what.=家を清潔に保ち、沢山の子を産み、どんなときも夫を尊重する。
-Know your place.=立場をわきまえている。
-Yamato nadeshiko.=大和撫子。
-It's often said that this type of woman is going extinct...=そのような女性はもういなくなりかけている。
-...that it's rare to find a woman who embodies those traits in this day and age.=今の時代、その特徴を持つ女性はまず見つけられないと言われている。
-But, there's one girl at Akademi who fits that description perfectly.=けれど、Akademiには一人、完璧に条件を満たす女がいる。
-The most popular girl in school. Every boy wants her. Every girl wants to be her.=学校で最も人気があり、男子はみんな彼女を欲しがり、女子はみんな彼女のようになりたがる。
-Even my Senpai has fallen under her spell.=私のセンパイまでも彼女に魅せられている。
-Well, it's time to break the spell that this witch has cast over the school.=あの魔女がかけた魔法を破ってやらないと。
-I'd like to stain her perfect reputation... and turn her adoring fans into her enemies.=彼女の評判に傷をつければ、彼女を崇拝する人たちは彼女の敵へと変わるでしょう。
-第9週
-Sometimes, when I'm following my Senpai home from school...=私のセンパイを家まで見送るときに、
-...I notice that he likes to buy certain magazines from convenience stores.=センパイがある雑誌をコンビニで買っていくことがある。
-Magazines featuring... "gravure idols."=「グラビアアイドル」を特集している雑誌だ。
-Attractive young women who strike provocative poses in revealing outfits.=扇情的な服を着て、挑発的なポーズをとる、魅力的な女性。
-He's a big fan of one girl in particular.=センパイは、あるグラビアアイドルの大ファンだ。
-Since her debut, he's bought every magazine with even a single photo of her.=彼女のデビューから、センパイは彼女が少しでも載っている雑誌はすべて買っている。
-And...=そして...
-...she just transferred into Akademi.=彼女がAkademiに編入してきた。
-Most of the school's male population are already completely infatuated with her...=学校のほとんどの男子はもう彼女の虜だ。
-They follow her around school like a pack of pathethic, lovesick puppy dogs...=まるで恋に煩う、哀れな子犬のように彼女を学校中追いかける。
-...and my Senpai is among them.=私のセンパイもその一人だ。
-As much as I'd love to carve a hole in her heart...=ぜひとも彼女の心臓に穴を開けてやりたいけれど、
-...it might be difficult with so many witnesses surrounding her at all times.=いつも周りに大勢の男子がいるから難しそう。
-Perhaps the best way to deal with her is to set her up with another boy...=他の男子とくっつけてしまうのが一番いいかもしれないわね。
-...after all, it's not like it's going to be difficult to find a volunteer.=まあ、協力してくれる子を探すのには苦労しなさそうだしね。
-第10週
-...I've been trying to avoid acknowledging him, but...=これまで無視を決め込んできたけど...
-...at this point in time, that's just not possible anymore.=たった今、無視できない存在に変わった。
-The man in the trenchcoat. The... investigative journalist.=コートに身を包んだ男...「ジャーナリストさん」。
-He finally made his move.=彼はついに動きを見せた。
-For months now, he's been obsessed with investigating Akademi...=2ヶ月前から、彼はAkademiを調査しているが、
-...but the headmaster has always refused him entry into the school.=校長は学校の敷地内には決して立ち入らせなかった。
-Up until now, that was enough to stop him. But, recently...=これまでは、それが足止めになっていた。でも最近...
-...he found a loophole.=抜け穴を見つけたようだ。
-Apparently, he's had an "apprentice" for a while now. She's a junior detective...=どうやら、少し前に弟子を雇ったようだ。彼女は少年探偵をしていて、
-...and a former student of Akademi.=Akademiの元生徒でもある。
-Back when she was attending school here, she did something extraordinary...=彼女がAkademiに居た頃、ある快挙を成し遂げた。
-...she solved a high-profile murder mystery that the police were struggling with.=警察も苦労していた、当時話題の未解決事件の謎を解き明かしたのだ。
-That accomplishment turned her into a national celebrity almost overnight.=その功績により、彼女は一夜にして国中の有名人になった。
-There was nothing more for her to gain from remaining enrolled in Akademi, so...=Akademiでやりたいこともなくなった彼女は、
-...she left without graduating, and quickly began a career as a junior detective.=Akademiをやめ、すぐに少年探偵として活動し始めた。
-And now, one year later... she's back.=その1年後の今、彼女は戻ってきた。
-She claims that she's here to finish her degree...=学位を取るためだと彼女は言うが、
-...but I can tell that there's more to the story than that.=それ以上の理由があるに決まってる。
-Her mentor - that journalist - is firmly determined to investigate Akademi...=彼女の師匠の「ジャーナリストさん」はAkademiの調査に固執している。
-...clearly, he must have asked his apprentice to return here to be his eyes and ears.=彼女を情報源とするためにAkademiに戻るよう頼んだに違いない。
-The two of them have been interviewing students, and they've learned something:=2人はこれまで生徒に聞き込みをおこない、あることに気付いた。
-Things tend to happen to girls who have a crush on a certain boy at school...=事件が起こるのは決まって女子生徒で、その子たちはみんなある男子生徒に片思いしている...
-...my Senpai.=私のセンパイのことだ。
-He's become a "person of interest" to them...=センパイは今や「重要参考人」だ。
-...and now, that junior detective girl is investigating him.=そして、あの女がセンパイの調査をはじめた。
-Following him everywhere... talking to him all the time...=センパイにどこまでもつきまとい、ずっとセンパイと話をしている。
-...and lately, she's been getting a bit too friendly with him.=近頃は、センパイと仲良くなりすぎだ。
-...it's enough to make my blood boil.=ものすごく腹立たしい。
-But, as much as I would love to sink a knife into her heart...=すぐにでも奴の心臓を串刺しにしてやりたいけど...
-...a violent approach might be a bad decision this time around.=この状況でやるべきことではないわね。
-She's convinced a bunch of students to patrol the hallways with cameras...=彼女は何人かの生徒に声をかけ、カメラを持って廊下をパトロールさせている。
-...right now, the slightest mistake could cost me everything.=ほんの少しのミスでこれまでの努力が水の泡になるでしょう。
-This girl... she's probably the most dangerous enemy I've faced so far...=彼女はこれまでで最も厄介な敵だ...
-...but... if I could somehow manage to befriend her and put her in debt to me... =でも、もし彼女に大きな恩を売って、親友だと認めさせられれば...
-...she could be a powerful ally.=頼もしい仲間になるでしょうね。
+Yamato nadeshiko.=Yamato nadeshiko.
+It's a phrase that refers to the traditional Japanese concept of the "ideal woman."=É uma expressão que se refere ao conceito tradicional japonês da "mulher ideal."
+A woman who is pure and feminine.=Uma mulher que é pura e feminina.
+Gentle, graceful, humble, patient, faithful...=Gentil, graciosa, humilde, paciente, fiel...
+Meek. Quiet. Timid.=Mansa. Silenciosa. Tímida.
+Keep the house clean. Bear lots of children. Respect your husband no matter what.=Mantenha a casa limpa. Tenha muitos filhos. Respeite seu marido, não importa o que aconteça.
+Know your place.=Saiba o seu lugar.
+Yamato nadeshiko.=Yamato nadeshiko.
+It's often said that this type of woman is going extinct...=Dizem frequentemente que esse tipo de mulher está indo à extinção...
+...that it's rare to find a woman who embodies those traits in this day and age.=...que é raro encontrar uma mulher que personifique essas características nos dias de hoje.
+But, there's one girl at Akademi who fits that description perfectly.=Mas, há uma garota na Akademi que se encaixa perfeitamente nessa descrição.
+The most popular girl in school. Every boy wants her. Every girl wants to be her.=A garota mais popular da escola. Todos os meninos a querem. Todas as meninas querem ser ela.
+Even my Senpai has fallen under her spell.=Até meu Senpai se deixou levar por seu encanto.
+Well, it's time to break the spell that this witch has cast over the school.=Bem, é hora de quebrar o feitiço que essa bruxa lançou sobre a escola.
+I'd like to stain her perfect reputation... and turn her adoring fans into her enemies.=Eu gostaria de manchar sua reputação perfeita... e transformar seus fãs adoradores em inimigos.
+
+Sometimes, when I'm following my Senpai home from school...=Às vezes, quando estou seguindo meu Senpai para casa depois da escola...  
+...I notice that he likes to buy certain magazines from convenience stores.=...eu percebo que ele gosta de comprar certas revistas em lojas de conveniência.  
+Magazines featuring... "gravure idols."=Revistas que apresentam... "ídolos gravure."
+Attractive young women who strike provocative poses in revealing outfits.=Mulheres jovens e atraentes que fazem poses provocantes com roupas reveladoras.
+He's a big fan of one girl in particular.=Ele é um grande fã de uma garota em particular.  
+Since her debut, he's bought every magazine with even a single photo of her.=Desde a estreia dela, ele comprou todas as revistas que têm pelo menos uma foto dela.  
+And...=E...  
+...she just transferred into Akademi.=...ela acabou de se transferir para a Akademi.  
+Most of the school's male population are already completely infatuated with her...=A maior parte da população masculina da escola já está completamente encantada por ela...  
+They follow her around school like a pack of pathetic, lovesick puppy dogs...=Eles a seguem pela escola como um bando de patéticos cães apaixonados...  
+...and my Senpai is among them.=...e meu Senpai é um deles.  
+As much as I'd love to carve a hole in her heart...=Por mais que eu adorasse abrir um buraco em seu coração...  
+...it might be difficult with so many witnesses surrounding her at all times.=...pode ser difícil com tantos testemunhas ao redor dela o tempo todo.  
+Perhaps the best way to deal with her is to set her up with another boy...=Talvez a melhor maneira de lidar com ela seja juntá-la com outro garoto...  
+...after all, it's not like it's going to be difficult to find a volunteer.=...afinal, não parece que será difícil encontrar um voluntário.  
+第10週  
+...I've been trying to avoid acknowledging him, but...=...eu tenho tentado evitar reconhecê-lo, mas...  
+...at this point in time, that's just not possible anymore.=...neste momento, isso já não é mais possível.  
+The man in the trenchcoat. The... investigative journalist.=O homem de trench coat. O... jornalista investigativo.  
+He finally made his move.=Ele finalmente fez seu movimento.  
+For months now, he's been obsessed with investigating Akademi...=Há meses, ele está obcecado em investigar a Akademi...  
+...but the headmaster has always refused him entry into the school.=...mas o diretor sempre se recusou a deixá-lo entrar na escola.  
+Up until now, that was enough to stop him. But, recently...=Até agora, isso foi suficiente para detê-lo. Mas, recentemente...  
+...he found a loophole.=...ele encontrou uma brecha.  
+Apparently, he's had an "apprentice" for a while now. She's a junior detective...=Aparentemente, ele teve uma "aprendiz" por um tempo. Ela é uma detetive júnior...  
+...and a former student of Akademi.=...e uma ex-aluna da Akademi.  
+Back when she was attending school here, she did something extraordinary...=Quando ela estava na escola aqui, ela fez algo extraordinário...  
+...she solved a high-profile murder mystery that the police were struggling with.=...ela resolveu um mistério de assassinato de alto perfil que a polícia estava tendo dificuldades para solucionar.  
+That accomplishment turned her into a national celebrity almost overnight.=Esse feito a transformou em uma celebridade nacional quase da noite para o dia.  
+There was nothing more for her to gain from remaining enrolled in Akademi, so...=Não havia mais nada a ganhar permanecendo matriculada na Akademi, então...  
+...she left without graduating, and quickly began a career as a junior detective.=...ela saiu sem se formar e rapidamente começou uma carreira como detetive júnior.  
+And now, one year later... she's back.=E agora, um ano depois... ela está de volta.  
+She claims that she's here to finish her degree...=Ela afirma que está aqui para terminar seu diploma...  
+...but I can tell that there's more to the story than that.=...mas eu sei que há mais nessa história do que isso.  
+Her mentor - that journalist - is firmly determined to investigate Akademi...=Seu mentor - aquele jornalista - está firmemente determinado a investigar a Akademi...  
+...clearly, he must have asked his apprentice to return here to be his eyes and ears.=...claramente, ele deve ter pedido a sua aprendiz para voltar aqui para ser seus olhos e ouvidos.  
+The two of them have been interviewing students, and they've learned something:=Os dois têm entrevistado alunos e aprenderam algo:  
+Things tend to happen to girls who have a crush on a certain boy at school...=Coisas tendem a acontecer com garotas que estão apaixonadas por um certo garoto na escola...  
+...my Senpai.=...meu Senpai.  
+He's become a "person of interest" to them...=Ele se tornou uma "pessoa de interesse" para eles...  
+...and now, that junior detective girl is investigating him.=...e agora, aquela garota detetive júnior está investigando-o.  
+Following him everywhere... talking to him all the time...=Seguindo-o por toda parte... falando com ele o tempo todo...  
+...and lately, she's been getting a bit too friendly with him.=...e ultimamente, ela tem se tornado um pouco amigável demais com ele.  
+...it's enough to make my blood boil.=...isso é o suficiente para me deixar furiosa.  
+But, as much as I would love to sink a knife into her heart...=Mas, por mais que eu adorasse enfiar uma faca em seu coração...  
+...a violent approach might be a bad decision this time around.=...uma abordagem violenta pode não ser uma boa decisão desta vez.  
+She's convinced a bunch of students to patrol the hallways with cameras...=Ela convenceu um grupo de alunos a patrulhar os corredores com câmeras...  
+...right now, the slightest mistake could cost me everything.=...neste momento, o menor erro poderia me custar tudo.  
+This girl... she's probably the most dangerous enemy I've faced so far...=Essa garota... ela é provavelmente a inimiga mais perigosa que enfrentei até agora...  
+...but... if I could somehow manage to befriend her and put her in debt to me... =...mas... se eu conseguisse de alguma forma me tornar amiga dela e fazê-la ficar em dívida comigo...  
+...she could be a powerful ally.=...ela poderia ser uma aliada poderosa.  
 
 ラスト
-The past eleven weeks have challenged me in every way possible...=この11週間は苦難の連続だったわ...
-...but, despite everything, I've still managed to defeat every one of my adversaries.=...でも、全部乗り越えることができた。
-These experiences have made me stronger. Braver.=お陰で自信と勇気が出てきたわ。
-I think... I've finally found the courage to talk to him...=ついにセンパイに話しかける勇気が出た...
-...to tell him how I feel.=...今なら、想いを伝えられる。
-When I confess my feelings to him... it has to be special... it has to be perfect!=特別で完璧な告白にしなくちゃ！
-I don't believe in the myth about the cherry tree behind the school...=校舎裏の桜の木の伝説なんて信じてないけど...
-...but I can't think of any place more appropriate for my confession.=...告白にはうってつけね。
-Today... I'm going to tell him today.=今日よ...今日、告白するわ。
-Senpai... please accept my feelings!=センパイ...私の想いを受け入れて！
+The past eleven weeks have challenged me in every way possible...=As últimas onze semanas me desafiaram de todas as maneiras possíveis...  
+...but, despite everything, I've still managed to defeat every one of my adversaries.=...mas, apesar de tudo, consegui derrotar cada um dos meus adversários.  
+These experiences have made me stronger. Braver.=Essas experiências me tornaram mais forte. Mais corajosa.  
+I think... I've finally found the courage to talk to him...=Eu acho... que finalmente encontrei coragem para falar com ele...  
+...to tell him how I feel.=...para contar a ele como me sinto.  
+When I confess my feelings to him... it has to be special... it has to be perfect!=Quando eu confessar meus sentimentos a ele... tem que ser especial... tem que ser perfeito!  
+I don't believe in the myth about the cherry tree behind the school...=Eu não acredito no mito sobre a árvore de cerejeira atrás da escola...  
+...but I can't think of any place more appropriate for my confession.=...mas não consigo pensar em lugar mais apropriado para minha confissão.  
+Today... I'm going to tell him today.=Hoje... eu vou contar a ele hoje.  
+Senpai... please accept my feelings!=Senpai... por favor, aceite meus sentimentos!  
 
 新聞
 Hello, students of Akademi! This is Shinako Bunzai, the President of the Newspaper Club, bringing you the very first issue of Akademi Daily!\n\nEvery day, the latest edition of our newspaper will be posted here for all to see. We have five writers - including myself - dedicated to bringing you the latest news!\n\nMy column, "Our School," will be all about the wonderful institution you're standing in right now - Akademi! Check back every day for interesting facts and trivia about this fine center of education!\n\nI'm looking forward to sharing a wonderful school year with you all!=Olá, alunos da Akademi! Sou Shinako Bunzai, a Presidente do Clube de Jornalismo, trazendo a vocês a primeira edição do Akademi Daily!\n\nTodos os dias, a edição mais recente do nosso jornal será postada aqui para todos verem. Temos cinco escritores - incluindo eu mesma - dedicados a trazer as últimas notícias!\n\nMinha coluna, "Nossa Escola", será sobre a maravilhosa instituição em que vocês estão agora - Akademi! Voltem todos os dias para conferir fatos e curiosidades interessantes sobre este excelente centro de educação!\n\nEstou ansiosa para compartilhar um ano escolar maravilhoso com todos vocês!
@@ -12761,6 +12699,13 @@ Go Outside=Sair
 Bring Carrots To School=Levar cenouras para a escola
 Hardware Menu=Menu de hardware
 Would you like to load these carrots into a duffel bag and bring them to school now?=Você gostaria de colocar essas cenouras em uma sacola e levá-las para a escola agora?
+An axe can be used as a heavy bludgeoning weapon. It currently has no other utility.=Um machado pode ser usado como uma arma pesada. Atualmente, não tem outra utilidade.
+A shovel can be used to bury corpses in the Gardening Club.=Uma pá pode ser usada para enterrar cadáveres no clube de jardinagem.
+A pickaxe can be used as a heavy bludgeoning weapon. It currently has no other utility.=Uma picareta pode ser usada como uma arma pesada. Atualmente, não tem outra utilidade.
+A crowbar can be used to remove a manhole cover.=Um pé de cabra pode ser usado para remover uma tampa de bueiro.
+A scythe can be used as a weapon. It currently has no other utility.=Uma foice pode ser usada como arma. Atualmente, não tem outra utilidade.
+Sorry! This weapon is not available yet.=Desculpe! Esta arma ainda não está disponível.
+A hammer can be used as a heavy bludgeoning weapon. It currently has no other utility.=Um martelo pode ser usado como uma arma pesada. Atualmente, não tem outra utilidade.
 
 Ayano Comendo
 ...coming soon?=...em breve?
@@ -13334,7 +13279,16 @@ SpawnPointParent=SpawnpointParent
 PyroBarrel=Pirobarrel
 noicesocks=Noicesocks
 CardiganSailorUniformHeadless=Cardigansailoruniform header
-
+Change_Yan_Size=Change_yan_size
+Change_Yan_Hair=Change_yan_hair
+Change_Sanity=Change_sanity
+Change_Game_Speed=Change_game_speed
+Time Speed: 1=Velocidade de tempo: 1
+Time: 7:58 AM=Hora: 7:58
+Time: Enabled=Tempo: ativado
+Time: 7:01 AM=Hora: 7:01
+Noclip: False=Noclip: false
+Time: 7:00 AM=Hora: 7:00
 
 
 
@@ -13516,3 +13470,31 @@ sd
 
 
 
+Freezer Room=Sala do freezerTime Speed: 1=Velocidade de tempo: 1
+Horuda Puresu holds a grudge against group of girls who bullied her, and sometimes creates drawings of those girls dying violently. If I had a photo of her creating these drawings, I could blackmail her. \n\n If you send me a photo of Horuda creating violent illustrations, I'll reward you with 25 Info Points.=Horuda Puresu mantém um rancor contra o grupo de garotas que a intimidou e às vezes cria desenhos daquelas garotas morrendo violentamente. Se eu tivesse uma foto dela criando esses desenhos, eu poderia chantageá -la. \n\n Se você me enviar uma foto de Horuda criando ilustrações violentas, eu o recompensarei com 25 pontos de informação.
+Photo of: Horuda Drawing Gore=Foto de: Horuda desenhando Gore
+Obviously, nobody wants to live in a world where they might be mugged or murdered. Everyone agrees that a world without criminals would be preferable to a world *with* criminals.=Obviamente, ninguém quer viver em um mundo onde eles possam ser assaltados ou assassinados. Todos concordam que um mundo sem criminosos seria preferível a um mundo * com * criminosos.
+First, let's establish something. Would you rather live in a world *with* criminals, or *without* criminals?=Primeiro, vamos estabelecer algo. Você prefere viver em um mundo * com * criminosos, ou * sem * criminosos?
+Well, the *majority* of people aren't criminals...but there are still *enough* criminals to make this world a dangerous place.=Bem, a * maioria * das pessoas não é criminosa ... mas ainda há * criminosos suficientes para tornar este mundo um lugar perigoso.
+Kyuji Konagawa has been following Osana Najimi around school, spying on her for short amounts of time. This makes him seem like a creepy stalker. If I had a photo of him stalking Osana, I could blackmail him. \n\n If you send me a photo of Kyuji stalking Osana, I'll reward you with 25 Info Points.=Kyuji Konagawa acompanha Osana Najimi pela escola, espionando -a por um curto período de tempo. Isso o faz parecer um perseguidor assustador. Se eu tivesse uma foto dele perseguindo Osana, eu poderia chantageá -lo. \n\n Se você me enviar uma foto de Kyuji perseguindo Osana, eu o recompensarei com 25 pontos de informação.
+Photo of: Kyuji Stalking Osana=Foto de: Kyuji perseguindo osana
+Otohiko Meichi always trips and falls on his face near the school gate when he arrives at school around 7:55 AM. If I had a photo of him lying face-first on the ground, I could blackmail him. \n\n If you send me a photo of Otohiko on the ground, I'll reward you with 25 Info Points.=Otohiko Meichi sempre tropeça e cai em seu rosto perto do portão da escola quando ele chega à escola por volta das 7h55. Se eu tivesse uma foto dele deitada de cara no chão, eu poderia chantageá-lo. \n\n Se você me enviar uma foto de Otohiko no chão, eu o recompensarei com 25 pontos de informação.
+Hazu Kashibuchi's father strongly disapproves of Hazu's feminine hobbies, and would be outraged if he knew that Hazu spends most of his time at school practicing sewing. If I had a photo of him sewing, I could blackmail him. \n\n If you send me a photo of Hazu sewing in the sewing room, I'll reward you with 25 Info Points.=O pai de Hazu Kashibuchi desaprova fortemente os hobbies femininos de Hazu, e ficaria indignado se soubesse que Hazu passa a maior parte do tempo na escola praticando costura. Se eu tivesse uma foto dele costurando, poderia chantageá -lo. \n\n Se você me enviar uma foto de Hazu costura na sala de costura, eu o recompensarei com 25 pontos de informação.
+Photo of: Hazu Sewing Clothes=Foto de: roupas de costura Hazu
+Toga Tabara is a virtuous young man with strong morals. If I had a photo of him doing something immoral, I could blackmail him. Maybe you could use a radio (or some other distraction) to lure him near one of the windows behind the girls' shower building so that we can frame him as a pervert. \n\n If you send me a photo that makes Toga look like he's creeping around behind the girls' shower building, I'll reward you with 25 Info Points.=Toga Tabara é um jovem virtuoso com moral forte. Se eu tivesse uma foto dele fazendo algo imoral, eu poderia chantageá -lo. Talvez você possa usar um rádio (ou alguma outra distração) para atraí -lo perto de uma das janelas atrás do prédio das meninas para que possamos enquadrá -lo como um pervertido. \n\n Se você me enviar uma foto que faz toga parecer que ele está rastejando atrás do prédio do chuveiro para meninas, eu o recompensarei com 25 pontos de informação.
+No offense, but I already followed you a couple of times today, and it was just a waste of time...=Sem ofensa, mas eu já te segui algumas vezes hoje, e foi apenas uma perda de tempo ...
+Wears contact lenses. \n \n Enjoys spending time with her older sister. \n \n Rumored to be a vampire disguising herself as a human...but only a fool would believe something like that.=Usa lentes de contato. \n \n Gosta de passar um tempo com sua irmã mais velha. \n \n Rumores de ser um vampiro se disfarçando de humano ... mas apenas um tolo acreditaria em algo assim.
+Wears contact lenses. \n \n Enjoys spending time with her younger sister. \n \n Rumored to be a succubus disguising herself as a human...but only a fool would believe something like that.=Usa lentes de contato. \n \n Gosta de passar um tempo com sua irmã mais nova. \n \n Rumores de ser um succubus se disfarçando de humano ... mas apenas um tolo acreditaria em algo assim.
+President of the Martial Arts Club. Inherited the club after defeating the previous president. \n \n Seems to be incapable of turning down a challenge. \n \n Always gung ho and enthusiastic. Sometimes a bit overzealous, especially about martial arts.=Presidente do Clube de Artes Marciais. Herdou o clube depois de derrotar o presidente anterior. \n \n Parece ser incapaz de recusar um desafio. \n \n Sempre entusiasmado e entusiasmado. Às vezes, um pouco zeloso, especialmente sobre artes marciais.
+Made national news earlier this year when he defended a woman who was being mugged by a group of three men, and carried her to a hospital afterwards. \n \n Currently regarded as Budo's most promising disciple.=Fez notícias nacionais no início deste ano, quando ele defendeu uma mulher que estava sendo assaltada por um grupo de três homens e a levou para um hospital depois. \n \n Atualmente considerado o discípulo mais promissor de Budo.
+Wanted to start a wrestling club, but couldn't gather enough members. Settled for joining the Martial Arts Club. \n \n Aspires to become a professional wrestler. Constantly frustrates Budo by choosing to do flashy wrestling moves instead of using proper martial arts techniques.=Queria começar um clube de luta livre, mas não conseguia reunir membros suficientes. Decidiu ingressar no clube de artes marciais. \n \n Aspira a se tornar um lutador profissional. Constantemente frustra o Budo, escolhendo fazer movimentos chamativos de luta livre em vez de usar técnicas adequadas de artes marciais.
+Fanatically obsessed with martial arts films since childhood. Joined the Martial Arts Club to be more like his heroes. \n \n Primarily interested in re-enacting moves from his favorite films, rather than actually developing proper self-defense skills.=Fanaticamente obcecado por filmes de artes marciais desde a infância. Juntou -se ao clube de artes marciais para ser mais parecido com seus heróis. \n \n Principalmente interessado em reencenar movimentos de seus filmes favoritos, em vez de realmente desenvolver habilidades adequadas de autodefesa.
+Shrine maiden at a local shrine. Comes from a very traditional family, and adheres to the Shinto belief system. \n \n Ever since her shrine was threatened by thugs, she has been determined to develop martial arts skills in case it becomes necessary to protect herself or her shrine.=Santuário donzela em um santuário local. Vem de uma família muito tradicional e adere ao sistema de crenças xintoístas. \n \n Desde que seu santuário foi ameaçado por bandidos, ela está determinada a desenvolver habilidades de artes marciais, caso se torne necessário proteger a si mesma ou ao santuário.
+An average student. \n \n Average grades, average looks, average life... \n \n I'm not sure what you see in him.=Um aluno comum. \n \n Notas médias, aparência média, vida média ... \n \n Não tenho certeza do que você vê nele.
+Senpai's childhood friend.\n\n?????\n\n?????=Amigo de infância de Senpai.\n\n?????\n\n?????
+What...in...blazes are you doing?=O que...em...nome de Deus você está fazendo?
+Are you trying to re-enact something you saw in a video game?=Você está tentando reencenar algo que viu em um videogame?
+Ugh, do you really think such a stupid ploy is going to work?=Ugh, você realmente acha que uma jogada tão estúpida vai funcionar?
+I know who you are. It's obvious. You're not fooling anyone.=Eu sei quem você é. Está na cara. Você não está enganando ninguém.
+I don't have time for this tomfoolery. Leave at once!=Não tenho tempo para essa palhaçada. Saia imediatamente!
+r:"^(?<name>[A-Z][a-z]+ [A-Z][a-z]+) dismantled tripwire trap!=${name} desmontou Tripwire Trap!
